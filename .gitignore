@@ -1,0 +1,33 @@
+# Jekyll build output
+_site/
+
+# Cache files
+.jekyll-cache/
+.sass-cache/
+
+# Logs and temp files
+*.log
+*.tmp
+*.pid
+*.gem
+
+# Bundler dependencies
+vendor/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Node.js dependencies (if using Tailwind or other npm packages)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Jekyll configuration backups
+_config.yml~
+_config.toml~
