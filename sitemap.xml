@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:36705/categories/</loc>
+    <loc>https://leavex.eu/categories/</loc>
   </url><url>
-    <loc>http://localhost:36705/</loc>
+    <loc>https://leavex.eu/</loc>
   </url><url>
-    <loc>http://localhost:36705/tags/</loc>
+    <loc>https://leavex.eu/tags/</loc>
   </url>
 </urlset>

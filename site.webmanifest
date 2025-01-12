@@ -1,7 +1,7 @@
 {
     "name": "Leave X - Protect Democracy",
     "short_name": "Leave X - Protect Democracy",
-    "start_url": "http://localhost:36705/",
+    "start_url": "https://leavex.eu/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
