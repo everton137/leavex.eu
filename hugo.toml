@@ -6,7 +6,7 @@ title = 'Leave X - Protect Democracy'
 defaultContentLanguage = "en-gb"
 
 # traditional way: theme component resides in directory 'themes' 
-theme = "hugo-blog-awesome"
+# theme = "hugo-blog-awesome"
 
 [module]
   [[module.imports]]
