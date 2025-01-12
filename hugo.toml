@@ -2,6 +2,39 @@ baseURL = 'https://leavex.eu/'
 languageCode = 'en-us'
 title = 'Leave X - Protect Democracy'
 
+# This defines how dates are formatted
+defaultContentLanguage = "en-gb"
+
+# traditional way: theme component resides in directory 'themes' 
+theme = "hugo-blog-awesome"
+
 [module]
   [[module.imports]]
     path = "github.com/hugo-sid/hugo-blog-awesome"
+
+
+############################## English language ################################
+[Languages.en-gb]
+  languageName = "English"
+  languageCode = "en-gb"
+  contentDir = "content/en"
+  weight = 1
+
+  [Languages.en-gb.menu]
+  [[Languages.en-gb.menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  # [[Languages.en-gb.menu.main]]
+  #   pageRef="posts"
+  #   name = 'Posts'
+  #   url = '/posts/'
+  #   weight = 20
+  # [[Languages.en-gb.menu.main]]
+  #   pageRef="about"
+  #   name = 'About'
+  #   url = '/about/'
+  #   weight = 30
