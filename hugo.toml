@@ -1,0 +1,7 @@
+baseURL = 'https://leavex.eu/'
+languageCode = 'en-us'
+title = 'Leave X - Protect Democracy'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"

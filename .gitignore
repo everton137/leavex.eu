@@ -1,33 +1,37 @@
-# Jekyll build output
-_site/
+# Hugo Build Files
+/public/
+/resources/
+hugo_stats.json
 
-# Cache files
-.jekyll-cache/
-.sass-cache/
-
-# Logs and temp files
+# Temporary files
 *.log
+*.bak
+*.swp
 *.tmp
-*.pid
-*.gem
 
-# Bundler dependencies
-vendor/
-
-# OS-specific files
+# Operating System Files
 .DS_Store
 Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-# IDE/Editor specific files
-.vscode/
+# Editor Files
 .idea/
-*.swp
+.vscode/
+*.sublime-workspace
+*.sublime-project
 
-# Node.js dependencies (if using Tailwind or other npm packages)
+# Node.js Dependencies (if using npm or Tailwind)
 node_modules/
 package-lock.json
 yarn.lock
+pnpm-lock.yaml
 
-# Jekyll configuration backups
-_config.yml~
-_config.toml~
+# Hugo Config Files (if customized for local use)
+config.toml.backup
+config.yaml.backup
+config.json.backup
+
+# Deployment-related
+.deploy/
+.cache/
