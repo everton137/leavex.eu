@@ -1,2 +1,2 @@
-# leavex.eu
-Website leavex.eu
+# About
+Website [leavex.eu](https://leavex.eu) that will host the petition (https://openpetition.eu/leavex) and translations into several EU languages.
