@@ -12,6 +12,14 @@ defaultContentLanguage = "en-gb"
   [[module.imports]]
     path = "github.com/hugo-sid/hugo-blog-awesome"
 
+[params.author]
+background = "leave_x_banne.png" # Path to your avatar image (relative to the 'static' folder)
+name = "Leave X"
+intro = "An Open Letter to All European Politicians and Leaders to Abandon X/Twitter"
+par1 = "This petition is vital because European politicians' use of X/Twitter legitimizes a platform increasingly manipulated for biased agendas under Elon Musk’s ownership. Reports highlight how disinformation and polarizing content thrive on X, undermining trust and democratic values."
+par2 = "By abandoning X/Twitter, leaders can reduce its credibility, promote fairer alternatives, and take a stand against the spread of disinformation, ensuring democratic principles are upheld."
+
+
 
 ############################## English language ################################
 [Languages.en-gb]
@@ -19,6 +27,15 @@ defaultContentLanguage = "en-gb"
   languageCode = "en-gb"
   contentDir = "content/en"
   weight = 1
+
+[Languages.en-gb.params]
+  sitename = "Awesome hugo blog"
+  defaultColor = "dark" # set color mode: dark, light, auto
+  # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
+  # the default value is set to 'auto'.
+  # You can take a look at layouts/index.html for more information.
+  description = "Minimal Hugo blog theme with light and dark mode support"
+
 
   [Languages.en-gb.menu]
   [[Languages.en-gb.menu.main]]
