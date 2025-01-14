@@ -1,9 +1,9 @@
 {
-    "name": "Leave X - Protect Democracy",
-    "short_name": "Leave X - Protect Democracy",
+    "name": "Awesome hugo blog",
+    "short_name": "Awesome hugo blog",
     "start_url": "https://leavex.eu/",
     "theme_color": "#434648",
-    "background_color": "#ffffff",
+    "background_color": "#131418",
     "display": "standalone",
     "icons": [
         {
