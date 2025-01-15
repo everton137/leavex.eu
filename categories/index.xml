@@ -4,7 +4,8 @@
     <title>Categories on Leave X - Protect Democracy</title>
     <link>https://leavex.eu/categories/</link>
     <description>Recent content in Categories on Leave X - Protect Democracy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://leavex.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://leavex.eu/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
