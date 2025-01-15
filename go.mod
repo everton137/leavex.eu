@@ -1,5 +1,5 @@
-module github.com/USER/REPO
+module github.com/everton137/leavex.eu
 
 go 1.22.10
 
-require github.com/hugo-sid/hugo-blog-awesome v1.19.0 // indirect
+require github.com/jpanther/congo/v2 v2.10.0 // indirect
