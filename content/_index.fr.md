@@ -10,7 +10,7 @@ En tant que l'une des plateformes de médias sociaux les plus visitées au monde
 
 L'utilisation continue de X/Twitter par les dirigeants politiques européens donne involontairement de la crédibilité à une plateforme de plus en plus utilisée pour amplifier les discours de division et les intérêts individuels. Ce faisant, ils laissent les groupes marginalisés - qu'ils représentent - sans autre choix que de s'engager dans un environnement hostile pour faire entendre leur voix, manquant ainsi à leur devoir de protéger et de responsabiliser tous les électeurs et sapant en fin de compte l'intégrité démocratique.
 
-Nous vous demandons instamment de prendre position contre cette évolution inquiétante en adoptant un acte simple mais puissant : cesser d'utiliser X/Twitter comme moyen de communication politique et supprimer ou désactiver tout compte officiel sur la plateforme. Ce geste symbolique permettrait :
+Nous vous demandons instamment de prendre position contre cette évolution inquiétante en adoptant un acte simple mais puissant : cesser d'utiliser X/Twitter comme moyen de communication politique et supprimer ou désactiver tout compte officiel sur la plateforme. Ce geste symbolique permettrait de :
 
 1. Saper la crédibilité (déjà compromise) de X/Twitter, obligeant les individus à rechercher des sources d'information plus fiables et plus responsables.
 1. Encourager l'utilisation et le développement de plateformes alternatives qui s'alignent sur les valeurs européennes de responsabilité et d'équité.
