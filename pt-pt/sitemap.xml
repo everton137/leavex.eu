@@ -43,6 +43,16 @@
               />
             <xhtml:link
               rel="alternate"
+              hreflang="pl"
+              href="https://leavex.eu/pl/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="sv"
+              href="https://leavex.eu/sv/"
+              />
+            <xhtml:link
+              rel="alternate"
               hreflang="pt-pt"
               href="https://leavex.eu/pt-pt/"
               />

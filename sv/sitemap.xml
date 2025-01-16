@@ -6,7 +6,7 @@
   
     
       <url>
-            <loc>https://leavex.eu/fr/</loc>
+            <loc>https://leavex.eu/sv/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -16,6 +16,11 @@
               rel="alternate"
               hreflang="de"
               href="https://leavex.eu/de/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/"
               />
             <xhtml:link
               rel="alternate"
@@ -44,18 +49,13 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="sv"
-              href="https://leavex.eu/sv/"
-              />
-            <xhtml:link
-              rel="alternate"
               hreflang="pt-pt"
               href="https://leavex.eu/pt-pt/"
               />
             <xhtml:link
               rel="alternate"
-              hreflang="fr"
-              href="https://leavex.eu/fr/"
+              hreflang="sv"
+              href="https://leavex.eu/sv/"
               />
           </url>
     
