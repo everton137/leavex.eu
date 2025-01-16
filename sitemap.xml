@@ -17,6 +17,26 @@
   </sitemap>
   
   <sitemap>
+    <loc>https://leavex.eu/it/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://leavex.eu/es/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://leavex.eu/nl/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://leavex.eu/fi/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
     <loc>https://leavex.eu/pt-pt/sitemap.xml</loc>
     
       <lastmod>2025-01-16T00:00:00+00:00</lastmod>

@@ -19,6 +19,26 @@
               />
             <xhtml:link
               rel="alternate"
+              hreflang="it"
+              href="https://leavex.eu/it/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="nl"
+              href="https://leavex.eu/nl/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fi"
+              href="https://leavex.eu/fi/"
+              />
+            <xhtml:link
+              rel="alternate"
               hreflang="pt-pt"
               href="https://leavex.eu/pt-pt/"
               />

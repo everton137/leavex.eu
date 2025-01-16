@@ -4,8 +4,7 @@
   
     
       <url>
-            <loc>https://leavex.eu/pt-pt/</loc>
-            <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+            <loc>https://leavex.eu/es/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -28,11 +27,6 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="es"
-              href="https://leavex.eu/es/"
-              />
-            <xhtml:link
-              rel="alternate"
               hreflang="nl"
               href="https://leavex.eu/nl/"
               />
@@ -45,6 +39,11 @@
               rel="alternate"
               hreflang="pt-pt"
               href="https://leavex.eu/pt-pt/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/"
               />
           </url>
     
