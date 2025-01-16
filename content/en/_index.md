@@ -1,6 +1,7 @@
 ---
 title: "An Open Letter to All European Politicians and Leaders to Abandon X/Twitter"
 description: "Protect Democracy"
+date: 2025-01-16
 ---
 
 **European Politicians and Leaders Must Act Now to Protect Democracy**
