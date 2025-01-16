@@ -1,32 +1,3 @@
-baseURL = 'https://leavex.eu'
-languageCode = 'en'
-title = 'Leave X - Protect Democracy'
 
 
-
-[module]
-    [[module.imports]]
-    path = "github.com/jpanther/congo/v2"
-
-[params]
-    homepage.layout = "page"
-    colorScheme = "fire"
-
-[languages]
-    [languages.en]
-        title = "Leave X - Protect Democracy"
-        languageName = "English"
-        weight = 1
-    [languages.de]
-        title = "Verlasse X - Schütze die Demokratie"
-        languageName = "Deutsch"
-        weight = 2
-    [languages.fr]
-        title = "Congé X - Protéger la Démocratie"
-        languageName = "Français"
-        weight = 3
-    [languages.pt]
-        title = "Deixe o X - Proteja a Democracia"
-        languageName = "Português"
-        weight = 4
 

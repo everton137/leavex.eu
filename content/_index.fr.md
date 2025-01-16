@@ -1,7 +1,5 @@
 ---
 title: "Lettre ouverte à tous les hommes politiques et dirigeants européens pour qu'ils abandonnent X/Twitter"
-description: "Protéger la Démocratie"
-date: 2025-01-16
 ---
 
 **Les hommes politiques et les dirigeants européens doivent agir maintenant pour protéger la démocratie**

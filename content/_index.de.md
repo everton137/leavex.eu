@@ -1,7 +1,5 @@
 ---
 title: "Ein offener Brief an alle europäischen Politiker und Führungskräfte zur Abkehr von X/Twitter"
-description: "Schutz der Demokratie"
-date: 2025-01-16
 ---
 
 **Europäische Politiker und führende Persönlichkeiten müssen jetzt handeln, um die Demokratie zu schützen**
