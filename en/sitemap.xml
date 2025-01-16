@@ -5,6 +5,7 @@
     
       <url>
             <loc>https://leavex.eu/</loc>
+            <lastmod>2025-01-16T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="de"
@@ -25,6 +26,33 @@
               hreflang="en"
               href="https://leavex.eu/"
               />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/de/</loc>
+            <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/fr/</loc>
+            <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/pt/</loc>
+            <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/en/</loc>
           </url>
     
   
