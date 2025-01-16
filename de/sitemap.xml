@@ -5,8 +5,6 @@
     
   
     
-  
-    
       <url>
             <loc>https://leavex.eu/de/</loc>
             <xhtml:link
@@ -21,8 +19,8 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="pt"
-              href="https://leavex.eu/pt/"
+              hreflang="pt-pt"
+              href="https://leavex.eu/pt-pt/"
               />
             <xhtml:link
               rel="alternate"
@@ -30,6 +28,8 @@
               href="https://leavex.eu/de/"
               />
           </url>
+    
+  
     
   
 </urlset>

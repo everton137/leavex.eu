@@ -3,10 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
       <url>
-            <loc>https://leavex.eu/pt/</loc>
+            <loc>https://leavex.eu/pt-pt/</loc>
+            <lastmod>2025-01-16T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -24,10 +23,12 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="pt"
-              href="https://leavex.eu/pt/"
+              hreflang="pt-pt"
+              href="https://leavex.eu/pt-pt/"
               />
           </url>
+    
+  
     
   
     
