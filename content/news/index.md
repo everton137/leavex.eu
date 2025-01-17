@@ -11,5 +11,13 @@ cascade:
 The latest updates, media coverage, and opinion pieces supporting the movement to abandon X/Twitter.
 
 * [Brussels orders X to hand over documents on algorithm](https://www.ft.com/content/a6dc562c-4fa0-4ec6-9f3a-ad3be594bc7c) (_Financial Times - 17.01.2025_)
+* [Collective marches called in several countries to leave X on Trump's inauguration day](https://www.lamarea.com/2025/01/17/convocadas-en-varios-paises-marchas-colectivas-de-x-el-20-de-enero-dia-de-la-investidura-de-trump/) [es] (_La Marea - 17.01.2025_)
+* [The Federal Environment Ministry of Germany no longer wants to use X](https://www.tagesschau.de/inland/ministerien-verlassen-x-100.html) [de] (_tagesschau - 17.01.2025_)
+* [Au revoir de Paris, X !](https://www.politico.eu/article/emmanuel-macron-france-paris-donald-trump-x-social-media-weapons-intelligence/) (_Politico - 16.01.2025_)
+* [The Institut Pasteur has decided to leave X because of several serious abuses observed on the platform](https://www.pasteur.fr/en/home/press-area/press-documents/institut-pasteur-decides-leave-x) (_press release - 16.01.2025_)
+* [The Lower Saxony state parliament stops activities on X](https://www.ndr.de/nachrichten/niedersachsen/Plattform-X-Niedersaechsischer-Landtag-stellt-Aktivitaeten-ein,landtag6584.html) [de] (_NDR - 16.01.2025_)
+* [German army deserts X as Berlin vs. Elon Musk feud rumbles on](https://www.politico.eu/article/german-army-deserts-x-feud-between-berlin-elon-musk-afd/) (_Politico - 15.01.2025_)
 * [French group encourages mass departure from Elon Musk's X platform on US inauguration day](https://www.euronews.com/next/2025/01/15/french-group-encourages-mass-departure-from-elon-musks-x-platform-on-us-inauguration-day) (_Euronews - 15.01.2025_)
+* [The Greens will be the first party to leave the messaging service X](https://www.sttinfo.fi/tiedote/70809667/vihreat-poistuu-ensimmaisena-puolueena-viestipalvelu-xsta-nain-puheenjohtaja-sofia-virta-perustelee-paatosta?publisherId=69818932) [fi] (_STT - 13.01.2025_)
+* [Polish presidential candidates discuss EU-wide restriction of X](https://www.euractiv.com/section/politics/news/polish-presidential-candidates-discuss-eu-wide-restriction-of-x/) (_Euractiv - 13.01.2025_)
 * [Why EU leaders should get off Musk's X](https://euobserver.com/EU%20&%20the%20World/ar1eb43d53), by Andrew Rettman (_EUobserver - 03.11.2024_)
