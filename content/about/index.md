@@ -14,7 +14,7 @@ The letter articulates the core message and reasoning behind this initiative. Ho
 
 * **Gather in-person signatures** to demonstrate widespread support.
 * **Contact politicians and leaders directly** to advocate for meaningful action.
-* **Raise awareness** about the dangers of _disinformation campaign_ and its impact on democratic societies.
+* **Raise awareness** of the dangers of _disinformation campaigns_ and their impact on democratic societies.
 * **Connect with like-minded groups, movements, and individuals** who share a commitment to protecting democracy and promoting transparent, ethical communication.
 
 ![Leave X - Protect Democracy](leave_x_banner.png)
