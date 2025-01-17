@@ -8,7 +8,7 @@ cascade:
   showReadingTime: false
 ---
 
-This website serves as the central platform for hosting [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](../), along with translations into various official European languages.
+This website serves as the central platform for hosting **#LeaveX**, [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](../), along with translations into various official European languages.
 
 The letter articulates the core message and reasoning behind this initiative. However, the vision extends far beyond online engagement. Through this platform, we aim to:
 

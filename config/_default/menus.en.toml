@@ -4,7 +4,12 @@
   weight = 10
 
 [[main]]
+  name = "Network"
+  pageRef = "network"
+  weight = 20
+
+[[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 30
 
