@@ -1,0 +1,10 @@
+[[main]]
+  name = "Réseau"
+  pageRef = "network"
+  weight = 20
+
+[[main]]
+  name = "À propos"
+  pageRef = "about"
+  weight = 30
+  

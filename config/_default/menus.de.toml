@@ -1,0 +1,9 @@
+[[main]]
+  name = "Netzwerk"
+  pageRef = "network"
+  weight = 20
+
+[[main]]
+  name = "Über uns"
+  pageRef = "about"
+  weight = 30
