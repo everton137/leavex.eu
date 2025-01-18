@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>https://leavex.eu/fr/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="https://leavex.eu/de/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/about/"
+              />
+          </url>
+    
+  
+    
   
     
       <url>
@@ -56,6 +77,27 @@
               rel="alternate"
               hreflang="fr"
               href="https://leavex.eu/fr/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/fr/network/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/network/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="https://leavex.eu/de/network/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/network/"
               />
           </url>
     

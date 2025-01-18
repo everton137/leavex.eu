@@ -61,5 +61,47 @@
     
   
     
+      <url>
+            <loc>https://leavex.eu/de/network/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/network/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/network/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="https://leavex.eu/de/network/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/de/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="https://leavex.eu/de/about/"
+              />
+          </url>
+    
   
 </urlset>

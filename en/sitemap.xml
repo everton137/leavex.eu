@@ -5,6 +5,21 @@
     
       <url>
             <loc>https://leavex.eu/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="https://leavex.eu/de/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/about/"
+              />
           </url>
     
   
@@ -69,6 +84,21 @@
     
       <url>
             <loc>https://leavex.eu/network/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="https://leavex.eu/de/network/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/network/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/network/"
+              />
           </url>
     
   
