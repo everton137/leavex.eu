@@ -11,6 +11,7 @@ cascade:
 The latest updates, media coverage, and opinion pieces supporting the movement to abandon X/Twitter.
 
 * [Brussels orders X to hand over documents on algorithm](https://www.ft.com/content/a6dc562c-4fa0-4ec6-9f3a-ad3be594bc7c) (_Financial Times - 17.01.2025_)
+* [Germany’s leader says Musk’s support for European far-right is ‘completely unacceptable’](https://apnews.com/article/germany-scholz-elon-musk-far-right-afd-95cc5325bde8f5a0065da9dad98da926) (_AP - 17.01.2025_)
 * [Collective marches called in several countries to leave X on Trump's inauguration day](https://www.lamarea.com/2025/01/17/convocadas-en-varios-paises-marchas-colectivas-de-x-el-20-de-enero-dia-de-la-investidura-de-trump/) [es] (_La Marea - 17.01.2025_)
 * [The Federal Environment Ministry of Germany no longer wants to use X](https://www.tagesschau.de/inland/ministerien-verlassen-x-100.html) [de] (_tagesschau - 17.01.2025_)
 * [Au revoir de Paris, X !](https://www.politico.eu/article/emmanuel-macron-france-paris-donald-trump-x-social-media-weapons-intelligence/) (_Politico - 16.01.2025_)
@@ -20,4 +21,5 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * [French group encourages mass departure from Elon Musk's X platform on US inauguration day](https://www.euronews.com/next/2025/01/15/french-group-encourages-mass-departure-from-elon-musks-x-platform-on-us-inauguration-day) (_Euronews - 15.01.2025_)
 * [The Finnish Green Party will be the first party to leave the messaging service X](https://www.sttinfo.fi/tiedote/70809667/vihreat-poistuu-ensimmaisena-puolueena-viestipalvelu-xsta-nain-puheenjohtaja-sofia-virta-perustelee-paatosta?publisherId=69818932) [fi] (_STT - 13.01.2025_)
 * [Polish presidential candidates discuss EU-wide restriction of X](https://www.euractiv.com/section/politics/news/polish-presidential-candidates-discuss-eu-wide-restriction-of-x/) (_Euractiv - 13.01.2025_)
+* [Elon Musk helped Trump win. Now he’s looking at Europe, and many politicians are alarmed](https://apnews.com/article/elon-musk-europe-politics-germany-uk-f50d69d0d192a2d81c95f5d64c6d4acd) (_AP - 08.01.2025_)
 * [Why EU leaders should get off Musk's X](https://euobserver.com/EU%20&%20the%20World/ar1eb43d53), by Andrew Rettman (_EUobserver - 03.11.2024_)
