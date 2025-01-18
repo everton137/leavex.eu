@@ -53,6 +53,11 @@
               />
             <xhtml:link
               rel="alternate"
+              hreflang="hu"
+              href="https://leavex.eu/hu/"
+              />
+            <xhtml:link
+              rel="alternate"
               hreflang="pt-pt"
               href="https://leavex.eu/pt-pt/"
               />

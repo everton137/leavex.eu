@@ -3,29 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-      <url>
-            <loc>https://leavex.eu/about/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="de"
-              href="https://leavex.eu/de/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="fr"
-              href="https://leavex.eu/fr/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://leavex.eu/about/"
-              />
-          </url>
-    
   
     
       <url>
-            <loc>https://leavex.eu/</loc>
+            <loc>https://leavex.eu/hu/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/"
+              />
             <xhtml:link
               rel="alternate"
               hreflang="de"
@@ -68,48 +54,14 @@
               />
             <xhtml:link
               rel="alternate"
-              hreflang="hu"
-              href="https://leavex.eu/hu/"
-              />
-            <xhtml:link
-              rel="alternate"
               hreflang="pt-pt"
               href="https://leavex.eu/pt-pt/"
               />
             <xhtml:link
               rel="alternate"
-              hreflang="en"
-              href="https://leavex.eu/"
+              hreflang="hu"
+              href="https://leavex.eu/hu/"
               />
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://leavex.eu/network/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="de"
-              href="https://leavex.eu/de/network/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="fr"
-              href="https://leavex.eu/fr/network/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://leavex.eu/network/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://leavex.eu/news/</loc>
           </url>
     
   
