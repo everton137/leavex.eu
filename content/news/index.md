@@ -14,6 +14,7 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * [Germany’s leader says Musk’s support for European far-right is ‘completely unacceptable’](https://apnews.com/article/germany-scholz-elon-musk-far-right-afd-95cc5325bde8f5a0065da9dad98da926) (_AP - 17.01.2025_)
 * [Collective marches called in several countries to leave X on Trump's inauguration day](https://www.lamarea.com/2025/01/17/convocadas-en-varios-paises-marchas-colectivas-de-x-el-20-de-enero-dia-de-la-investidura-de-trump/) [es] (_La Marea - 17.01.2025_)
 * [The Federal Environment Ministry of Germany no longer wants to use X](https://www.tagesschau.de/inland/ministerien-verlassen-x-100.html) [de] (_tagesschau - 17.01.2025_)
+* [Elon Musk is a threat to democracy](https://www.welt.de/debatte/kommentare/article255131604/Garri-Kasparow-Elon-Musk-ist-eine-Gefahr-fuer-die-Demokratie.html), by Garry Kasparov [de] (_Welt - 16.01.2025_)
 * [Au revoir de Paris, X !](https://www.politico.eu/article/emmanuel-macron-france-paris-donald-trump-x-social-media-weapons-intelligence/) (_Politico - 16.01.2025_)
 * [The Institut Pasteur has decided to leave X because of several serious abuses observed on the platform](https://www.pasteur.fr/en/home/press-area/press-documents/institut-pasteur-decides-leave-x) (_press release - 16.01.2025_)
 * [The Lower Saxony state parliament stops activities on X](https://www.ndr.de/nachrichten/niedersachsen/Plattform-X-Niedersaechsischer-Landtag-stellt-Aktivitaeten-ein,landtag6584.html) [de] (_NDR - 16.01.2025_)
