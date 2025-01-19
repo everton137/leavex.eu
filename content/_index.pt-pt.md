@@ -6,7 +6,7 @@ date: 2025-01-16
 
 **Os políticos e líderes europeus têm de agir agora para proteger a democracia**
 
-Desde a aquisição do Twitter por Elon Musk, há mais de dois anos, a plataforma - agora renomeada de X - tem sofrido uma reviravolta preocupante. A crescente influência do seu diretor executivo na formação de narrativas políticas e na promoção de ideologias específicas, incluindo a alteração da forma como o conteúdo é priorizado para refletir os seus próprios interesses, tornou-se cada vez mais evidente.
+Desde a aquisição do Twitter por Elon Musk, há mais de dois anos, a plataforma - agora renomeada de X - tem sofrido uma reviravolta preocupante. A crescente influência do seu diretor executivo na formação de narrativas políticas e na promoção de ideologias específicas, incluindo a alteração da forma como é dada prioridade ao conteúdo, para refletir os seus próprios interesses, tornou-se cada vez mais evidente.
 
 Sendo uma das plataformas de redes sociais mais visitadas do mundo, com milhões de utilizadores activos e uma influência significativa nos meios de comunicação, é alarmante ver o X transformar-se de um potencial centro de discurso político aberto num veículo para agendas tendenciosas.
 A utilização continuada do X/Twitter pelos líderes políticos de toda a Europa confere inadvertidamente credibilidade a uma plataforma cada vez mais utilizada para amplificar a retórica da divisão e os interesses individuais. Ao fazê-lo, deixam os grupos marginalizados - que representam - com pouca escolha a não ser envolverem-se num ambiente hostil para que as suas vozes sejam ouvidas, falhando no seu dever de proteger e capacitar todos os cidadãos e, em última análise, minando a integridade democrática.
