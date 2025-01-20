@@ -101,6 +101,11 @@
               />
             <xhtml:link
               rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/network/"
+              />
+            <xhtml:link
+              rel="alternate"
               hreflang="fr"
               href="https://leavex.eu/fr/network/"
               />
