@@ -20,7 +20,7 @@ Un espace pour se connecter avec des groupes, mouvements et individus partageant
 * [**LeaveX**](/about) : L’initiative **#LeaveX** appelle les politiciens et dirigeants européens à abandonner X pour défendre la démocratie. À travers une lettre ouverte, accompagnée d'une [pétition](https://openpetition.eu/leavex) et traduite en plusieurs langues, elle met en lumière le rôle de la plateforme dans l'amplification de la désinformation, des discours de haine et de la polarisation. (Allemagne)
 
 ### Pétitions
-* [Open letter to the German Rectors' Conference (HRK) on the use of social media](https://www.openpetition.de/petition/online/open-letter-to-the-german-rectors-conference-hrk-on-the-use-of-social-media)
-* [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](https://openpetition.eu/leavex)
-* [Cesser d'utiliser Twitter/X pour les communications officielles du gouvernement](https://politipet.fr/2610) également [ici](https://petitions.assemblee-nationale.fr/initiatives/i-2610)
-* [Musk stoppen, X abschalten](https://aktion.campact.de/weact/musk-stoppen/teilnehmen?bucket=20250109-waeb-hv-elon-musk-stoppen-aktive-abos)
+* [Musk stoppen, X abschalten](https://aktion.campact.de/weact/musk-stoppen/teilnehmen?bucket=20250109-waeb-hv-elon-musk-stoppen-aktive-abos) (Allemagne)
+* [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](https://openpetition.eu/leavex) (L'Europe)
+* [Cesser d'utiliser Twitter/X pour les communications officielles du gouvernement](https://politipet.fr/2610) également [ici](https://petitions.assemblee-nationale.fr/initiatives/i-2610) (France)
+* [Open letter to the German Rectors' Conference (HRK) on the use of social media](https://www.openpetition.de/petition/online/open-letter-to-the-german-rectors-conference-hrk-on-the-use-of-social-media) (Allemagne)
