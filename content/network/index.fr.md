@@ -23,4 +23,5 @@ Un espace pour se connecter avec des groupes, mouvements et individus partageant
 * [Musk stoppen, X abschalten](https://aktion.campact.de/weact/musk-stoppen/teilnehmen?bucket=20250109-waeb-hv-elon-musk-stoppen-aktive-abos) (Allemagne)
 * [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](https://openpetition.eu/leavex) (L'Europe)
 * [Cesser d'utiliser Twitter/X pour les communications officielles du gouvernement](https://politipet.fr/2610) également [ici](https://petitions.assemblee-nationale.fr/initiatives/i-2610) (France)
+* [Truly social media at Australian universities](https://www.openpetition.org/au/petition/online/truly-social-media-at-australian-universities) (Australie)
 * [Open letter to the German Rectors' Conference (HRK) on the use of social media](https://www.openpetition.de/petition/online/open-letter-to-the-german-rectors-conference-hrk-on-the-use-of-social-media) (Allemagne)
