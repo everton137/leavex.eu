@@ -12,10 +12,13 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 
 ### Articles
 
+* [Europe’s Elon Musk Problem](https://www.theatlantic.com/magazine/archive/2025/03/musk-tech-oligarch-european-election-influence/681453/), by Anne Applebaum (_The Atlantic - 27.01.2025_)
 * [Wonderful: Le Monde, La Vanguardia, Mediapart, Ouest France, Libération, The Guardian, Dagens Nyheter quit X](https://www.internazionale.it/magazine/giovanni-de-mauro/2025/01/23/meraviglioso), by Giovanni De Mauro [it] (_Internazionale - 23.01.2025_)
+* [The Tech Oligarchy Arrives](https://www.theatlantic.com/politics/archive/2025/01/tech-zuckerberg-trump-inauguration-oligarchy/681381/), by Michael Scherer and Ashley Parker (_The Atlantic - 20.01.2025_)
 * [I knew one day I’d have to watch powerful men burn the world down – I just didn’t expect them to be such losers](https://www.theguardian.com/commentisfree/2025/jan/16/i-knew-one-day-id-have-to-watch-powerful-men-burn-the-world-down-i-just-didnt-expect-them-to-be-such-losers?CMP=fb_gu#Echobox=1737041303), by Rebecca Shaw (_The Guardian - 16.01.2025_)
 * [Elon Musk is a threat to democracy](https://www.welt.de/debatte/kommentare/article255131604/Garri-Kasparow-Elon-Musk-ist-eine-Gefahr-fuer-die-Demokratie.html), by Garry Kasparov [de] (_Welt - 16.01.2025_)
 * [Why EU leaders should get off Musk's X](https://euobserver.com/EU%20&%20the%20World/ar1eb43d53), by Andrew Rettman (_EUobserver - 03.11.2024_)
+* [What Elon Musk Really Wants](https://www.theatlantic.com/books/archive/2024/10/donald-trump-is-elon-musks-trojan-horse/680309/), by Franklin Foer (_The Atlantic - 19.10.2024_)
 
 ### News
 * [European Medicines Agency, EMA, ditches Elon Musk’s X in favor of Bluesky](https://nltimes.nl/2025/01/24/european-medicines-agency-ditches-elon-musks-x-favor-bluesky) (_NL Times - 24.01.2025_)
