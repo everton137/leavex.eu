@@ -22,6 +22,7 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * [What Elon Musk Really Wants](https://www.theatlantic.com/books/archive/2024/10/donald-trump-is-elon-musks-trojan-horse/680309/), by Franklin Foer (_The Atlantic - 19.10.2024_)
 
 ### News
+* [Musk’s comments that Germany should ‘move beyond’ Nazi guilt are dangerous, says Holocaust memorial chair](https://edition.cnn.com/2025/01/27/europe/israel-holocaust-memorial-chair-musk-criticism-intl/index.html) (_CNN - 27.01.2025_)
 * [European Medicines Agency, EMA, ditches Elon Musk’s X in favor of Bluesky](https://nltimes.nl/2025/01/24/european-medicines-agency-ditches-elon-musks-x-favor-bluesky) (_NL Times - 24.01.2025_)
 * [Reddit Groups are Banning X Links. Could Europe be Next?](https://www.newsweek.com/reddit-banning-x-links-2019994) (_Newsweek - 23.01.2025_)
 * [Tech billionaires want to ‘overthrow democracy’ with social media, Spain PM Sánchez says](https://www.politico.eu/article/spain-pedro-sanchez-big-tech-billionaires-democracy-social-media/) (_Politico - 22.01.2025_)
