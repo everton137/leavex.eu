@@ -11,7 +11,7 @@ cascade:
 The latest updates, media coverage, and opinion pieces supporting the movement to abandon X/Twitter.
 
 ### Articles
-
+* [Trump Hit With New Lawsuit for Funneling Sensitive Info to Elon Musk](https://newrepublic.com/post/190784/trump-lawsuit-funneling-info-federal-workers-elon-musk) (_The New Republic - 28.01.2025_)
 * [Europe’s Elon Musk Problem](https://www.theatlantic.com/magazine/archive/2025/03/musk-tech-oligarch-european-election-influence/681453/), by Anne Applebaum (_The Atlantic - 27.01.2025_)
 * [Wonderful: Le Monde, La Vanguardia, Mediapart, Ouest France, Libération, The Guardian, Dagens Nyheter quit X](https://www.internazionale.it/magazine/giovanni-de-mauro/2025/01/23/meraviglioso), by Giovanni De Mauro [it] (_Internazionale - 23.01.2025_)
 * [The Tech Oligarchy Arrives](https://www.theatlantic.com/politics/archive/2025/01/tech-zuckerberg-trump-inauguration-oligarchy/681381/), by Michael Scherer and Ashley Parker (_The Atlantic - 20.01.2025_)
