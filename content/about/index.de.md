@@ -19,4 +19,4 @@ Der Brief formuliert die Kernbotschaft und die Gründe hinter dieser Initiative.
 
 Wenn Sie Vorschläge, Korrekturen oder Ideen haben, schreiben Sie uns gerne eine E-Mail an [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideen%20für%20Leave%20X). Sie können zu dieser Website auf [GitHub](https://github.com/everton137/leavex.eu) beitragen.
 
-![Leave X - Schützt die Demokratie](leave_x_banner.png)
+![Leave X - Schützt die Demokratie](leave_x_banner_white.png)
