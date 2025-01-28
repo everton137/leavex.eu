@@ -19,4 +19,4 @@ The letter articulates the core message and reasoning behind this initiative. Ho
 
 If you have suggestions, corrections, or ideas, feel free to email us at [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X). You can contribute to this site on [GitHub  ](https://github.com/everton137/leavex.eu).
 
-![Leave X - Protect Democracy](leave_x_banner.png)
+![Leave X - Protect Democracy](leave_x_banner_white.png)
