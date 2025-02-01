@@ -8,7 +8,7 @@ cascade:
   showReadingTime: false
 ---
 
-Some curated ideas related to X, its agenda, and disinformation campaigns. Find here a list of curated [news and articles](/news) relevant to this project.
+Some curated ideas related to X, its owner's agenda, and disinformation campaigns. Here is a list of curated [news and articles](/news) relevant to this project.
 
 > The ideal subject of totalitarian rule is not the convinced nazi or the convinced communist, but people for whom the distinction between fact and fiction (i.e., the reality of experience) and the distinction between true and false (i.e., the standards of thought) no longer exist.<br>
 > — <cite>**Hannah Arendt**[^1]</cite>
