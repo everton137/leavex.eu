@@ -8,7 +8,7 @@ cascade:
   showReadingTime: false
 ---
 
-The latest updates, media coverage, and opinion pieces supporting the movement to abandon X/Twitter.
+The latest updates, media coverage, and opinion pieces supporting the movement to abandon X/Twitter. You can also find [quotes and ideas](/quotes) related to this project.
 
 ### Articles
 * [Trump Hit With New Lawsuit for Funneling Sensitive Info to Elon Musk](https://newrepublic.com/post/190784/trump-lawsuit-funneling-info-federal-workers-elon-musk) (_The New Republic - 28.01.2025_)
