@@ -3,6 +3,10 @@ title: "An Open Letter to All European Politicians and Leaders to Abandon X/Twit
 description: "Protect Democracy"
 ---
 
+{{< alert >}}
+**Attention!** Support this letter by signing the [petition](https://openpetition.eu/leavex) and _reaching out_ to politicians.  
+{{< /alert >}}
+
 **European Politicians and Leaders Must Act Now to Protect Democracy**
 
 Since Elon Musk's acquisition of Twitter over two years ago, the platform—now rebranded as X—has taken a troubling turn. The growing influence of its CEO in shaping political narratives and promoting specific ideologies, including altering how content is prioritized to reflect his own interests, has become increasingly apparent.

@@ -2,6 +2,10 @@
 title: "Tüm Avrupalı Politikacılara ve Liderlere X/Twitter'ı Terk Etmeleri İçin Açık Mektup"
 ---
 
+{{< alert >}}
+**Dikkat!** [Dilekçeyi](https://openpetition.eu/leavex) imzalayarak ve politikacılara _ulaşarak_ bu mektubu destekleyin.    
+{{< /alert >}}
+
 **Avrupalı Politikacılar ve Liderler Demokrasiyi Korumak İçin Şimdi Harekete Geçmeli**
 
 Elon Musk'ın iki yıl önce Twitter'ı satın almasından bu yana, şimdi X olarak yeniden markalaşan platform rahatsız edici bir hal aldı. CEO'sunun siyasi söylemleri şekillendirme ve belirli ideolojileri destekleme konusundaki artan etkisi, içeriğin kendi çıkarlarını yansıtacak şekilde nasıl önceliklendirildiğini değiştirmek de dahil olmak üzere, giderek daha belirgin hale geldi.

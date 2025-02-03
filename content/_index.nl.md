@@ -2,6 +2,11 @@
 title: "Een open brief aan alle Europese politici en leiders om afstand te doen van X/Twitter"
 ---
 
+{{< alert >}}
+**Aandacht!** Ondersteun deze brief door de [petitie](https://openpetition.eu/leavex) te ondertekenen en _reaching out_ to politicians.
+{{< /alert >}}
+
+
 **Europese politici en leiders moeten nu handelen om de democratie te beschermen**
 
 Sinds Elon Musk Twitter twee jaar geleden overnam, heeft het platform - nu omgedoopt tot X - een verontrustende wending genomen. De groeiende invloed van de CEO in het vormgeven van politieke verhalen en het promoten van specifieke ideologieën, inclusief het veranderen van hoe inhoud prioriteit krijgt om zijn eigen belangen te weerspiegelen, is steeds duidelijker geworden.

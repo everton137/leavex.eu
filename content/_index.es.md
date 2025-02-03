@@ -2,6 +2,10 @@
 title: "Carta abierta a todos los políticos y líderes europeos para que abandonen X/Twitter"
 ---
 
+{{< alert >}}
+**¡Atención!** Apoya esta carta firmando la [petición](https://openpetition.eu/leavex) y _acercándote_ a los políticos.   
+{{< /alert >}}
+
 **Los políticos y dirigentes europeos deben actuar ya para proteger la democracia**.
 
 Desde que Elon Musk adquirió Twitter hace más de dos años, la plataforma -ahora rebautizada como X- ha dado un giro preocupante. Cada vez es más evidente la creciente influencia de su CEO a la hora de dar forma a las narrativas políticas y promover ideologías específicas, incluso alterando la forma en que se priorizan los contenidos para reflejar sus propios intereses.

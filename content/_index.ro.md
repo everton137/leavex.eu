@@ -2,6 +2,10 @@
 title: "Scrisoare deschisă către toți politicienii și liderii europeni pentru a renunța la X/Twitter"
 ---
 
+{{< alert >}}
+**Atenție!** Susțineți această scrisoare prin semnarea [petiției](https://openpetition.eu/leavex) și prin contactarea politicienilor. 
+{{< /alert >}}
+
 **Politicienii și liderii europeni trebuie să acționeze acum pentru a proteja democrația**
 
 De la achiziționarea Twitter de către Elon Musk, în urmă cu peste doi ani, platforma - acum redenumită X - a luat o turnură îngrijorătoare. Influența din ce în ce mai mare a directorului său general în modelarea narațiunilor politice și promovarea ideologiilor specifice, inclusiv modificarea modului în care conținutul este prioritizat pentru a reflecta propriile interese, a devenit tot mai evidentă.

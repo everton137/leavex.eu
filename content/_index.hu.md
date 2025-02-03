@@ -2,6 +2,11 @@
 title: "Nyílt levél minden európai politikusnak és vezetőnek, hogy hagyják el az X/Twittert"
 ---
 
+{{< alert >}}
+**Figyelem!** Támogassa ezt a levelet a [petíció](https://openpetition.eu/leavex) aláírásával és a politikusok megkeresésével.
+{{< /alert >}}
+
+
 **Az európai politikusoknak és vezetőknek most kell cselekedniük a demokrácia védelme érdekében**
 
 Mióta Elon Musk több mint két évvel ezelőtt felvásárolta a Twittert, a platform - amelyet most X-re kereszteltek át - aggasztó fordulatot vett. Egyre nyilvánvalóbbá vált a vezérigazgató növekvő befolyása a politikai narratívák alakítására és bizonyos ideológiák népszerűsítésére, beleértve a tartalmak rangsorolásának megváltoztatását a saját érdekeinek megfelelően.

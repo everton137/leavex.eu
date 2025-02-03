@@ -2,6 +2,11 @@
 title: "Lettera aperta a tutti i politici e leader europei affinché abbandonino X/Twitter"
 ---
 
+{{< alert >}}
+**Attenzione!** Sostenete questa lettera firmando la [petizione](https://openpetition.eu/leavex) e contattando i politici.
+{{< /alert >}}
+
+
 **I politici e i leader europei devono agire ora per proteggere la democrazia**
 
 Dall'acquisizione di Twitter da parte di Elon Musk più di due anni fa, la piattaforma - ora ribattezzata X - ha preso una piega preoccupante. È diventata sempre più evidente la crescente influenza del suo amministratore delegato nel plasmare la narrativa politica e promuovere specifiche ideologie, alterando anche il modo in cui i contenuti sono prioritari per riflettere i suoi interessi.

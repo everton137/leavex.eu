@@ -4,6 +4,11 @@ description: "Projeja a Democracia"
 date: 2025-01-16
 ---
 
+{{< alert >}}
+**Atenção!** Apoiem esta carta assinando a [petição](https://openpetition.eu/leavex) e contactando os políticos.   
+{{< /alert >}}
+
+
 **Os políticos e líderes europeus têm de agir agora para proteger a democracia**
 
 Desde a aquisição do Twitter por Elon Musk, há mais de dois anos, a plataforma - agora renomeada de X - tem sofrido uma reviravolta preocupante. A crescente influência do seu diretor executivo na formação de narrativas políticas e na promoção de ideologias específicas, incluindo a alteração da forma como é dada prioridade ao conteúdo, para refletir os seus próprios interesses, tornou-se cada vez mais evidente.

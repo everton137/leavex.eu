@@ -2,6 +2,11 @@
 title: "Avoin kirje kaikille eurooppalaisille poliitikoille ja johtajille, jotta he luopuisivat X/Twitteristä."
 ---
 
+{{< alert >}}
+**Huomio!** Tukekaa tätä kirjettä allekirjoittamalla [vetoomus] (https://openpetition.eu/leavex) ja _viestimällä_ poliitikoille. 
+{{< /alert >}}
+
+
 **Euroopan poliitikkojen ja johtajien on toimittava nyt demokratian suojelemiseksi**
 
 Sen jälkeen, kun Elon Musk osti Twitterin yli kaksi vuotta sitten, foorumi - joka on nyt nimetty uudelleen X:ksi - on ottanut huolestuttavan käänteen. Toimitusjohtajan kasvava vaikutusvalta poliittisten kertomusten muokkaamisessa ja tiettyjen ideologioiden edistämisessä, mukaan lukien sisällön priorisointi omien etujensa mukaisesti, on käynyt yhä selvemmin ilmi.

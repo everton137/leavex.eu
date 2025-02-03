@@ -2,6 +2,11 @@
 title: "List otwarty do wszystkich europejskich polityków i przywódców o porzucenie X/Twittera"
 ---
 
+{{< alert >}}
+**Uwaga!** Poprzyj ten list, podpisując [petycję](https://openpetition.eu/leavex) i docierając do polityków.  
+{{< /alert >}}
+
+
 **Europejscy politycy i przywódcy muszą działać teraz, aby chronić demokrację**
 
 Od czasu przejęcia Twittera przez Elona Muska ponad dwa lata temu, platforma - teraz przemianowana na X - przybrała niepokojący obrót. Rosnący wpływ dyrektora generalnego na kształtowanie narracji politycznych i promowanie określonych ideologii, w tym zmianę sposobu ustalania priorytetów treści w celu odzwierciedlenia jego własnych interesów, staje się coraz bardziej widoczny.

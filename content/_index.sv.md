@@ -2,6 +2,11 @@
 title: "Ett öppet brev till alla europeiska politiker och ledare om att överge X/Twitter"
 ---
 
+{{< alert >}}
+**Uppmärksamhet!** Stöd detta brev genom att underteckna [petitionen](https://openpetition.eu/leavex) och _kontakta_ politikerna. 
+{{< /alert >}}
+
+
 **Europeiska politiker och ledare måste agera nu för att skydda demokratin**
 
 Sedan Elon Musks förvärv av Twitter för över två år sedan har plattformen - som nu fått namnet X - tagit en oroväckande vändning. Det har blivit allt tydligare att Twitters VD har ett allt större inflytande när det gäller att forma politiska berättelser och främja specifika ideologier, bland annat genom att ändra hur innehåll prioriteras för att återspegla hans egna intressen.

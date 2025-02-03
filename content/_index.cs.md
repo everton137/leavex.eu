@@ -2,6 +2,10 @@
 title: "Otevřený dopis všem evropským politikům a lídrům, aby opustili X/Twitter"
 ---
 
+{{< alert >}}
+**Pozor!** Podpořte tento dopis podpisem [petice](https://openpetition.eu/leavex) a _oslovte_ politiky.  
+{{< /alert >}}
+
 **Evropští politici a lídři musí okamžitě jednat na ochranu demokracie**
 
 Od doby, kdy Elon Musk před více než dvěma lety převzal Twitter, se tato platforma - nyní přejmenovaná na X - dostala na znepokojivou úroveň. Stále zřetelněji se projevuje rostoucí vliv jejího generálního ředitele na utváření politických narativů a prosazování konkrétních ideologií, včetně změny prioritizace obsahu tak, aby odrážel jeho vlastní zájmy.
