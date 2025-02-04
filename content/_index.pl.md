@@ -3,7 +3,7 @@ title: "List otwarty do wszystkich europejskich polityków i przywódców o porz
 ---
 
 {{< alert >}}
-**Uwaga!** Poprzyj ten list, podpisując [petycję](https://openpetition.eu/leavex) i docierając do polityków.  
+Poprzyj ten list, podpisując [petycję](https://openpetition.eu/leavex) i docierając do polityków.  
 {{< /alert >}}
 
 

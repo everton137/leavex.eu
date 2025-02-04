@@ -5,7 +5,7 @@ date: 2025-01-16
 ---
 
 {{< alert >}}
-**Atenção!** Apoiem esta carta assinando a [petição](https://openpetition.eu/leavex) e contactando os políticos.   
+Apoiem esta carta assinando a [petição](https://openpetition.eu/leavex) e contactando os políticos.   
 {{< /alert >}}
 
 

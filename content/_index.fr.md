@@ -3,7 +3,7 @@ title: "Lettre ouverte à tous les hommes politiques et dirigeants européens po
 ---
 
 {{< alert >}}
-**Attention !** Soutenez cette lettre en signant la [pétition](https://openpetition.eu/leavex) et en _tendant la main_ aux politiciens.  
+Soutenez cette lettre en signant la [pétition](https://openpetition.eu/leavex) et en _tendant la main_ aux politiciens.  
 {{< /alert >}}
 
 

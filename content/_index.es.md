@@ -3,7 +3,7 @@ title: "Carta abierta a todos los políticos y líderes europeos para que abando
 ---
 
 {{< alert >}}
-**¡Atención!** Apoya esta carta firmando la [petición](https://openpetition.eu/leavex) y _acercándote_ a los políticos.   
+Apoya esta carta firmando la [petición](https://openpetition.eu/leavex) y _acercándote_ a los políticos.   
 {{< /alert >}}
 
 **Los políticos y dirigentes europeos deben actuar ya para proteger la democracia**.

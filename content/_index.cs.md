@@ -3,7 +3,7 @@ title: "Otevřený dopis všem evropským politikům a lídrům, aby opustili X/
 ---
 
 {{< alert >}}
-**Pozor!** Podpořte tento dopis podpisem [petice](https://openpetition.eu/leavex) a _oslovte_ politiky.  
+Podpořte tento dopis podpisem [petice](https://openpetition.eu/leavex) a _oslovte_ politiky.  
 {{< /alert >}}
 
 **Evropští politici a lídři musí okamžitě jednat na ochranu demokracie**

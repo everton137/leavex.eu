@@ -3,7 +3,7 @@ title: "Ein offener Brief an alle europäischen Politiker und Führungskräfte z
 ---
 
 {{< alert >}}
-**Achtung!** Unterstützen Sie dieses Schreiben, indem Sie die [Petition](https://openpetition.eu/leavex) unterzeichnen und sich an die Politiker wenden.   
+Unterstützen Sie dieses Schreiben, indem Sie die [Petition](https://openpetition.eu/leavex) unterzeichnen und sich an die Politiker wenden.   
 {{< /alert >}}
 
 **Europäische Politiker und führende Persönlichkeiten müssen jetzt handeln, um die Demokratie zu schützen**

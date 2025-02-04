@@ -3,7 +3,7 @@ title: "Scrisoare deschisă către toți politicienii și liderii europeni pentr
 ---
 
 {{< alert >}}
-**Atenție!** Susțineți această scrisoare prin semnarea [petiției](https://openpetition.eu/leavex) și prin contactarea politicienilor. 
+Susțineți această scrisoare prin semnarea [petiției](https://openpetition.eu/leavex) și prin contactarea politicienilor. 
 {{< /alert >}}
 
 **Politicienii și liderii europeni trebuie să acționeze acum pentru a proteja democrația**

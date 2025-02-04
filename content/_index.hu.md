@@ -3,7 +3,7 @@ title: "Nyílt levél minden európai politikusnak és vezetőnek, hogy hagyják
 ---
 
 {{< alert >}}
-**Figyelem!** Támogassa ezt a levelet a [petíció](https://openpetition.eu/leavex) aláírásával és a politikusok megkeresésével.
+Támogassa ezt a levelet a [petíció](https://openpetition.eu/leavex) aláírásával és a politikusok megkeresésével.
 {{< /alert >}}
 
 

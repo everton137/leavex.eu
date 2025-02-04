@@ -3,7 +3,7 @@ title: "Avoin kirje kaikille eurooppalaisille poliitikoille ja johtajille, jotta
 ---
 
 {{< alert >}}
-**Huomio!** Tukekaa tätä kirjettä allekirjoittamalla [vetoomus] (https://openpetition.eu/leavex) ja _viestimällä_ poliitikoille. 
+Tukekaa tätä kirjettä allekirjoittamalla [vetoomus] (https://openpetition.eu/leavex) ja _viestimällä_ poliitikoille. 
 {{< /alert >}}
 
 
