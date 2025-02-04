@@ -4,7 +4,7 @@ description: "Protect Democracy"
 ---
 
 {{< alert >}}
-**Attention!** Support this letter by signing the [petition](https://openpetition.eu/leavex) and _reaching out_ to politicians.  
+Support this letter by signing the [petition](https://openpetition.eu/leavex) and _reaching out_ to politicians.  
 {{< /alert >}}
 
 **European Politicians and Leaders Must Act Now to Protect Democracy**
