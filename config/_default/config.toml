@@ -10,4 +10,4 @@ enableRobotsTXT = true
 
 [params]
     homepage.layout = "page"
-    colorScheme = "fire"
+    colorScheme = "ocean"
