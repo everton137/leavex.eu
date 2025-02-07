@@ -1,0 +1,12 @@
+<h1>Politicians on X</h1>
+<ul>
+  {{ range .Site.Data.politicians }}
+  <li>
+    <strong>{{ .name }}</strong> ({{ .party }}) 
+    <a href="https://x.com/intent/tweet?text=Hello%20{{ .handle }},%20please%20consider%20leaving%20Twitter%20to%20protect%20democracy.%20Learn%20more%20at%20https://leavex.eu"
+       target="_blank">
+       Ask {{ .name }} to Leave X
+    </a>
+  </li>
+  {{ end }}
+</ul>
