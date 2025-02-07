@@ -27,6 +27,7 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 
 ### News
 * [How Elon Musk boosted false USAID conspiracy theories to shut down global aid](https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646) (_NBC News - 07.02.2025_)
+* [The Paris prosecutor's office opens an investigation into the algorithms of the social network X](https://www.lemonde.fr/pixels/article/2025/02/07/le-parquet-de-paris-ouvre-une-enquete-sur-les-algorithmes-du-reseau-social-x_6536320_4408996.html) (_Le Monde - 07.02.2025_)
 * [Putin’s bot army on Musk's X tries to swing German election](https://www.politico.eu/article/germany-election-flood-social-media-x-russia-bots-kremlin-operation-false-news/) (_Politico - 06.02.2025_)
 * [Nigel Farage’s Reform MPs Are Most Boosted UK Politicians on Elon Musk’s X Despite Tiny Parliamentary Presence](https://bylinetimes.com/2025/02/06/nigel-farages-reform-mps-are-most-boosted-uk-politicians-on-elon-musks-x-despite-tiny-parliamentary-presence/) (_Byline Times - 06.02.2025_)
 * [German Organizations Take X to Court Over Election Interference](https://www.reuters.com/world/europe/german-activists-sue-x-demanding-election-influence-data-2025-02-05/6) (_Reuters - 05.02.2025_)
