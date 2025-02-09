@@ -13,7 +13,7 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 ### Articles
 * ['Reboot' Revealed: Elon Musk's CEO-Dictator Playbook](https://www.thenerdreich.com/reboot-elon-musk-ceo-dictator-doge/), by Gil Duran (_The Nerd Reich - 05.02.2025_)
 * [Musk wants all the power](https://elpais.com/opinion/2025-02-04/musk-quiere-todo-el-poder.html), Editorial [es] (_El País - 04.02.2025_)
-* {{< icon "star" >}} [Why the argument that you have to stay on social networks to oppose is complete nonsense](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/), by Manuel Atug [de] (_Der Kuketz-Blog - 31.01.2025_)
+* {{< icon "star" >}} [Why the argument that you have to stay on social networks to oppose is complete nonsense](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/), by Mike Kuketz [de] (_Der Kuketz-Blog - 31.01.2025_)
 * [Trump Hit With New Lawsuit for Funneling Sensitive Info to Elon Musk](https://newrepublic.com/post/190784/trump-lawsuit-funneling-info-federal-workers-elon-musk) (_The New Republic - 28.01.2025_)
 * [Europe’s Elon Musk Problem](https://www.theatlantic.com/magazine/archive/2025/03/musk-tech-oligarch-european-election-influence/681453/), by Anne Applebaum (_The Atlantic - 27.01.2025_)
 * [Wonderful: Le Monde, La Vanguardia, Mediapart, Ouest France, Libération, The Guardian, Dagens Nyheter quit X](https://www.internazionale.it/magazine/giovanni-de-mauro/2025/01/23/meraviglioso), by Giovanni De Mauro [it] (_Internazionale - 23.01.2025_)
