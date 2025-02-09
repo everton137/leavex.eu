@@ -22,4 +22,4 @@ Si vous avez des suggestions, des corrections ou des idées, n'hésitez pas à n
 Contacts : [{{< icon "email" >}}](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) [{{< icon "mastodon" >}}](https://mastodon.social/@leavex) [{{< icon "bluesky" >}}](https://bsky.app/profile/leavex.eu) [{{< icon "instagram" >}}](https://gram.social/leavex) [{{< icon "github" >}}](https://github.com/everton137/leavex.eu)
 
 
-![Quitter X - Protégez la démocratie](leave_x_banner_white.png)
+![Quitter X - Protégez la démocratie](/images/leave_x_banner_white.png)
