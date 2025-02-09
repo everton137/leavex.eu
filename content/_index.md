@@ -3,7 +3,7 @@ title: "An Open Letter to All European Politicians and Leaders to Abandon X/Twit
 description: "Protect Democracy"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Support this letter by signing the [petition](https://openpetition.eu/leavex) and _reaching out_ to politicians.  
 {{< /alert >}}
 

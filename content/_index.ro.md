@@ -2,7 +2,7 @@
 title: "Scrisoare deschisă către toți politicienii și liderii europeni pentru a renunța la X/Twitter"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Susțineți această scrisoare prin semnarea [petiției](https://openpetition.eu/leavex) și prin contactarea politicienilor. 
 {{< /alert >}}
 

@@ -2,7 +2,7 @@
 title: "Avoin kirje kaikille eurooppalaisille poliitikoille ja johtajille, jotta he luopuisivat X/Twitteristä."
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Tukekaa tätä kirjettä allekirjoittamalla [vetoomus](https://openpetition.eu/leavex) ja _viestimällä_ poliitikoille. 
 {{< /alert >}}
 

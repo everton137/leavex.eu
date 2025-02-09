@@ -2,7 +2,7 @@
 title: "Nyílt levél minden európai politikusnak és vezetőnek, hogy hagyják el az X/Twittert"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Támogassa ezt a levelet a [petíció](https://openpetition.eu/leavex) aláírásával és a politikusok megkeresésével.
 {{< /alert >}}
 

@@ -2,7 +2,7 @@
 title: "Een open brief aan alle Europese politici en leiders om afstand te doen van X/Twitter"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Ondersteun deze brief door de [petitie](https://openpetition.eu/leavex) te ondertekenen en _reaching out_ to politicians.
 {{< /alert >}}
 

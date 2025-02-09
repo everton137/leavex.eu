@@ -2,7 +2,7 @@
 title: "Otevřený dopis všem evropským politikům a lídrům, aby opustili X/Twitter"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Podpořte tento dopis podpisem [petice](https://openpetition.eu/leavex) a _oslovte_ politiky.  
 {{< /alert >}}
 

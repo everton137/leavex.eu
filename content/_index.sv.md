@@ -2,7 +2,7 @@
 title: "Ett öppet brev till alla europeiska politiker och ledare om att överge X/Twitter"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Stöd detta brev genom att underteckna [petitionen](https://openpetition.eu/leavex) och _kontakta_ politikerna. 
 {{< /alert >}}
 

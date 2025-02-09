@@ -2,7 +2,7 @@
 title: "Tüm Avrupalı Politikacılara ve Liderlere X/Twitter'ı Terk Etmeleri İçin Açık Mektup"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 [Dilekçeyi](https://openpetition.eu/leavex) imzalayarak ve politikacılara _ulaşarak_ bu mektubu destekleyin.    
 {{< /alert >}}
 

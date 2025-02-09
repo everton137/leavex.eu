@@ -4,7 +4,7 @@ description: "Projeja a Democracia"
 date: 2025-01-16
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Apoiem esta carta assinando a [petição](https://openpetition.eu/leavex) e contactando os políticos.   
 {{< /alert >}}
 

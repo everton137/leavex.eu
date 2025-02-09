@@ -2,7 +2,7 @@
 title: "List otwarty do wszystkich europejskich polityków i przywódców o porzucenie X/Twittera"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Poprzyj ten list, podpisując [petycję](https://openpetition.eu/leavex) i docierając do polityków.  
 {{< /alert >}}
 

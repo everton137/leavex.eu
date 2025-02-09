@@ -2,7 +2,7 @@
 title: "Lettera aperta a tutti i politici e leader europei affinché abbandonino X/Twitter"
 ---
 
-{{< alert >}}
+{{< alert "pen" >}}
 Sostenete questa lettera firmando la [petizione](https://openpetition.eu/leavex) e contattando i politici.
 {{< /alert >}}
 
