@@ -14,7 +14,7 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * ['Reboot' Revealed: Elon Musk's CEO-Dictator Playbook](https://www.thenerdreich.com/reboot-elon-musk-ceo-dictator-doge/), by Gil Duran (_The Nerd Reich - 05.02.2025_)
 * [Musk wants all the power](https://elpais.com/opinion/2025-02-04/musk-quiere-todo-el-poder.html), Editorial [es] (_El País - 04.02.2025_)
 * {{< icon "star" >}} [Why the argument that you have to stay on social networks to provide opposition is complete nonsense
-](/posts/why-stay-on-social-media-makes-no-sense/) ([original](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/)) [de], by Mike Kuketz (_Der Kuketz-Blog - 31.01.2025_)
+](/posts/why-stay-on-social-media-makes-no-sense/) ([original](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/), de), by Mike Kuketz (_Der Kuketz-Blog - 31.01.2025_)
 * [Trump Hit With New Lawsuit for Funneling Sensitive Info to Elon Musk](https://newrepublic.com/post/190784/trump-lawsuit-funneling-info-federal-workers-elon-musk) (_The New Republic - 28.01.2025_)
 * [Europe’s Elon Musk Problem](https://www.theatlantic.com/magazine/archive/2025/03/musk-tech-oligarch-european-election-influence/681453/), by Anne Applebaum (_The Atlantic - 27.01.2025_)
 * [Wonderful: Le Monde, La Vanguardia, Mediapart, Ouest France, Libération, The Guardian, Dagens Nyheter quit X](https://www.internazionale.it/magazine/giovanni-de-mauro/2025/01/23/meraviglioso), by Giovanni De Mauro [it] (_Internazionale - 23.01.2025_)
@@ -28,6 +28,7 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 
 ### News
 * [Far-right populists much more likely than the left to spread fake news – study](https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study) (_The Guardian - 11.02.2025_)
+* [Elon Musk Keeps Boosting White Nationalists on X](https://www.motherjones.com/politics/2025/02/elon-musk-x-racists-boosting-white-nationalists-south-africa-antisemitism-adl-springfield-doge-holocaust/) (_Mother Jones - 10.02.2025_)
 * {{< icon "trophy" >}} [German Organizations Triumph in Legal Battle Against Musk's X Over Election Integrity](https://archive.is/czA6K) (_Reuters - 07.02.2025_)
 * [How Elon Musk boosted false USAID conspiracy theories to shut down global aid](https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646) (_NBC News - 07.02.2025_)
 * [The Paris prosecutor's office opens an investigation into the algorithms of the social network X](https://www.lemonde.fr/pixels/article/2025/02/07/le-parquet-de-paris-ouvre-une-enquete-sur-les-algorithmes-du-reseau-social-x_6536320_4408996.html) [fr] (_Le Monde - 07.02.2025_)
@@ -56,3 +57,4 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * [Polish presidential candidates discuss EU-wide restriction of X](https://www.euractiv.com/section/politics/news/polish-presidential-candidates-discuss-eu-wide-restriction-of-x/) (_Euractiv - 13.01.2025_)
 * [Musk’s money will help us make Europe a populist haven](https://www.politico.eu/article/us-steve-bannon-elon-musk-wealth-and-influence-are-weapons-to-advance-maga-aligned-goals-in-europe/) (_Politico - 08.01.2025_)
 * [Elon Musk helped Trump win. Now he’s looking at Europe, and many politicians are alarmed](https://apnews.com/article/elon-musk-europe-politics-germany-uk-f50d69d0d192a2d81c95f5d64c6d4acd) (_AP - 08.01.2025_)
+* [Children fed toxic content by social media algorithms, study finds](https://www.irishexaminer.com/news/arid-41376715.html) (_Irish Examiner - 14.04.2024_)
