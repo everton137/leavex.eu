@@ -1,2 +1,5 @@
 [plausibleAnalytics]
   domain = "leavex.eu"
+
+[article]
+  showReadingTime = false
