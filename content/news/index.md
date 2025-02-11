@@ -13,7 +13,8 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 ### Articles
 * ['Reboot' Revealed: Elon Musk's CEO-Dictator Playbook](https://www.thenerdreich.com/reboot-elon-musk-ceo-dictator-doge/), by Gil Duran (_The Nerd Reich - 05.02.2025_)
 * [Musk wants all the power](https://elpais.com/opinion/2025-02-04/musk-quiere-todo-el-poder.html), Editorial [es] (_El País - 04.02.2025_)
-* {{< icon "star" >}} [Why the argument that you have to stay on social networks to oppose is complete nonsense](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/), by Mike Kuketz [de] (_Der Kuketz-Blog - 31.01.2025_)
+* {{< icon "star" >}} [Why the argument that you have to stay on social networks to provide opposition is complete nonsense
+](/posts/why-stay-on-social-media-makes-no-sense/) ([original](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/)) [de], by Mike Kuketz (_Der Kuketz-Blog - 31.01.2025_)
 * [Trump Hit With New Lawsuit for Funneling Sensitive Info to Elon Musk](https://newrepublic.com/post/190784/trump-lawsuit-funneling-info-federal-workers-elon-musk) (_The New Republic - 28.01.2025_)
 * [Europe’s Elon Musk Problem](https://www.theatlantic.com/magazine/archive/2025/03/musk-tech-oligarch-european-election-influence/681453/), by Anne Applebaum (_The Atlantic - 27.01.2025_)
 * [Wonderful: Le Monde, La Vanguardia, Mediapart, Ouest France, Libération, The Guardian, Dagens Nyheter quit X](https://www.internazionale.it/magazine/giovanni-de-mauro/2025/01/23/meraviglioso), by Giovanni De Mauro [it] (_Internazionale - 23.01.2025_)
@@ -26,9 +27,10 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * [‘Musk’s Twitter Buy Makes No Sense – Unless It’s Part of Something Bigger’](https://bylinetimes.com/2022/11/07/musks-twitter-buy-makes-no-sense-unless-its-part-of-something-bigger/), by David Troy (_Byline Times - 07.11.2022_)
 
 ### News
+* [Far-right populists much more likely than the left to spread fake news – study](https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study) (_The Guardian - 11.02.2025_)
 * {{< icon "trophy" >}} [German Organizations Triumph in Legal Battle Against Musk's X Over Election Integrity](https://archive.is/czA6K) (_Reuters - 07.02.2025_)
 * [How Elon Musk boosted false USAID conspiracy theories to shut down global aid](https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646) (_NBC News - 07.02.2025_)
-* [The Paris prosecutor's office opens an investigation into the algorithms of the social network X](https://www.lemonde.fr/pixels/article/2025/02/07/le-parquet-de-paris-ouvre-une-enquete-sur-les-algorithmes-du-reseau-social-x_6536320_4408996.html) (_Le Monde - 07.02.2025_)
+* [The Paris prosecutor's office opens an investigation into the algorithms of the social network X](https://www.lemonde.fr/pixels/article/2025/02/07/le-parquet-de-paris-ouvre-une-enquete-sur-les-algorithmes-du-reseau-social-x_6536320_4408996.html) [fr] (_Le Monde - 07.02.2025_)
 * [Putin’s bot army on Musk's X tries to swing German election](https://www.politico.eu/article/germany-election-flood-social-media-x-russia-bots-kremlin-operation-false-news/) (_Politico - 06.02.2025_)
 * [Nigel Farage’s Reform MPs Are Most Boosted UK Politicians on Elon Musk’s X Despite Tiny Parliamentary Presence](https://bylinetimes.com/2025/02/06/nigel-farages-reform-mps-are-most-boosted-uk-politicians-on-elon-musks-x-despite-tiny-parliamentary-presence/) (_Byline Times - 06.02.2025_)
 * [German Organizations Take X to Court Over Election Interference](https://www.reuters.com/world/europe/german-activists-sue-x-demanding-election-influence-data-2025-02-05/6) (_Reuters - 05.02.2025_)
