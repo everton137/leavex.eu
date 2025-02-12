@@ -8,7 +8,7 @@ author: "Mike Kuketz"
 showTableOfContents: true
 ---
 {{< alert "pen" >}}
-<span style="font-size: 0.3em;">Author: **Mike Kuketz**, translated from the [original in German](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/)</span>
+Author: **Mike Kuketz**, translated from the [original in German](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/)
 {{< /alert >}}
 
 
