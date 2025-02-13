@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",e=>{document.querySelectorAll("pre, .highlight-wrapper").forEach(e=>e.dir="auto")})
