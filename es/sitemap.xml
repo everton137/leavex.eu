@@ -5,6 +5,7 @@
     
       <url>
             <loc>https://leavex.eu/es/</loc>
+            <lastmod>2025-02-10T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -89,6 +90,70 @@
               rel="alternate"
               hreflang="es"
               href="https://leavex.eu/es/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/es/posts/por-que-no-tiene-sentido-seguir-en-las-redes-sociales/</loc>
+            <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/posts/why-stay-on-social-media-makes-no-sense/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/posts/pourquoi-rester-sur-les-medias-sociaux-na-pas-de-sens/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="it"
+              href="https://leavex.eu/it/posts/perche-stare-sui-social-media-non-ha-senso/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-pt"
+              href="https://leavex.eu/pt-pt/posts/por-que-permanecer-nas-midias-sociais-nao-faz-sentido/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/posts/por-que-no-tiene-sentido-seguir-en-las-redes-sociales/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/es/posts/</loc>
+            <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="it"
+              href="https://leavex.eu/it/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-pt"
+              href="https://leavex.eu/pt-pt/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/posts/"
               />
           </url>
     

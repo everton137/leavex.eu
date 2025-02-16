@@ -4,30 +4,8 @@
   
     
       <url>
-            <loc>https://leavex.eu/fr/about/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://leavex.eu/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="de"
-              href="https://leavex.eu/de/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="fr"
-              href="https://leavex.eu/fr/about/"
-              />
-          </url>
-    
-  
-    
-  
-    
-      <url>
             <loc>https://leavex.eu/fr/</loc>
+            <lastmod>2025-02-10T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -114,6 +92,93 @@
               href="https://leavex.eu/fr/"
               />
           </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/fr/posts/</loc>
+            <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="it"
+              href="https://leavex.eu/it/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-pt"
+              href="https://leavex.eu/pt-pt/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/posts/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/fr/posts/pourquoi-rester-sur-les-medias-sociaux-na-pas-de-sens/</loc>
+            <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/posts/why-stay-on-social-media-makes-no-sense/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="it"
+              href="https://leavex.eu/it/posts/perche-stare-sui-social-media-non-ha-senso/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/posts/por-que-no-tiene-sentido-seguir-en-las-redes-sociales/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-pt"
+              href="https://leavex.eu/pt-pt/posts/por-que-permanecer-nas-midias-sociais-nao-faz-sentido/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/posts/pourquoi-rester-sur-les-medias-sociaux-na-pas-de-sens/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/fr/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://leavex.eu/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="https://leavex.eu/de/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/about/"
+              />
+          </url>
+    
+  
     
   
     

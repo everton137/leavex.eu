@@ -13,6 +13,21 @@
               />
             <xhtml:link
               rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/posts/pourquoi-rester-sur-les-medias-sociaux-na-pas-de-sens/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="it"
+              href="https://leavex.eu/it/posts/perche-stare-sui-social-media-non-ha-senso/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/posts/por-que-no-tiene-sentido-seguir-en-las-redes-sociales/"
+              />
+            <xhtml:link
+              rel="alternate"
               hreflang="pt-pt"
               href="https://leavex.eu/pt-pt/posts/por-que-permanecer-nas-midias-sociais-nao-faz-sentido/"
               />
@@ -27,6 +42,21 @@
               rel="alternate"
               hreflang="en"
               href="https://leavex.eu/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://leavex.eu/fr/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="it"
+              href="https://leavex.eu/it/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://leavex.eu/es/posts/"
               />
             <xhtml:link
               rel="alternate"
