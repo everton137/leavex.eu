@@ -26,7 +26,7 @@ Anche se qualcuno “non è d'accordo”, la sola argomentazione garantisce che 
 ## 3. Ti arrendi davvero quando te ne vai?
 Un'altra idea sbagliata comune è che lasciare queste piattaforme sia una sorta di resa, un'ammissione che l'odio ha vinto. È vero il contrario. Chi resta segue le regole dei gestori delle piattaforme e alimenta il loro modello di business con attenzione e dati. Chi se ne va li priva di questa risorsa.
 
-Un'opposizione veramente significativa non nasce in un ambiente che è intrinsecamente manipolativo, ma dove le persone possono comunicare in modo autodeterminato. [Fediverso](https://pt.wikipedia.org/wiki/Fediverso) o altre piattaforme decentralizzate offrono condizioni migliori per questo, poiché non si basano sul profitto derivante dall'impegno attraverso l'indignazione.
+Un'opposizione veramente significativa non nasce in un ambiente che è intrinsecamente manipolativo, ma dove le persone possono comunicare in modo autodeterminato. [Fediverso](https://it.wikipedia.org/wiki/Fediverso) o altre piattaforme decentralizzate offrono condizioni migliori per questo, poiché non si basano sul profitto derivante dall'impegno attraverso l'indignazione.
 
 ## 4. Conclusione: l'unica strategia vincente è smettere di usarle
 L'idea che l'opposizione a X o TikTok sia indispensabile si basa su un'incomprensione fondamentale del funzionamento di queste piattaforme. Si rafforza ciò che si vuole combattere. Invece di continuare a lottare contro un algoritmo manipolatore, è più efficace, a lungo termine, utilizzare alternative che consentano un discorso reale e quindi riducano l'influenza delle piattaforme, anziché promuoverla involontariamente.

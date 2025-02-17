@@ -26,7 +26,7 @@ Incluso si alguien «no está de acuerdo», el argumento por sí solo garantiza 
 ## 3. ¿Te rindes realmente cuando te vas?
 Otro error común es creer que abandonar estas plataformas es una especie de rendición, una admisión de que el odio ha ganado. Lo cierto es lo contrario. Los que se quedan siguen las reglas de los operadores de las plataformas y alimentan su modelo de negocio con atención y datos. Los que se van les privan de este recurso.
 
-La oposición verdaderamente significativa no surge en un entorno inherentemente manipulador, sino donde la gente puede comunicarse de forma autodeterminada. [Fediverso](https://pt.wikipedia.org/wiki/Fediverso) u otras plataformas descentralizadas ofrecen mejores condiciones para ello, ya que no dependen de obtener beneficios mediante la participación a través de la indignación.
+La oposición verdaderamente significativa no surge en un entorno inherentemente manipulador, sino donde la gente puede comunicarse de forma autodeterminada. [Fediverso](https://es.wikipedia.org/wiki/Fediverso) u otras plataformas descentralizadas ofrecen mejores condiciones para ello, ya que no dependen de obtener beneficios mediante la participación a través de la indignación.
 
 ## 4. Conclusión: la única estrategia ganadora es dejar de usarlas
 La idea de que la oposición a X o TikTok es indispensable se basa en un malentendido fundamental de cómo funcionan estas plataformas. Se refuerza aquello contra lo que se quiere luchar. En lugar de seguir luchando contra un algoritmo manipulador, es más eficaz a largo plazo utilizar alternativas que permitan un discurso real y reducir así la influencia de las plataformas en lugar de seguir fomentándola involuntariamente.
