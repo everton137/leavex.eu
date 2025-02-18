@@ -11,6 +11,7 @@ cascade:
 The latest updates, media coverage, and opinion pieces supporting the movement to abandon X/Twitter. You can also find [quotes and ideas](/quotes) related to this project.
 
 ### Articles
+* {{< icon "trophy" >}} [Greetings from Muskau: Russian Propaganda Surges as Musk, Trump Jr., and AfD Align](/posts/greetings-from-muskau/) ([original](https://www.spiegel.de/wissenschaft/mensch/elon-musk-trump-junior-und-die-afd-wie-sie-gemeinsam-russische-propagandavideos-verbreiten-a-bf1a0a44-d460-4b8f-9c34-15cea030efa8), de), by Christian Stöcker (_Spiegel - 16.02.2025_)
 * ['Reboot' Revealed: Elon Musk's CEO-Dictator Playbook](https://www.thenerdreich.com/reboot-elon-musk-ceo-dictator-doge/), by Gil Duran (_The Nerd Reich - 05.02.2025_)
 * [Musk wants all the power](https://elpais.com/opinion/2025-02-04/musk-quiere-todo-el-poder.html), Editorial [es] (_El País - 04.02.2025_)
 * {{< icon "star" >}} [Why the argument that you have to stay on social networks to provide opposition is complete nonsense
