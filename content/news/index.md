@@ -16,7 +16,6 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * [Musk wants all the power](https://elpais.com/opinion/2025-02-04/musk-quiere-todo-el-poder.html), Editorial [es] (_El País - 04.02.2025_)
 * {{< icon "star" >}} [Why the argument that you have to stay on social networks to provide opposition is complete nonsense
 ](/posts/why-stay-on-social-media-makes-no-sense/) ([original](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/), de), by Mike Kuketz (_Der Kuketz-Blog - 31.01.2025_)
-* [Trump Hit With New Lawsuit for Funneling Sensitive Info to Elon Musk](https://newrepublic.com/post/190784/trump-lawsuit-funneling-info-federal-workers-elon-musk) (_The New Republic - 28.01.2025_)
 * [Europe’s Elon Musk Problem](https://www.theatlantic.com/magazine/archive/2025/03/musk-tech-oligarch-european-election-influence/681453/), by Anne Applebaum (_The Atlantic - 27.01.2025_)
 * [Wonderful: Le Monde, La Vanguardia, Mediapart, Ouest France, Libération, The Guardian, Dagens Nyheter quit X](https://www.internazionale.it/magazine/giovanni-de-mauro/2025/01/23/meraviglioso), by Giovanni De Mauro [it] (_Internazionale - 23.01.2025_)
 * [The Tech Oligarchy Arrives](https://www.theatlantic.com/politics/archive/2025/01/tech-zuckerberg-trump-inauguration-oligarchy/681381/), by Michael Scherer and Ashley Parker (_The Atlantic - 20.01.2025_)
@@ -41,6 +40,7 @@ The latest updates, media coverage, and opinion pieces supporting the movement t
 * [Russian disinformation could 'poison' upcoming election, German MPs warn](https://www.euronews.com/my-europe/2025/02/03/russian-disinformation-could-poison-upcoming-election-german-mps-warn) (_Euronews - 03.02.2025_)
 * [Advertising boycott shows effect: X now also sues Lego, Pinterest and Nestlè](https://www.heise.de/en/news/Advertising-boycott-shows-effect-X-now-also-sues-Lego-Pinterest-and-Nestle-10267493.html) (_heise online - 03.02.2025_)
 * [The far-right is rising at a crucial time in Germany — boosted by Elon Musk](https://www.alternet.org/germany-musk/) (_AlterNet - 01.02.2025_)
+* [Trump Hit With New Lawsuit for Funneling Sensitive Info to Elon Musk](https://newrepublic.com/post/190784/trump-lawsuit-funneling-info-federal-workers-elon-musk) (_The New Republic - 28.01.2025_)
 * [Musk’s comments that Germany should ‘move beyond’ Nazi guilt are dangerous, says Holocaust memorial chair](https://edition.cnn.com/2025/01/27/europe/israel-holocaust-memorial-chair-musk-criticism-intl/index.html) (_CNN - 27.01.2025_)
 * [European Medicines Agency, EMA, ditches Elon Musk’s X in favor of Bluesky](https://nltimes.nl/2025/01/24/european-medicines-agency-ditches-elon-musks-x-favor-bluesky) (_NL Times - 24.01.2025_)
 * [Reddit Groups are Banning X Links. Could Europe be Next?](https://www.newsweek.com/reddit-banning-x-links-2019994) (_Newsweek - 23.01.2025_)
