@@ -26,9 +26,10 @@ A space to connect with like-minded groups, movements, and individuals who share
 
 ### Petitions
 * [Musk stoppen, X abschalten](https://aktion.campact.de/weact/musk-stoppen/teilnehmen?bucket=20250109-waeb-hv-elon-musk-stoppen-aktive-abos) (Germany)
-* [Petition to the Government of Canada to abandon X](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5359) (Canada)
 * [BAN X in EUROPE - Elon Musk must be stopped in EU](https://www.change.org/p/ban-x-in-europe-elon-musk-must-be-stopped-in-eu) (Europe)
 * [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](https://openpetition.eu/leavex) (Europe)
 * [Cesser d'utiliser Twitter/X pour les communications officielles du gouvernement](https://politipet.fr/2610) also [here](https://petitions.assemblee-nationale.fr/initiatives/i-2610) (France)
+* [Petition to the Government of Canada to abandon X](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5359) (Canada)
+* [Ban X/Twitter in Canada](https://you.leadnow.ca/petitions/ban-x-twitter-in-canada) (Canada)
 * [Truly social media at Australian universities](https://www.openpetition.org/au/petition/online/truly-social-media-at-australian-universities) (Australia)
 * [Open letter to the German Rectors' Conference (HRK) on the use of social media](https://www.openpetition.de/petition/online/open-letter-to-the-german-rectors-conference-hrk-on-the-use-of-social-media) (Germany)
