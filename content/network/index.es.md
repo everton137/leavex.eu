@@ -26,6 +26,7 @@ Un espacio para conectar con grupos, movimientos y personas afines que comparten
 
 ### Peticiones
 * [Musk stoppen, X abschalten](https://aktion.campact.de/weact/musk-stoppen/teilnehmen?bucket=20250109-waeb-hv-elon-musk-stoppen-aktive-abos) (Alemania)
+* [Petición al Gobierno de Canadá para abandonar X](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5359) (Canadá)
 * [BAN X in EUROPE - Elon Musk must be stopped in EU](https://www.change.org/p/ban-x-in-europe-elon-musk-must-be-stopped-in-eu) (Europa)
 * [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](https://openpetition.eu/leavex) (Europa)
 * [Cesser d'utiliser Twitter/X pour les communications officielles du gouvernement](https://politipet.fr/2610) también [aquí](https://petitions.assemblee-nationale.fr/initiatives/i-2610) (Francia)
