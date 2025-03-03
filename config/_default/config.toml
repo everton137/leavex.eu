@@ -11,3 +11,8 @@ enableRobotsTXT = true
 [params]
     homepage.layout = "page"
     colorScheme = "ocean"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
