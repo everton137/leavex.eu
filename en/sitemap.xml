@@ -5,7 +5,7 @@
     
       <url>
             <loc>https://leavex.eu/</loc>
-            <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+            <lastmod>2025-03-03T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="de"
@@ -92,6 +92,28 @@
               href="https://leavex.eu/"
               />
           </url>
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/presentations/digitale-gesellschaft/</loc>
+            <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://leavex.eu/presentations/</loc>
+            <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+          </url>
+    
+  
     
   
     
@@ -230,8 +252,6 @@
       <url>
             <loc>https://leavex.eu/quotes/</loc>
           </url>
-    
-  
     
   
 </urlset>
