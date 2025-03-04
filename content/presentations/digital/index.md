@@ -1,7 +1,7 @@
 ---
 title: "Berlin: Netzpolitischer Abend"
 slug: "digitale-gesellschaft"
-date: 2025-03-03
+date: 2025-03-04
 draft: false
 description: "A short presentation at Digitale Gesellschaft’s Netzpolitischer Abend on the risks of political discourse on X and alternatives."
 tags: ["Leave X", "Digitale Gesellschaft", "campaign"]
