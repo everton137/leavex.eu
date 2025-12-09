@@ -17,6 +17,12 @@ The letter articulates the core message and reasoning behind this initiative. Ho
 * **Gather in-person signatures** to demonstrate widespread support.
 * **Raise awareness** of the dangers of _disinformation campaigns_ and their impact on democratic societies.
 
+## Presentation at the Digitale Gesellschaft Netzpolitischer Abend, in Berlin
+**Date:** March 4, 2025. Details [here](https://digitalegesellschaft.de/2025/02/144-netzpolitischer-abend/), and slides [here](https://slides.com/everton137/deck-fc2ce7).
+
+{{< youtube ElqFlkUXavM >}}
+
+
 If you have suggestions, corrections, or ideas, feel free to email us at [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X). You can contribute to this site on [GitHub](https://github.com/everton137/leavex.eu).
 
 
