@@ -26,3 +26,5 @@ Európa régóta a demokratikus elvek és az innováció jelzőfénye. Azzal, ho
 Felszólítjuk az európai parlamenti képviselőket, a nemzeti vezetőket és a helyi tisztviselőket, hogy most cselekedjenek, mert a demokrácia jövője forog kockán.
 
 {{< but href="https://openpetition.eu/leavex" >}}Szignálja a Petíciót Most!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>

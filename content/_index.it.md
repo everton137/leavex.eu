@@ -26,3 +26,6 @@ L'Europa è stata a lungo un faro per i principi democratici e l'innovazione. Se
 Invitiamo tutti i membri dei Parlamenti europei, i leader nazionali e i funzionari locali ad agire ora, perché è in gioco il futuro della democrazia.
 
 {{< but href="https://openpetition.eu/leavex" >}}Firma la Petizione Ora!!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlino, 06.01.2025</em></p>
+

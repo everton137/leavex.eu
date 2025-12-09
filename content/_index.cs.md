@@ -25,3 +25,5 @@ Evropa je již dlouho majákem demokratických zásad a inovací. Tím, že se p
 Vyzýváme všechny poslance evropských parlamentů, vedoucí představitele členských států a místní úředníky, aby jednali nyní, neboť v sázce je budoucnost demokracie.
 
 {{< but href="https://openpetition.eu/leavex" >}}Podepište petici!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>

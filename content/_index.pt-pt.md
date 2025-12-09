@@ -28,3 +28,6 @@ Apelamos a todos os deputados dos parlamentos europeus, aos líderes nacionais e
 
 {{< but href="https://openpetition.eu/leavex" >}}Assine a Petição Agora!{{< /but >}}
 
+<p style="text-align: right;"><em>Berlim, 06.01.2025</em></p>
+
+

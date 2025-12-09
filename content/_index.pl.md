@@ -26,3 +26,5 @@ Europa od dawna jest wzorem demokratycznych zasad i innowacji. Będąc liderem w
 Wzywamy wszystkich posłów do parlamentów europejskich, przywódców krajowych i lokalnych urzędników do podjęcia działań już teraz, ponieważ stawką jest przyszłość demokracji.
 
 {{< but href="https://openpetition.eu/leavex" >}}Podpisz petycję już teraz!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>

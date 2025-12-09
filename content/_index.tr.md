@@ -26,3 +26,5 @@ Tüm Avrupa Parlamentosu Üyelerini, ulusal liderleri ve yerel yetkilileri şimd
 
 
 {{< but href="https://openpetition.eu/leavex" >}}Dilekçeyi Şimdi İmzalayın!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>

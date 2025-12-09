@@ -26,3 +26,5 @@ Eurooppa on jo pitkään ollut demokraattisten periaatteiden ja innovaation maja
 Kehotamme kaikkia Euroopan parlamentin jäseniä, kansallisia johtajia ja paikallisia virkamiehiä toimimaan nyt, sillä demokratian tulevaisuus on vaakalaudalla.
 
 {{< but href="https://openpetition.eu/leavex" >}}Alkirjoita vetoomus nyt!{{< /but >}}
+
+<p style="text-align: right;"><em>Berliini, 06.01.2025</em></p>

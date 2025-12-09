@@ -25,3 +25,5 @@ Europa a fost mult timp un far pentru principiile democratice și inovație. Pri
 Facem apel la toți membrii parlamentelor europene, la liderii naționali și la funcționarii locali să acționeze acum, deoarece viitorul democrației este în joc.
 
 {{< but href="https://openpetition.eu/leavex" >}}Semnați petiția acum!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>

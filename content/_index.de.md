@@ -26,3 +26,5 @@ Wir appellieren an alle Mitglieder der Europäischen Parlamente, an die Verantwo
 
 {{< but href="https://openpetition.eu/leavex" >}}Unterschreiben Sie jetzt die Petition!{{< /but >}}
 
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>
+

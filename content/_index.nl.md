@@ -26,3 +26,5 @@ Europa is al lang een baken voor democratische principes en innovatie. Door het 
 We roepen alle leden van Europese parlementen, nationale leiders en lokale ambtenaren op om nu te handelen, want de toekomst van de democratie staat op het spel.
 
 {{< but href="https://openpetition.eu/leavex" >}}Teken de Petitie Nu!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>

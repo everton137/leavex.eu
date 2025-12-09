@@ -26,3 +26,5 @@ Europa har länge varit en ledstjärna för demokratiska principer och innovatio
 Vi uppmanar alla ledamöter av Europaparlamentet, nationella ledare och lokala tjänstemän att agera nu, för demokratins framtid står på spel.
 
 {{< but href="https://openpetition.eu/leavex" >}}Skriv under namninsamlingen nu!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>

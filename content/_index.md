@@ -26,3 +26,5 @@ Europe has long been a beacon for democratic principles and innovation. By leadi
 We call upon all Members of European Parliaments, national leaders, and local officials to act now, for the future of democracy is at stake.
 
 {{< but href="https://openpetition.eu/leavex" >}}Sign the Petition Now!{{< /but >}}
+
+<p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>
