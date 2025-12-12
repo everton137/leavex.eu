@@ -8,14 +8,22 @@ cascade:
   showReadingTime: false
 ---
 
-Diese Website dient als zentrale Plattform für die Veröffentlichung von **#LeaveX**, [Ein offener Brief an alle europäischen Politiker und Führungskräfte zur Abkehr von X/Twitter](../), sowie Übersetzungen in verschiedene offizielle europäische Sprachen. Wenn Sie diese Initiative unterstützen, laden wir Sie ein, [die Petition](https://openpetition.eu/leavex) zu unterzeichnen und zu teilen.
+Diese Website dient als zentrale Plattform für **#LeaveX** und beherbergt den [Offenen Brief an alle europäischen Politikerinnen, Politiker und politischen Entscheidungsträger zum Verlassen von X/Twitter](../), verfasst am 06. Januar 2025, sowie Übersetzungen in verschiedene offizielle europäische Sprachen. Eine zur Unterstützung des Briefes initiierte [Petition](https://openpetition.eu/leavex) sammelte vor ihrem Abschluss **3.230 Unterschriften** aus ganz Europa.
 
-Der Brief formuliert die Kernbotschaft und die Gründe hinter dieser Initiative. Die Vision geht jedoch weit über die Online-Beteiligung hinaus. Über diese Plattform möchten wir:
+Der Brief formuliert die zentrale Botschaft und die grundlegenden Argumente dieser Initiative. Für eine vertiefte Auseinandersetzung mit der Frage, warum das Argument, man müsse auf sozialen Netzwerken bleiben, um dort „Gegenposition zu beziehen“, nicht überzeugt, lesen Sie auch: [Warum das Argument, man müsse auf sozialen Netzwerken bleiben, um dort Opposition zu leisten, völlig unsinnig ist](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/).
 
-* **Mit gleichgesinnten Gruppen, Bewegungen und Einzelpersonen vernetzen**, die sich dem Schutz der Demokratie und der Förderung transparenter, ethischer Kommunikation verpflichtet fühlen.
-* **Politiker und Führungskräfte direkt kontaktieren**, um bedeutungsvolle Maßnahmen zu fordern.
-* **Unterschriften persönlich sammeln**, um breite Unterstützung zu zeigen.
-* **Das Bewusstsein schärfen** für die Gefahren von _Desinformationskampagnen_ und deren Auswirkungen auf demokratische Gesellschaften.
+Die Vision geht jedoch weit über reine Online-Aktivitäten hinaus. Über diese Plattform wollen wir:
+
+* **Gleichgesinnte Gruppen, Bewegungen und Einzelpersonen vernetzen**, die sich dem Schutz der Demokratie und einer transparenten, ethischen Kommunikation verpflichtet fühlen.
+* **Politikerinnen, Politiker und Entscheidungsträger direkt kontaktieren**, um konkretes Handeln einzufordern.
+* **Unterschriften persönlich vor Ort sammeln**, um breite Unterstützung sichtbar zu machen.
+* **Bewusstsein für die Gefahren von _Desinformationskampagnen_** und deren Auswirkungen auf demokratische Gesellschaften schaffen.
+
+## Präsentation beim Netzpolitischen Abend der Digitalen Gesellschaft in Berlin
+**Datum:** 4. März 2025. Details [hier](https://digitalegesellschaft.de/2025/02/144-netzpolitischer-abend/), Folien [hier](https://slides.com/everton137/deck-fc2ce7).
+
+{{< youtube ElqFlkUXavM >}}
+
 
 Wenn Sie Vorschläge, Korrekturen oder Ideen haben, schreiben Sie uns gerne eine E-Mail an [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideen%20für%20Leave%20X). Sie können zu dieser Website auf [GitHub](https://github.com/everton137/leavex.eu) beitragen.
 
