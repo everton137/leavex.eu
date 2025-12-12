@@ -10,7 +10,7 @@ cascade:
 
 Ce site web sert de plateforme centrale pour **#LeaveX** et héberge [la lettre ouverte adressée à l’ensemble des responsables et dirigeant·e·s politiques européens appelant à quitter X/Twitter](../), rédigée le 06 janvier 2025, ainsi que ses traductions dans plusieurs langues officielles européennes. Une [pétition](https://openpetition.eu/leavex) créée pour soutenir cette lettre a recueilli **3 230 signatures** à travers l’Europe avant sa clôture.
 
-La lettre expose le message central et les arguments fondamentaux de cette initiative. Pour une réflexion plus approfondie sur les raisons pour lesquelles l’argument consistant à rester sur les réseaux sociaux afin d’y « faire opposition » est fallacieux, vous pouvez également lire : [Pourquoi l’argument selon lequel il faut rester sur les réseaux sociaux pour y faire opposition est totalement infondé](/fr/posts/pourquoi-rester-sur-les-medias-sociaux-na-pas-de-sens/).
+La lettre expose le message central et les arguments fondamentaux de cette initiative. Pour une réflexion plus approfondie sur les raisons pour lesquelles l’argument consistant à rester sur les réseaux sociaux afin d’y « faire opposition » est fallacieux, vous pouvez également lire : [Pourquoi l'argument selon lequel il faut rester sur les médias sociaux pour s'opposer n'a pas de sens ?](/fr/posts/pourquoi-rester-sur-les-medias-sociaux-na-pas-de-sens/).
 
 Cependant, la vision de cette initiative va bien au-delà de l’engagement en ligne. À travers cette plateforme, nous cherchons à :
 
