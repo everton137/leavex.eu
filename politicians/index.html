@@ -36,12 +36,14 @@
   
   
   
+    
+  
   
   <link
     type="text/css"
     rel="stylesheet"
-    href="https://leavex.eu/css/main.bundle.min.31da017b00c1cf1a8d5888868a6dccfc21560bc672bef607de2cdf1615c9edef.css"
-    integrity="sha256-MdoBewDBzxqNWIiGim3M/CFWC8ZyvvYH3izfFhXJ7e8="
+    href="https://leavex.eu/css/main.bundle.min.c876ea7170e0db2ca92c9c2372bba3b9d17bea310fa4c5263ebbd4f4180eab7e.css"
+    integrity="sha256-yHbqcXDg2yypLJwjcrujudF76jEPpMUmPrvU9BgOq34="
   />
   
   
@@ -55,9 +57,6 @@
     content="
       
         
-  
-  
-
       
     "
   />
@@ -67,6 +66,7 @@
   
     <link rel="canonical" href="https://leavex.eu/politicians/" />
   
+  <link rel="alternate" type="application/rss+xml" href="https://leavex.eu/politicians/index.xml" title="Leave X - Protect Democracy" />
   
   
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -84,62 +84,15 @@
   <meta property="og:url" content="https://leavex.eu/politicians/">
   <meta property="og:site_name" content="Leave X - Protect Democracy">
   <meta property="og:title" content="Politicians on Twitter">
-  <meta property="og:description" content="">
   <meta property="og:locale" content="en">
-  <meta property="og:type" content="article">
+  <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Politicians on Twitter">
-  <meta name="twitter:description" content="">
 
   
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "articleSection": "An Open Letter to All European Politicians and Leaders to Abandon X\/Twitter",
-    "name": "Politicians on Twitter",
-    "headline": "Politicians on Twitter",
-    
-    "abstract": "\u003cdiv\u003e\n  \u003cinput type=\u0022text\u0022 id=\u0022search\u0022 placeholder=\u0022Search politicians\u0022 \/\u003e\n  \u003cul id=\u0022politicianList\u0022\u003e\u003c\/ul\u003e\n\u003c\/div\u003e",
-    "inLanguage": "en",
-    "url" : "https:\/\/leavex.eu\/politicians\/",
-    "author" : {
-      "@type": "Person",
-      "name": ""
-    },
-    
-    
-    
-    
-    
-    
-    
-    
-    "mainEntityOfPage": "true",
-    "wordCount": "0"
-  }
-  </script>
-    <script type="application/ld+json">
-    {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-     {
-       "@type": "ListItem",
-       "item": "https://leavex.eu/",
-       "name": "An Open Letter to All European Politicians and Leaders to Abandon X Twitter",
-       "position": 1
-     },
-     {
-       "@type": "ListItem",
-       "name": "Politicians on Twitter",
-       "position": 2
-     }
-   ]
- }
-  </script>
+  
 
   
   
@@ -261,146 +214,50 @@
     <div class="relative flex grow flex-col">
       <main id="main-content" class="grow">
         
-  <article>
-    <header class="max-w-prose">
-      
-      <h1 class="mb-8 mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Politicians on Twitter
-      </h1>
-      
-        <div class="mb-10 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
-          
 
+<h1>Politicians on X/Twitter</h1>
 
+<p>Filter by level and country, and search by name, party, or handle.</p>
 
-
-
-  
-  
-
-
-
-  
-
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">1 January 0001</time>
-    
-
-    
-    
+<div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:flex-end; margin-bottom:1rem;">
+  <div>
+    <label for="filter-level"><strong>Level</strong></label><br>
+    <select id="filter-level">
+      <option value="">All levels</option>
+      <option value="eu">EU level</option>
+      <option value="national">National</option>
+    </select>
   </div>
 
-  
-  
-
-
-        </div>
+  <div>
+    <label for="filter-country"><strong>Country</strong></label><br>
+    <select id="filter-country">
+      <option value="">All countries</option>
       
-      
-    </header>
-    <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
-      
-      <div class="min-h-0 min-w-0 max-w-prose grow">
-        <div>
-  <input type="text" id="search" placeholder="Search politicians" />
-  <ul id="politicianList"></ul>
-</div>
-
-      </div>
-    </section>
-    <footer class="max-w-prose pt-8 print:hidden">
-      
-  <div class="flex">
-    
-    
-    
-    <div class="place-self-center">
-      
-      
-      <div class="text-2xl sm:text-lg">
-</div>
-    </div>
+    </select>
   </div>
 
+  <div style="flex:1; min-width:220px;">
+    <label for="politician-search"><strong>Search</strong></label><br>
+    <input
+      type="search"
+      id="politician-search"
+      placeholder="e.g. Germany, Greens, @handle, name..."
+      style="width:100%; padding:0.35rem;"
+    >
+  </div>
+</div>
 
-      
+<div id="politician-list" class="politician-list"></div>
 
-      
-  
-    
-    
-    
-    <div class="pt-8">
-      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
-      <div class="flex justify-between pt-3">
-        <span>
-          
-            <a class="group flex" href="https://leavex.eu/quotes/">
-              <span
-                class="me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
-                ><span class="ltr:inline rtl:hidden">&larr;</span
-                ><span class="ltr:hidden rtl:inline">&rarr;</span></span
-              >
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Quotes</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">1 January 0001</time>
-                  
-                </span>
-              </span>
-            </a>
-          
-        </span>
-        <span>
-          
-            <a class="group flex text-right" href="https://leavex.eu/news/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Newsroom</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">1 January 0001</time>
-                  
-                </span>
-              </span>
-              <span
-                class="ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[-2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
-                ><span class="ltr:inline rtl:hidden">&rarr;</span
-                ><span class="ltr:hidden rtl:inline">&larr;</span></span
-              >
-            </a>
-          
-        </span>
-      </div>
-    </div>
-  
+<script>
+  window.POLITICIANS = "[{\"country\":\"Germany\",\"countryCode\":\"DE\",\"email\":\"jane.doe@europarl.europa.eu\",\"id\":\"mep_001\",\"institution\":\"European Parliament\",\"level\":\"eu\",\"name\":\"Jane Doe\",\"party\":\"Greens/EFA\",\"role\":\"MEP\",\"usesX\":true,\"xHandle\":\"@janedoe\"},{\"country\":\"Portugal\",\"countryCode\":\"PT\",\"email\":\"maria.silva@parlamento.pt\",\"id\":\"mp_001\",\"institution\":\"Assembleia da República\",\"level\":\"national\",\"name\":\"Maria Silva\",\"party\":\"PS\",\"role\":\"MP\",\"usesX\":false,\"xHandle\":null}]";
+</script>
 
 
-      
-    </footer>
-  </article>
+<script src="/js/search.min.js" defer></script>
+
+
 
       </main>
       
