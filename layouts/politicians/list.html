@@ -2,24 +2,45 @@
 
 <h1>Politicians on X/Twitter</h1>
 
-<div class="politician-list">
-  {{ range .Site.Data.politicians }}
-    <div class="politician-card">
-      <h2>{{ .name }}</h2>
-      <p><strong>Country:</strong> {{ .country }}</p>
-      <p><strong>Role:</strong> {{ .role }}</p>
+<p>Filter by level and country, and search by name, party, or handle.</p>
 
-      {{ if .email }}
-        <p><strong>Email:</strong> <a href="mailto:{{ .email }}">{{ .email }}</a></p>
-      {{ end }}
+<div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:flex-end; margin-bottom:1rem;">
+  <div>
+    <label for="filter-level"><strong>Level</strong></label><br>
+    <select id="filter-level">
+      <option value="">All levels</option>
+      <option value="eu">EU level</option>
+      <option value="national">National</option>
+    </select>
+  </div>
 
-      {{ if .usesX }}
-        <p><strong>On X/Twitter:</strong> Yes ({{ .xHandle }})</p>
-      {{ else }}
-        <p><strong>On X/Twitter:</strong> No</p>
-      {{ end }}
-    </div>
-  {{ end }}
+  <div>
+    <label for="filter-country"><strong>Country</strong></label><br>
+    <select id="filter-country">
+      <option value="">All countries</option>
+      <!-- options will be filled by JS based on data -->
+    </select>
+  </div>
+
+  <div style="flex:1; min-width:220px;">
+    <label for="politician-search"><strong>Search</strong></label><br>
+    <input
+      type="search"
+      id="politician-search"
+      placeholder="e.g. Germany, Greens, @handle, name..."
+      style="width:100%; padding:0.35rem;"
+    >
+  </div>
 </div>
+
+<div id="politician-list" class="politician-list"></div>
+
+<script>
+  window.POLITICIANS = {{ .Site.Data.politicians | jsonify }};
+</script>
+
+{{ $search := resources.Get "js/search.js" | js.Build (dict "format" "iife") | minify }}
+<script src="{{ $search.RelPermalink }}" defer></script>
+
 
 {{ end }}
