@@ -2,8 +2,14 @@
 title: "Lettre ouverte à tous les hommes politiques et dirigeants européens pour qu'ils abandonnent X/Twitter"
 ---
 
-{{< alert "pen" >}}
-Soutenez cette lettre en signant la [pétition](https://openpetition.eu/leavex) et en _tendant la main_ aux politiciens.  
+{{< alert >}}
+La phase de [pétition](https://openpetition.eu/leavexfr) est **terminée**.
+Merci aux *3 230 personnes* qui l'ont soutenue !
+
+Nous sommes actuellement en train de développer un outil pour aider les citoyens à contacter les responsables politiques qui continuent d'utiliser X/Twitter pour leurs communications officielles.
+
+Si vous souhaitez apporter vos idées ou aider au développement, n'hésitez pas à nous contacter :  
+Contacts : [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) ou [@leavex.bsky. social](hhttps://bsky.app/profile/leavex.eu) 
 {{< /alert >}}
 
 
@@ -24,8 +30,6 @@ Nous vous demandons instamment de prendre position contre cette évolution inqui
 L'Europe est depuis longtemps un phare pour les principes démocratiques et l'innovation. En montrant la voie en rejetant les plateformes qui compromettent ces idéaux, vous pouvez réduire de manière significative l'influence des campagnes de désinformation qui menacent le tissu des sociétés démocratiques.
 
 Nous appelons tous les membres des parlements européens, les dirigeants nationaux et les responsables locaux à agir maintenant, car l'avenir de la démocratie est en jeu.
-
-{{< but href="https://openpetition.eu/leavex" >}}Signez la Pétition Maintenant !{{< /but >}}
 
 <p style="text-align: right;"><em>Berlin, 06.01.2025</em></p>
 
