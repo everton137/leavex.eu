@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<h1>Politicians on X/Twitter</h1>
+
+<div class="politician-list">
+  {{ range .Site.Data.politicians }}
+    <div class="politician-card">
+      <h2>{{ .name }}</h2>
+      <p><strong>Country:</strong> {{ .country }}</p>
+      <p><strong>Role:</strong> {{ .role }}</p>
+
+      {{ if .email }}
+        <p><strong>Email:</strong> <a href="mailto:{{ .email }}">{{ .email }}</a></p>
+      {{ end }}
+
+      {{ if .usesX }}
+        <p><strong>On X/Twitter:</strong> Yes ({{ .xHandle }})</p>
+      {{ else }}
+        <p><strong>On X/Twitter:</strong> No</p>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+
+{{ end }}

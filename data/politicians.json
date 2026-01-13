@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mep_123",
+    "name": "Jane DOE",
+    "country": "DE",
+    "level": "eu",
+    "role": "MEP",
+    "party": "Greens/EFA",
+    "email": "jane.doe@europarl.europa.eu",
+    "usesX": true,
+    "xHandle": "@janedoe",
+    "website": "https://example.eu"
+  }
+]
