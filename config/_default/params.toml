@@ -3,3 +3,6 @@
 
 [article]
   showReadingTime = false
+
+[assets]
+  loadExtendedCSS = true
