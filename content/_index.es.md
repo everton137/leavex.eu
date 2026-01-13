@@ -9,7 +9,7 @@ La fase de [petición](https://openpetition.eu/leavexes) ha **concluido**.
 Ahora estamos creando una herramienta para ayudar a los ciudadanos a ponerse en contacto con los políticos que siguen utilizando X/Twitter para sus comunicaciones oficiales.
 
 Si desea aportar ideas o ayudar con el desarrollo, póngase en contacto con nosotros:  
-Contactos: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) o [@leavex.bsky. social](hhttps://bsky.app/profile/leavex.eu) 
+Contactos: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) o [@leavex.bsky. social](https://bsky.app/profile/leavex.eu) 
 {{< /alert >}}
 
 **Los políticos y dirigentes europeos deben actuar ya para proteger la democracia**.

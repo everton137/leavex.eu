@@ -9,7 +9,7 @@ Vielen Dank an alle *3.230 Personen*, die sie unterstützt haben! Bitte erwägen
 Wir entwickeln derzeit ein Tool, mit dem Bürger Politiker kontaktieren können, die weiterhin X/Twitter für offizielle Mitteilungen nutzen.
 
 Wenn Sie Ideen einbringen oder bei der Entwicklung helfen möchten, wenden Sie sich bitte an:  
-Kontakte: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) oder [@leavex.bsky. social](hhttps://bsky.app/profile/leavex.eu) 
+Kontakte: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) oder [@leavex.bsky. social](https://bsky.app/profile/leavex.eu) 
 {{< /alert >}}
 
 **Europäische Politiker und führende Persönlichkeiten müssen jetzt handeln, um die Demokratie zu schützen**

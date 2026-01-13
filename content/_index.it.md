@@ -9,7 +9,7 @@ Grazie a tutte le *3.230 persone* che l'hanno sostenuta!
 Stiamo ora sviluppando uno strumento per aiutare i cittadini a contattare i politici che continuano a utilizzare X/Twitter per le comunicazioni ufficiali.
 
 Se desiderate contribuire con idee o aiutare nello sviluppo, contattateci:  
-Contatti: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) o [@leavex.bsky. social](hhttps://bsky.app/profile/leavex.eu) 
+Contatti: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) o [@leavex.bsky. social](https://bsky.app/profile/leavex.eu) 
 {{< /alert >}}
 
 

@@ -10,7 +10,7 @@ Thank you to all *3,230 people* who supported it! Consider signing a [petition](
 We are now building a tool to help citizens contact politicians who continue to use X/Twitter for official communication.
 
 If you’d like to contribute ideas or help with development, please get in touch:  
-Contacts: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex), or [@leavex.bsky.social](hhttps://bsky.app/profile/leavex.eu) 
+Contacts: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex), or [@leavex.bsky.social](https://bsky.app/profile/leavex.eu) 
 {{< /alert >}}
 
 
