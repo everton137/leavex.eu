@@ -4,7 +4,7 @@ title: "Lettre ouverte à tous les hommes politiques et dirigeants européens po
 
 {{< alert >}}
 La phase de [pétition](https://openpetition.eu/leavexfr) est **terminée**.
-Merci aux *3 230 personnes* qui l'ont soutenue !
+Merci aux *3 230 personnes* qui l'ont soutenue ! Envisagez de signer cette [pétition](https://petitions.assemblee-nationale.fr/initiatives/i-2610) pour la France.
 
 Nous sommes actuellement en train de développer un outil pour aider les citoyens à contacter les responsables politiques qui continuent d'utiliser X/Twitter pour leurs communications officielles.
 

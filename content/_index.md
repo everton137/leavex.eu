@@ -5,7 +5,7 @@ description: "Protect Democracy"
 
 {{< alert>}}
 The [petition](https://openpetition.eu/leavex) phase has **concluded**.
-Thank you to all *3,230 people* who supported it!
+Thank you to all *3,230 people* who supported it! Consider signing a [petition](network/#petitions) for your region.
 
 We are now building a tool to help citizens contact politicians who continue to use X/Twitter for official communication.
 

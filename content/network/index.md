@@ -10,6 +10,22 @@ cascade:
 
 A space to connect with like-minded groups, movements, and individuals who share a commitment to protecting democracy and promoting transparent, ethical communication.
 
+### Petitions
+
+* [Keine Macht für Oligarchen: Bundesregierung endlich runter von X](https://weact.campact.de/petitions/keine-macht-fur-oligarchen-bundesregierung-endlich-runter-von-x) (Germany)
+* [Cesser d'utiliser X (anciennement Twitter) pour les communications officielles du gouvernement
+](https://petitions.assemblee-nationale.fr/initiatives/i-2610) (France)
+
+#### Concluded
+* [Musk stoppen, X abschalten](https://aktion.campact.de/weact/musk-stoppen/teilnehmen?bucket=20250109-waeb-hv-elon-musk-stoppen-aktive-abos) (Germany)
+* [BAN X in EUROPE - Elon Musk must be stopped in EU](https://www.change.org/p/ban-x-in-europe-elon-musk-must-be-stopped-in-eu) (Europe)
+* [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](https://openpetition.eu/leavex) (Europe)
+* [Cesser d'utiliser Twitter/X pour les communications officielles du gouvernement](https://politipet.fr/2610) also [here](https://petitions.assemblee-nationale.fr/initiatives/i-2610) (France)
+* [Petition to the Government of Canada to abandon X](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5359) (Canada)
+* [Ban X/Twitter in Canada](https://you.leadnow.ca/petitions/ban-x-twitter-in-canada) (Canada)
+* [Truly social media at Australian universities](https://www.openpetition.org/au/petition/online/truly-social-media-at-australian-universities) (Australia)
+* [Open letter to the German Rectors' Conference (HRK) on the use of social media](https://www.openpetition.de/petition/online/open-letter-to-the-german-rectors-conference-hrk-on-the-use-of-social-media) (Germany)
+
 ### Initiatives
 
 * [**EscapeX**](https://escape-x.org): the international campaign *#EscapeX* aims at encouraging individuals, institutions, media outlets, and policymakers to transition from the platform X to more democratic and decentralized digital spaces like Mastodon and Bluesky. The initiative, supported by various initiatives across Europe, promotes data portability and helps users re-establish their social connections on these alternative platforms using the app [OpenPortability](https://openportability.org). In France, over 34,000 users have joined the application, restoring more than 340,000 connections. The campaign is backed by some of the initiatives listed here from countries like France, Spain, Germany, and Italy, collectively advocating for a digital space that fosters democratic debate, neutral algorithms, effective content moderation, and independence from billionaire influence. (International)
@@ -24,12 +40,3 @@ A space to connect with like-minded groups, movements, and individuals who share
 * [**X-odus**](https://github.com/ccamara/X-odus): A list of relevant organizations that have decided to break relationships with X and have made a public statement.
 * [**LeaveX**](/about): The *#LeaveX* initiative calls on European politicians and leaders to abandon X in defense of democracy. Through an open letter, accompanied by a [petition](https://openpetition.eu/leavex) and translated into multiple languages, it highlights the platform's role in amplifying disinformation, hate speech, and polarization. (Germany)
 
-### Petitions
-* [Musk stoppen, X abschalten](https://aktion.campact.de/weact/musk-stoppen/teilnehmen?bucket=20250109-waeb-hv-elon-musk-stoppen-aktive-abos) (Germany)
-* [BAN X in EUROPE - Elon Musk must be stopped in EU](https://www.change.org/p/ban-x-in-europe-elon-musk-must-be-stopped-in-eu) (Europe)
-* [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](https://openpetition.eu/leavex) (Europe)
-* [Cesser d'utiliser Twitter/X pour les communications officielles du gouvernement](https://politipet.fr/2610) also [here](https://petitions.assemblee-nationale.fr/initiatives/i-2610) (France)
-* [Petition to the Government of Canada to abandon X](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5359) (Canada)
-* [Ban X/Twitter in Canada](https://you.leadnow.ca/petitions/ban-x-twitter-in-canada) (Canada)
-* [Truly social media at Australian universities](https://www.openpetition.org/au/petition/online/truly-social-media-at-australian-universities) (Australia)
-* [Open letter to the German Rectors' Conference (HRK) on the use of social media](https://www.openpetition.de/petition/online/open-letter-to-the-german-rectors-conference-hrk-on-the-use-of-social-media) (Germany)
