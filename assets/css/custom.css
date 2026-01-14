@@ -187,4 +187,27 @@
   }
 }
 
+.politician-stats {
+  margin-bottom: 0.75rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 9999px;
+  border: 1px solid var(--hairline-color);
+  background-color: rgba(0, 0, 0, 0.02);
+  font-size: 0.9rem;
+}
+
+.politician-stats-text {
+  margin: 0;
+}
+
+.politician-stats-percent {
+  margin-left: 0.25rem;
+  color: var(--muted-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  .politician-stats {
+    background-color: rgba(255, 255, 255, 0.04);
+  }
+}
 

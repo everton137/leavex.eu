@@ -6,8 +6,9 @@ console.log("search.js loaded");
   const levelSelect = document.getElementById("filter-level");
   const countrySelect = document.getElementById("filter-country");
   const xStatusSelect = document.getElementById("filter-xstatus");
+  const statsEl = document.getElementById("politician-stats");
 
-  if (!listEl || !searchInput || !levelSelect || !countrySelect || !xStatusSelect) {
+  if (!listEl || !searchInput || !levelSelect || !countrySelect || !xStatusSelect || !statsEl) {
     console.warn("One or more filter elements not found.");
     return;
   }
@@ -65,6 +66,50 @@ console.log("search.js loaded");
     }
     return true;
   }
+
+  function renderStats(items, countryValue) {
+  if (!statsEl) return;
+
+  const total = items.length;
+
+  if (total === 0) {
+    statsEl.innerHTML = "<p class=\"politician-stats-text\">No politicians match the current filters.</p>";
+    return;
+  }
+
+  let onX = 0;
+  let offX = 0;
+
+  items.forEach((p) => {
+    if (p.usesX) {
+      onX += 1;
+    } else {
+      offX += 1;
+    }
+  });
+
+  const percentOff = Math.round((offX / total) * 100);
+
+  let label = "All countries";
+  if (countryValue) {
+    // countryMap is already built earlier in your code
+    const fromMap = countryMap.get(countryValue);
+    label = fromMap || countryValue;
+  }
+
+  const isCountrySelected = !!countryValue;
+  const prefix = isCountrySelected ? `${label}: ` : "";
+
+  statsEl.innerHTML = `
+    <p class="politician-stats-text">
+      ${prefix}
+      <strong>Still on X:</strong> ${onX} /
+      <strong>Not on X:</strong> ${offX}
+      <span class="politician-stats-percent">(${percentOff}% not on X)</span>
+    </p>
+  `;
+  }
+
 
   function matchesSearch(p, term) {
     if (!term) return true;
@@ -150,10 +195,12 @@ console.log("search.js loaded");
     });
 
     renderList(filtered);
+    renderStats(filtered, countryValue);
   }
 
   // Initial render with all items
   renderList(allPoliticians);
+  renderStats(allPoliticians, "");
 
   // Wire events
   searchInput.addEventListener("input", applyFilters);
