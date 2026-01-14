@@ -1,5 +1,5 @@
 ---
-title: "Politicians on Twitter"
+title: "Politicians on X/Twitter"
 type: "politicians"
 layout: "list"
 showDate: false

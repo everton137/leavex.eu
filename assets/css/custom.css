@@ -5,10 +5,186 @@
   margin-top: 2rem;
 }
 
+/* Base card styling */
 .politician-card {
   padding: 1rem;
+  border-radius: 0.75rem;
   border: 1px solid var(--hairline-color);
-  border-radius: 8px;
   background: var(--surface);
   box-shadow: var(--shadow-sm);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
 }
+
+/* Politician still on X — light red warning */
+.politician-card.on-x {
+  background-color: rgba(255, 0, 0, 0.06);
+  border-color: rgba(255, 0, 0, 0.25);
+}
+
+/* Politician NOT on X — calm green background */
+.politician-card.not-on-x {
+  background-color: rgba(0, 128, 0, 0.07);
+  border-color: rgba(0, 128, 0, 0.25);
+}
+
+/* Improve readability */
+.politician-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.politician-card ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.politician-card li + li {
+  margin-top: 0.15rem;
+}
+
+/* Optional: mouse hover effect */
+.politician-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* ===== Filter bar layout ===== */
+
+.politician-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: flex-end;
+  margin-bottom: 1.25rem;
+}
+
+.filter-field {
+  min-width: 160px;
+}
+
+.filter-field--grow {
+  flex: 1 1 220px;
+}
+
+/* ===== Labels ===== */
+
+.filter-label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.25rem;
+  color: var(--muted-color);
+}
+
+/* ===== Inputs (select + search) ===== */
+
+.filter-input {
+  width: 100%;
+  padding: 0.45rem 0.75rem;
+  border-radius: 9999px; /* pill look */
+  border: 1px solid var(--hairline-color);
+  background-color: var(--surface);
+  color: inherit;
+  font-size: 0.95rem;
+  line-height: 1.2;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  box-shadow: var(--shadow-xs);
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease,
+    background-color 0.15s ease;
+}
+
+/* “Chevron” for selects */
+.filter-input[type="search"] {
+  appearance: auto; /* keep native search behaviour */
+}
+
+.filter-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+/* Make selects feel less old-school */
+.filter-input::-ms-expand {
+  display: none;
+}
+
+/* Search input specific tweaks */
+.filter-input--search::placeholder {
+  color: var(--muted-color);
+  opacity: 0.85;
+}
+
+/* Slightly tinted background for the search field */
+.filter-input--search {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+/* Adjust tint in dark mode */
+@media (prefers-color-scheme: dark) {
+  .filter-input--search {
+    background-color: rgba(255, 255, 255, 0.06);
+  }
+}
+
+
+/* On small screens: stack nicely */
+@media (max-width: 640px) {
+  .politician-filters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .filter-field,
+  .filter-field--grow {
+    min-width: 0;
+    width: 100%;
+  }
+}
+
+/* Add a dropdown arrow to selects */
+.filter-input:not(.filter-input--search) {
+  background-image: url("data:image/svg+xml,%3Csvg width='14' height='14' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5 7L10 12L15 7' stroke='%23666' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 14px;
+  padding-right: 2rem; /* space for the arrow */
+  cursor: pointer;
+}
+
+/* Dark mode arrow color */
+@media (prefers-color-scheme: dark) {
+  .filter-input:not(.filter-input--search) {
+    background-image: url("data:image/svg+xml,%3Csvg width='14' height='14' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5 7L10 12L15 7' stroke='%23aaa' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  }
+}
+
+.filter-input:not(.filter-input--search) {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+@media (prefers-color-scheme: dark) {
+  .filter-input:not(.filter-input--search) {
+    background-color: rgba(255, 255, 255, 0.08);
+  }
+}
+
+.filter-input:not(.filter-input--search):hover {
+  background-color: rgba(0, 0, 0, 0.07);
+}
+
+@media (prefers-color-scheme: dark) {
+  .filter-input:not(.filter-input--search):hover {
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+}
+
+

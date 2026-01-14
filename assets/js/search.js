@@ -104,7 +104,7 @@ console.log("search.js loaded");
         : p.level || "";
 
       return `
-        <article class="politician-card">
+        <article class="politician-card ${p.usesX ? "on-x" : "not-on-x"}">
           <h2>${p.name}</h2>
           <ul>
             ${countryText ? `<li><strong>Country:</strong> ${countryText}</li>` : ""}

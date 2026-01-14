@@ -1,34 +1,43 @@
 {{ define "main" }}
 
-<h1>Politicians on X/Twitter</h1>
+<header class="page-header prose md:prose-lg prose-headings:mb-2 max-w-none">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Params.description }}
+    <p class="page-subtitle">{{ . }}</p>
+  {{ end }}
+</header>
 
-<p>Filter by level and country, and search by name, party, or handle.</p>
 
-<div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:flex-end; margin-bottom:1rem;">
-  <div>
-    <label for="filter-level"><strong>Level</strong></label><br>
-    <select id="filter-level">
+<p class="lead">
+Use the filters below to browse politicians by level and country, or search by name, party, or handle.
+Soon you’ll also be able to copy the relevant email list and send a message urging them to leave X/Twitter.
+</p>
+
+<div class="politician-filters">
+  <div class="filter-field">
+    <label for="filter-level" class="filter-label">Level</label>
+    <select id="filter-level" class="filter-input">
       <option value="">All levels</option>
       <option value="eu">EU level</option>
       <option value="national">National</option>
     </select>
   </div>
 
-  <div>
-    <label for="filter-country"><strong>Country</strong></label><br>
-    <select id="filter-country">
+  <div class="filter-field">
+    <label for="filter-country" class="filter-label">Country</label>
+    <select id="filter-country" class="filter-input">
       <option value="">All countries</option>
-      <!-- options will be filled by JS based on data -->
+      <!-- options filled by JS -->
     </select>
   </div>
 
-  <div style="flex:1; min-width:220px;">
-    <label for="politician-search"><strong>Search</strong></label><br>
+  <div class="filter-field filter-field--grow">
+    <label for="politician-search" class="filter-label">Search</label>
     <input
       type="search"
       id="politician-search"
+      class="filter-input filter-input--search"
       placeholder="e.g. Germany, Greens, @handle, name..."
-      style="width:100%; padding:0.35rem;"
     >
   </div>
 </div>
