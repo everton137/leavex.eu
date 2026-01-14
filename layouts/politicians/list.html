@@ -45,7 +45,7 @@ Soon you’ll also be able to copy the relevant email list and send a message ur
 <div id="politician-list" class="politician-list"></div>
 
 <script>
-  window.POLITICIANS = {{ .Site.Data.politicians | jsonify }};
+  window.POLITICIANS = {{ .Site.Data.meps_all | jsonify }};
 </script>
 
 {{ $search := resources.Get "js/search.js" | js.Build (dict "format" "iife") | minify }}
