@@ -5,8 +5,9 @@ console.log("search.js loaded");
   const listEl = document.getElementById("politician-list");
   const levelSelect = document.getElementById("filter-level");
   const countrySelect = document.getElementById("filter-country");
+  const xStatusSelect = document.getElementById("filter-xstatus");
 
-  if (!listEl || !searchInput || !levelSelect || !countrySelect) {
+  if (!listEl || !searchInput || !levelSelect || !countrySelect || !xStatusSelect) {
     console.warn("One or more filter elements not found.");
     return;
   }
@@ -26,9 +27,6 @@ console.log("search.js loaded");
     console.warn("Failed to parse POLITICIANS JSON string:", e);
   }
 }
-
-  console.log(raw)
-  console.log("Loaded politicians:", allPoliticians.length, allPoliticians);
 
   // ---- Build country dropdown options from data ----
   const countryMap = new Map(); // code -> label
@@ -53,6 +51,20 @@ console.log("search.js loaded");
   });
 
   // ---- Filtering logic ----
+
+  function matchesXStatus(p, statusValue) {
+    if (!statusValue) return true; // “All”
+
+    const usesX = !!p.usesX; // normalize to boolean
+
+    if (statusValue === "on") {
+      return usesX === true;
+    }
+    if (statusValue === "off") {
+      return usesX === false;
+    }
+    return true;
+  }
 
   function matchesSearch(p, term) {
     if (!term) return true;
@@ -126,12 +138,14 @@ console.log("search.js loaded");
     const term = searchInput.value.trim();
     const levelValue = levelSelect.value;
     const countryValue = countrySelect.value;
+    const xStatusValue = xStatusSelect.value;
 
     const filtered = allPoliticians.filter((p) => {
       return (
         matchesSearch(p, term) &&
         matchesLevel(p, levelValue) &&
-        matchesCountry(p, countryValue)
+        matchesCountry(p, countryValue) &&
+        matchesXStatus(p, xStatusValue)
       );
     });
 
@@ -145,4 +159,5 @@ console.log("search.js loaded");
   searchInput.addEventListener("input", applyFilters);
   levelSelect.addEventListener("change", applyFilters);
   countrySelect.addEventListener("change", applyFilters);
+  xStatusSelect.addEventListener("change", applyFilters);
 })();
