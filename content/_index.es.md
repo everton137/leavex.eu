@@ -6,7 +6,7 @@ title: "Carta abierta a todos los políticos y líderes europeos para que abando
 La fase de [petición](https://openpetition.eu/leavexes) ha **concluido**.
 ¡Gracias a las *3230 personas* que la han apoyado!
 
-Ahora estamos creando una herramienta para ayudar a los ciudadanos a ponerse en contacto con los políticos que siguen utilizando X/Twitter para sus comunicaciones oficiales.
+Ahora estamos creando una h[**erramienta**](/politicians) para ayudar a los ciudadanos a ponerse en contacto con los políticos que siguen utilizando X/Twitter para sus comunicaciones oficiales.
 
 Si desea aportar ideas o ayudar con el desarrollo, póngase en contacto con nosotros:  
 Contactos: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) o [@leavex.bsky. social](https://bsky.app/profile/leavex.eu) 

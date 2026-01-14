@@ -6,7 +6,7 @@ title: "Lettre ouverte à tous les hommes politiques et dirigeants européens po
 La phase de [pétition](https://openpetition.eu/leavexfr) est **terminée**.
 Merci aux *3 230 personnes* qui l'ont soutenue ! Envisagez de signer cette [pétition](https://petitions.assemblee-nationale.fr/initiatives/i-2610) pour la France.
 
-Nous sommes actuellement en train de développer un outil pour aider les citoyens à contacter les responsables politiques qui continuent d'utiliser X/Twitter pour leurs communications officielles.
+Nous sommes actuellement en train de développer un [**outi**l](/politicians) pour aider les citoyens à contacter les responsables politiques qui continuent d'utiliser X/Twitter pour leurs communications officielles.
 
 Si vous souhaitez apporter vos idées ou aider au développement, n'hésitez pas à nous contacter :  
 Contacts : [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) ou [@leavex.bsky. social](https://bsky.app/profile/leavex.eu) 

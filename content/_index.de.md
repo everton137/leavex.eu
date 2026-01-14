@@ -6,7 +6,7 @@ title: "Ein offener Brief an alle europäischen Politiker und Führungskräfte z
 Die [Petitionsphase](https://openpetition.eu/!leavexde) ist **abgeschlossen**.
 Vielen Dank an alle *3.230 Personen*, die sie unterstützt haben! Bitte erwägen Sie, diese [Petition](https://weact.campact.de/petitions/keine-macht-fur-oligarchen-bundesregierung-endlich-runter-von-x) für Deutschland zu unterzeichnen.
 
-Wir entwickeln derzeit ein Tool, mit dem Bürger Politiker kontaktieren können, die weiterhin X/Twitter für offizielle Mitteilungen nutzen.
+Wir entwickeln derzeit ein [**Tool**](/politicians), mit dem Bürger Politiker kontaktieren können, die weiterhin X/Twitter für offizielle Mitteilungen nutzen.
 
 Wenn Sie Ideen einbringen oder bei der Entwicklung helfen möchten, wenden Sie sich bitte an:  
 Kontakte: [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex) oder [@leavex.bsky. social](https://bsky.app/profile/leavex.eu) 
