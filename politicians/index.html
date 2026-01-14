@@ -17,8 +17,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#FFFFFF" />
   
-  <title>Politicians on Twitter &middot; Leave X - Protect Democracy</title>
-    <meta name="title" content="Politicians on Twitter &middot; Leave X - Protect Democracy" />
+  <title>Politicians on X/Twitter &middot; Leave X - Protect Democracy</title>
+    <meta name="title" content="Politicians on X/Twitter &middot; Leave X - Protect Democracy" />
   
   
   
@@ -42,8 +42,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="https://leavex.eu/css/main.bundle.min.c876ea7170e0db2ca92c9c2372bba3b9d17bea310fa4c5263ebbd4f4180eab7e.css"
-    integrity="sha256-yHbqcXDg2yypLJwjcrujudF76jEPpMUmPrvU9BgOq34="
+    href="https://leavex.eu/css/main.bundle.min.28d29aed8d3ea6b8f97007434d48f90d20bc9eca60b38e1bae76967c3bdbba45.css"
+    integrity="sha256-KNKa7Y0&#43;prj5cAdDTUj5DSC8nspgs44brnaWfDvbukU="
   />
   
   
@@ -83,13 +83,13 @@
   
   <meta property="og:url" content="https://leavex.eu/politicians/">
   <meta property="og:site_name" content="Leave X - Protect Democracy">
-  <meta property="og:title" content="Politicians on Twitter">
+  <meta property="og:title" content="Politicians on X/Twitter">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Politicians on Twitter">
+  <meta name="twitter:title" content="Politicians on X/Twitter">
 
   
   
@@ -215,35 +215,42 @@
       <main id="main-content" class="grow">
         
 
-<h1>Politicians on X/Twitter</h1>
+<header class="page-header prose md:prose-lg prose-headings:mb-2 max-w-none">
+  <h1 class="page-title">Politicians on X/Twitter</h1>
+  
+</header>
 
-<p>Filter by level and country, and search by name, party, or handle.</p>
 
-<div style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:flex-end; margin-bottom:1rem;">
-  <div>
-    <label for="filter-level"><strong>Level</strong></label><br>
-    <select id="filter-level">
+<p class="lead">
+Use the filters below to browse politicians by level and country, or search by name, party, or handle.
+Soon you’ll also be able to copy the relevant email list and send a message urging them to leave X/Twitter.
+</p>
+
+<div class="politician-filters">
+  <div class="filter-field">
+    <label for="filter-level" class="filter-label">Level</label>
+    <select id="filter-level" class="filter-input">
       <option value="">All levels</option>
       <option value="eu">EU level</option>
       <option value="national">National</option>
     </select>
   </div>
 
-  <div>
-    <label for="filter-country"><strong>Country</strong></label><br>
-    <select id="filter-country">
+  <div class="filter-field">
+    <label for="filter-country" class="filter-label">Country</label>
+    <select id="filter-country" class="filter-input">
       <option value="">All countries</option>
       
     </select>
   </div>
 
-  <div style="flex:1; min-width:220px;">
-    <label for="politician-search"><strong>Search</strong></label><br>
+  <div class="filter-field filter-field--grow">
+    <label for="politician-search" class="filter-label">Search</label>
     <input
       type="search"
       id="politician-search"
+      class="filter-input filter-input--search"
       placeholder="e.g. Germany, Greens, @handle, name..."
-      style="width:100%; padding:0.35rem;"
     >
   </div>
 </div>
