@@ -88,7 +88,7 @@ console.log("search.js loaded");
     }
   });
 
-  const percentOff = Math.round((offX / total) * 100);
+  const percentOff = Math.round((onX / total) * 100);
 
   let label = "All countries";
   if (countryValue) {
@@ -105,7 +105,7 @@ console.log("search.js loaded");
       ${prefix}
       <strong>Still on X:</strong> ${onX} /
       <strong>Not on X:</strong> ${offX}
-      <span class="politician-stats-percent">(${percentOff}% not on X)</span>
+      <span class="politician-stats-percent">(${percentOff}% <strong><em>still</em></strong> on X)</span>
     </p>
   `;
   }
