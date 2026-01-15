@@ -3,14 +3,14 @@
 <header class="page-header prose md:prose-lg prose-headings:mb-2 max-w-none">
   <h1 class="page-title">{{ .Title }}</h1>
   {{ with .Params.description }}
-    <p class="page-subtitle">{{ . }}</p>
+  <p class="page-subtitle">{{ . }}</p>
   {{ end }}
 </header>
 
 
 <p class="lead">
-Use the filters below to browse politicians by level and country, or search by name, party, or handle.
-Soon you’ll also be able to copy the relevant email list and send a message urging them to leave X/Twitter.
+  Use the filters below to browse politicians by level and country, or search by name, party, or handle.
+  Soon you’ll also be able to copy the relevant email list and send a message urging them to leave X/Twitter.
 </p>
 
 <div class="politician-filters">
@@ -35,19 +35,17 @@ Soon you’ll also be able to copy the relevant email list and send a message ur
     <label for="filter-xstatus" class="filter-label">X/Twitter status</label>
     <select id="filter-xstatus" class="filter-input">
       <option value="">All</option>
-      <option value="on">Still on X</option>
-      <option value="off">Not on X</option>
+      <option value="active">Active on X/Twitter</option>
+      <option value="inactive">Inactive (still has an X account)</option>
+      <option value="none">Not on X/Twitter</option>
     </select>
+
   </div>
 
   <div class="filter-field filter-field--grow">
     <label for="politician-search" class="filter-label">Search</label>
-    <input
-      type="search"
-      id="politician-search"
-      class="filter-input filter-input--search"
-      placeholder="e.g. Germany, Greens, @handle, name..."
-    >
+    <input type="search" id="politician-search" class="filter-input filter-input--search"
+      placeholder="e.g. Germany, Greens, @handle, name...">
   </div>
 </div>
 

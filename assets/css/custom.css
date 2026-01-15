@@ -15,16 +15,28 @@
   transition: background-color 0.2s ease, border-color 0.2s ease;
 }
 
-/* Politician still on X — light red warning */
-.politician-card.on-x {
+/* ACTIVE on X → red warning */
+.politician-card.x-active {
   background-color: rgba(255, 0, 0, 0.06);
   border-color: rgba(255, 0, 0, 0.25);
 }
 
-/* Politician NOT on X — calm green background */
-.politician-card.not-on-x {
+/* INACTIVE on X → yellow neutral */
+.politician-card.x-inactive {
+  background-color: rgba(255, 215, 0, 0.12);
+  border-color: rgba(220, 180, 0, 0.4);
+}
+
+/* NOT on X → calm green */
+.politician-card.x-none {
   background-color: rgba(0, 128, 0, 0.07);
   border-color: rgba(0, 128, 0, 0.25);
+}
+
+/* UNKNOWN status → default neutral */
+.politician-card.x-unknown {
+  background-color: var(--surface);
+  border-color: var(--hairline-color);
 }
 
 /* Improve readability */

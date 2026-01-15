@@ -3077,7 +3077,13 @@
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "alexandra.geese@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@alexandrageese"
+    "xHandle": "@alexandrageese",
+    "xStatus": "inactive",
+    "xLeftAt": "2025-02-25",
+    "xNotes": "“I‘m out of here! Come and find me on Bluesky, LinkedIn and Mastodon! X is a far-right network actively pursuing authoritarian regime change. Let’s feed democratic platforms, not fascists.”",
+    "xLastArchiveUrl": "https://archive.is/lxqhK",
+    "source": "manual",
+    "updatedAt": "2026-01-15"
   },
   {
     "id": "mep_96833",
@@ -7038,8 +7044,11 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "reinis.poznaks@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@poznaks",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-15"
   },
   {
     "id": "mep_256813",
@@ -9992,8 +10001,11 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "roberts.zile@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@robertszile",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-15"
   },
   {
     "id": "mep_28419",
