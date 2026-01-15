@@ -170,7 +170,7 @@ console.log("search.js loaded");
             ${p.role ? `<li><strong>Role:</strong> ${p.role}</li>` : ""}
             ${p.party ? `<li><strong>Party:</strong> ${p.party}</li>` : ""}
             ${p.email ? `<li><strong>Email:</strong> <a href="mailto:${p.email}">${p.email}</a></li>` : ""}
-            <li><strong>On X/Twitter:</strong> 
+            <li><strong>On X:</strong> 
                   ${p.usesX && p.xHandle
               ? `<a href="https://x.com/${p.xHandle.replace('@', '')}" target="_blank" rel="noopener noreferrer">
                 ${p.xHandle}</a>` : "No"}
