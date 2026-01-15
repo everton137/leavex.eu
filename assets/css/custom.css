@@ -211,3 +211,8 @@
   }
 }
 
+.politician-card {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
