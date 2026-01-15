@@ -106,7 +106,7 @@
 
     return `
       <li>
-        <strong>X/Twitter status:</strong> ${label}
+        <strong>X status:</strong> ${label}
         ${handlePart ? ` ${handlePart}` : ""}
       </li>
     `;
