@@ -17,6 +17,68 @@ These rankings are based on the proportion of each group’s members who continu
 
 If you know of an inactive politician, we would be glad to update the statistics. Contact us  [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex), or [@leavex.bsky.social](https://bsky.app/profile/leavex.eu), and inform us of the X handle. If an MEP has declared that they quit X, we would appreciate an https://archive.is link to their post.
 
+### MEPs by X usage status
+
+Nearly 60% of MEPs still maintain an active account, while about 40% are not on the platform. Only one MEP is on X but currently inactive.
+
+{{< chart >}}
+type: 'bar',
+data: {
+  labels: [
+    'MEPs'
+  ],
+  datasets: [
+    {
+      label: 'Still active on X (430)',
+      data: [59.8],
+      backgroundColor: 'rgba(220, 53, 69, 0.75)'
+    },
+    {
+      label: 'On X but inactive (1)',
+      data: [0.1],
+      backgroundColor: 'rgba(255, 193, 7, 0.75)'
+    },
+    {
+      label: 'Not on X (288)',
+      data: [40.1],
+      backgroundColor: 'rgba(40, 167, 69, 0.75)'
+    }
+  ]
+},
+options: {
+  indexAxis: 'y',
+  responsive: true,
+  plugins: {
+    tooltip: {
+      callbacks: {
+        label: function(context) {
+          return context.dataset.label + ': ' + context.parsed.x + '%';
+        }
+      }
+    },
+    legend: {
+      position: 'bottom'
+    }
+  },
+  scales: {
+    x: {
+      stacked: true,
+      max: 100,
+      ticks: {
+        callback: function(value) {
+          return value + '%';
+        }
+      }
+    },
+    y: {
+      stacked: true
+    }
+  }
+}
+{{< /chart >}}
+<!-- prettier-ignore-end -->
+
+
 ## Ranking by country (share of MEPs on X)
 
 | Rank | Country | MEPs on X | Total MEPs | % on X |
@@ -62,3 +124,60 @@ If you know of an inactive politician, we would be glad to update the statistics
 | 7 | Patriots for Europe Group | 35 | 85 | 41.2 |
 | 8 | Non-attached Members | 9 | 30 | 30.0 |
 | 9 | Europe of Sovereign Nations Group | 6 | 27 | 22.2 |
+
+### Distribution of MEPs active on X by EU group
+
+This chart shows the share of all MEPs still active on X, broken down by EU political group. It does not represent internal percentages within each group.
+
+{{< chart >}}
+type: 'pie',
+data: {
+  labels: [
+    "Europe of Sovereign Nations",
+    "Non-attached",
+    "The Left (GUE/NGL)",
+    "Group of the Greens / EFA",
+    "Patriots for Europe",
+    "ECR",
+    "Renew Europe",
+    "S&D",
+    "EPP (Christian Democrats)"
+  ],
+  datasets: [{
+    label: 'Share of MEPs on X by EU group',
+    data: [6, 9, 20, 34, 35, 38, 45, 75, 168],
+    backgroundColor: [
+      'rgba(214, 51, 132, 0.75)',
+      'rgba(32, 201, 151, 0.75)',
+      'rgba(111, 66, 193, 0.75)',
+      'rgba(25, 135, 84, 0.75)',
+      'rgba(253, 126, 20, 0.75)',
+      'rgba(108, 117, 125, 0.75)',
+      'rgba(13, 110, 253, 0.75)',
+      'rgba(255, 193, 7, 0.75)',
+      'rgba(220, 53, 69, 0.75)'
+    ],
+    borderWidth: 0,
+    hoverOffset: 4
+  }]
+},
+options: {
+  responsive: true,
+  plugins: {
+    tooltip: {
+      callbacks: {
+        label: function(context) {
+          const total = context.dataset.data.reduce((a, b) => a + b, 0);
+          const value = context.parsed;
+          const pct = (value / total * 100).toFixed(1);
+          return context.label + ': ' + pct + '% (' + value + ' MEPs)';
+        }
+      }
+    },
+    legend: { position: 'bottom' }
+  }
+}
+{{< /chart >}}
+<!-- prettier-ignore-end -->
+
+
