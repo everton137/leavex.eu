@@ -4748,8 +4748,11 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "vilis.kristopans@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@KristopansVilis",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-16"
   },
   {
     "id": "mep_256996",
@@ -8167,8 +8170,11 @@
     "party": "Group of the Greens/European Free Alliance",
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "martins.stakis@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@MStakis",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-16"
   },
   {
     "id": "mep_197825",
@@ -8993,8 +8999,11 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "nils.usakovs@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@nilsusakovs",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-16"
   },
   {
     "id": "mep_28617",
