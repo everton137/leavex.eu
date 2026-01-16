@@ -7,13 +7,16 @@
   {{ end }}
 </header>
 
-
 <p class="lead">
-  Use the filters below to browse politicians by level and country, or search by name, party, or handle.
-  Soon you’ll also be able to copy the relevant email list and send a message urging them to leave X.
+  {{ .Params.intro | default
+    "Use the filters below to browse politicians, or search by name, party, or handle. Soon you’ll also be able to copy the relevant email list and send a message urging them to leave X."
+  }}
 </p>
 
+
 <div class="politician-filters">
+
+  {{ if not (.Params.hideLevelFilter | default false) }}
   <div class="filter-field">
     <label for="filter-level" class="filter-label">Level</label>
     <select id="filter-level" class="filter-input">
@@ -22,7 +25,9 @@
       <option value="national">National</option>
     </select>
   </div>
+  {{ end }}
 
+  {{ if not (.Params.hideCountryFilter | default false) }}
   <div class="filter-field">
     <label for="filter-country" class="filter-label">Country</label>
     <select id="filter-country" class="filter-input">
@@ -30,6 +35,7 @@
       <!-- options filled by JS -->
     </select>
   </div>
+  {{ end }}
 
   <div class="filter-field">
     <label for="filter-xstatus" class="filter-label">Status</label>
@@ -39,23 +45,34 @@
       <option value="inactive">Inactive (still has an X account)</option>
       <option value="none">Not on X</option>
     </select>
-
   </div>
 
   <div class="filter-field filter-field--grow">
     <label for="politician-search" class="filter-label">Search</label>
-    <input type="search" id="politician-search" class="filter-input filter-input--search"
-      placeholder="e.g. Germany, Greens, @handle, name...">
+    <input
+      type="search"
+      id="politician-search"
+      class="filter-input filter-input--search"
+      placeholder="e.g. Germany, Greens, @handle, name..."
+    >
   </div>
 </div>
+
 
 <div id="politician-stats" class="politician-stats"></div>
 
 
 <div id="politician-list" class="politician-list"></div>
 
+{{ $path := .Params.dataPath | default (slice "politicians" "eu" "meps") }}
+{{ $data := collections.Index .Site.Data $path }} 
+
 <script>
-  window.POLITICIANS = {{ .Site.Data.meps_all | jsonify }};
+  window.POLITICIANS = {{ $data | jsonify }};
+  window.POLITICIANS_DEFAULTS = {{ dict
+    "defaultCountry" (.Params.defaultCountry | default "")
+    "hideCountryFilter" (.Params.hideCountryFilter | default false)
+  | jsonify }};
 </script>
 
 {{ $search := resources.Get "js/search.js" | js.Build (dict "format" "iife") | minify }}

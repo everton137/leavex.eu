@@ -6,10 +6,15 @@
   const xStatusSelect = document.getElementById("filter-xstatus");
   const statsEl = document.getElementById("politician-stats");
 
-  if (!listEl || !searchInput || !levelSelect || !countrySelect || !xStatusSelect || !statsEl) {
-    console.warn("One or more filter elements not found.");
+  // Required elements
+  if (!listEl || !searchInput || !xStatusSelect || !statsEl) {
+    console.warn("Required elements not found (list/search/status/stats).");
     return;
   }
+
+  // Optional elements (can be null if hidden by Hugo)
+  const hasLevel = !!levelSelect;
+  const hasCountry = !!countrySelect;
 
   const raw = window.POLITICIANS || [];
   let allPoliticians = [];
@@ -99,7 +104,10 @@
 
     const profileLink =
       p.xHandle && (status === "active" || status === "inactive")
-        ? `<a href="https://x.com/${p.xHandle.replace('@', '')}" target="_blank" rel="noopener noreferrer">${p.xHandle}</a>`
+        ? `<a href="https://x.com/${p.xHandle.replace(
+            "@",
+            ""
+          )}" target="_blank" rel="noopener noreferrer">${p.xHandle}</a>`
         : "";
 
     const handlePart = profileLink || handle;
@@ -124,16 +132,19 @@
     }
   });
 
-  const sortedCountries = Array.from(countryMap.entries()).sort((a, b) =>
-    a[1].localeCompare(b[1], undefined, { sensitivity: "base" })
-  );
+  if (countrySelect) {
+    const sortedCountries = Array.from(countryMap.entries()).sort((a, b) =>
+      a[1].localeCompare(b[1], undefined, { sensitivity: "base" })
+    );
 
-  sortedCountries.forEach(([code, label]) => {
-    const opt = document.createElement("option");
-    opt.value = code;
-    opt.textContent = label;
-    countrySelect.appendChild(opt);
-  });
+    sortedCountries.forEach(([code, label]) => {
+      const opt = document.createElement("option");
+      opt.value = code;
+      opt.textContent = label;
+      countrySelect.appendChild(opt);
+    });
+  }
+
 
   // ---- Stats ----------------------------------------------------------------
 
@@ -179,11 +190,7 @@
         <strong>Still active on X:</strong> ${active} /
         <strong>Inactive but on X:</strong> ${inactive} /
         <strong>Not on X:</strong> ${none}
-        ${
-          unknown
-            ? `/ <strong>Unknown:</strong> ${unknown}`
-            : ""
-        }
+        ${unknown ? `/ <strong>Unknown:</strong> ${unknown}` : ""}
         <span class="politician-stats-percent">
           (${percentOn}% <strong><em>still have an X account</em></strong>)
         </span>
@@ -248,12 +255,26 @@
           <article class="politician-card ${statusClass}">
             <h2>${p.name}</h2>
             <ul>
-              ${countryText ? `<li><strong>Country:</strong> ${countryText}</li>` : ""}
-              ${levelText ? `<li><strong>Level:</strong> ${levelText}</li>` : ""}
-              ${p.institution ? `<li><strong>Institution:</strong> ${p.institution}</li>` : ""}
+              ${
+                countryText
+                  ? `<li><strong>Country:</strong> ${countryText}</li>`
+                  : ""
+              }
+              ${
+                levelText ? `<li><strong>Level:</strong> ${levelText}</li>` : ""
+              }
+              ${
+                p.institution
+                  ? `<li><strong>Institution:</strong> ${p.institution}</li>`
+                  : ""
+              }
               ${p.role ? `<li><strong>Role:</strong> ${p.role}</li>` : ""}
               ${p.party ? `<li><strong>Party:</strong> ${p.party}</li>` : ""}
-              ${p.email ? `<li><strong>Email:</strong> <a href="mailto:${p.email}">${p.email}</a></li>` : ""}
+              ${
+                p.email
+                  ? `<li><strong>Email:</strong> <a href="mailto:${p.email}">${p.email}</a></li>`
+                  : ""
+              }
               ${renderXStatus(p)}
             </ul>
           </article>
@@ -268,8 +289,8 @@
 
   function applyFilters() {
     const term = searchInput.value.trim();
-    const levelValue = levelSelect.value;
-    const countryValue = countrySelect.value;
+    const levelValue = hasLevel ? levelSelect.value : "";
+    const countryValue = hasCountry ? countrySelect.value : "";
     const xStatusValue = xStatusSelect.value;
 
     const filtered = allPoliticians.filter((p) => {
@@ -291,7 +312,7 @@
 
   // Wire events
   searchInput.addEventListener("input", applyFilters);
-  levelSelect.addEventListener("change", applyFilters);
-  countrySelect.addEventListener("change", applyFilters);
   xStatusSelect.addEventListener("change", applyFilters);
+  if (hasLevel) levelSelect.addEventListener("change", applyFilters);
+  if (hasCountry) countrySelect.addEventListener("change", applyFilters);
 })();

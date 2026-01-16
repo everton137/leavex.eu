@@ -5,4 +5,6 @@ layout: "list"
 showDate: false
 showAuthor: false
 showReadingTime: false
+params:
+  dataPath: ["politicians", "eu", "meps"]
 ---

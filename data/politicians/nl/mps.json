@@ -1,31 +1,5 @@
 [
   {
-    "id": "mep_001",
-    "name": "Jane Doe",
-    "country": "Germany",
-    "countryCode": "DE",
-    "level": "eu",
-    "institution": "European Parliament",
-    "role": "MEP",
-    "party": "Greens/EFA",
-    "email": "jane.doe@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@janedoe"
-  },
-  {
-    "id": "mp_001",
-    "name": "Maria Silva",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "level": "national",
-    "institution": "Assembleia da República",
-    "role": "MP",
-    "party": "PS",
-    "email": "maria.silva@parlamento.pt",
-    "usesX": false,
-    "xHandle": null
-  },
-  {
     "id": "mp_nl_002",
     "name": "Thierry Aartsen",
     "country": "Netherlands",
