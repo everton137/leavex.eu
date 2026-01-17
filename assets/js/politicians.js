@@ -38,6 +38,53 @@
     }
   }
 
+  const emailToolsEl = document.getElementById("email-tools");
+
+  function normalizeEmail(email) {
+    return String(email || "").trim().toLowerCase();
+  }
+
+  function isValidEmail(email) {
+    // simple, pragmatic check (no overfitting)
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+  }
+
+  function getEmails(items) {
+    const set = new Set();
+    items.forEach((p) => {
+      const e = normalizeEmail(p.email);
+      if (e && isValidEmail(e)) set.add(e);
+    });
+    return Array.from(set);
+  }
+
+  function chunkArray(arr, chunkSize) {
+    const out = [];
+    for (let i = 0; i < arr.length; i += chunkSize) {
+      out.push(arr.slice(i, i + chunkSize));
+    }
+    return out;
+  }
+
+  async function copyText(text) {
+    // Prefer Clipboard API
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(text);
+      return;
+    }
+    // Fallback
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.left = "-9999px";
+    document.body.appendChild(ta);
+    ta.focus();
+    ta.select();
+    document.execCommand("copy");
+    document.body.removeChild(ta);
+  }
+
+
   // ---- Helpers for X/Twitter status ----------------------------------------
 
   // Derive a normalized status string from data
@@ -340,6 +387,71 @@
     listEl.innerHTML = html;
   }
 
+    // ---- Render list ----------------------------------------------------------
+
+
+    function renderEmailTools(items) {
+    if (!emailToolsEl) return;
+
+    const emails = getEmails(items);
+    const total = emails.length;
+
+    if (total === 0) {
+      emailToolsEl.innerHTML = "";
+      return;
+    }
+
+    const chunkSize = 120; // tweak: 80–150 is common
+    const chunks = chunkArray(emails, chunkSize);
+
+    const buttonsHtml = chunks
+      .map((chunk, idx) => {
+        const part = idx + 1;
+        const label = `Copy email addresses (${part}/${chunks.length})`;
+        return `<button type="button" class="email-btn" data-part="${idx}">${label}</button>`;
+      })
+      .join("");
+
+    emailToolsEl.innerHTML = `
+      <div class="email-tools-card">
+        <div class="email-tools-summary">
+          <strong>${total}</strong> unique email addresses found.
+          <span class="email-tools-hint">Copy in parts for mail clients.</span>
+        </div>
+
+        <div class="email-tools-buttons">
+          ${buttonsHtml}
+        </div>
+
+        <div class="email-tools-note">
+          Tip: paste addresses into <strong>BCC</strong> to avoid exposing recipients.
+        </div>
+      </div>
+    `;
+
+    // Wire click handlers
+    emailToolsEl.querySelectorAll("button[data-part]").forEach((btn) => {
+      btn.addEventListener("click", async () => {
+        const idx = Number(btn.getAttribute("data-part"));
+        const chunk = chunks[idx];
+
+        // separator: Outlook often likes '; ' — Gmail accepts ',' too
+        const text = chunk.join("; ");
+
+        try {
+          await copyText(text);
+          const original = btn.textContent;
+          btn.textContent = "Copied!";
+          setTimeout(() => (btn.textContent = original), 1200);
+        } catch (e) {
+          console.warn("Copy failed:", e);
+          alert("Copy failed. Try a different browser or copy manually.");
+        }
+      });
+    });
+      }
+
+
   // ---- Apply filters --------------------------------------------------------
 
   function applyFilters() {
@@ -359,11 +471,13 @@
 
     renderList(filtered);
     renderStats(filtered, countryValue);
+    renderEmailTools(filtered);
   }
 
   // Initial render with all items
   renderList(allPoliticians);
   renderStats(allPoliticians, "");
+  renderEmailTools(allPoliticians);
 
   // Wire events
   searchInput.addEventListener("input", applyFilters);

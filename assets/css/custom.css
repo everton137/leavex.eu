@@ -376,3 +376,60 @@
   text-underline-offset: 0.2em;
 }
 
+/* === Email tools: explicit, unmistakable styling === */
+
+#email-tools .email-tools-buttons {
+  padding: 1rem 1.25rem;
+  border-radius: 12px;
+
+  /* Explicit colors */
+  background-color: #eff6ff;        /* light blue */
+  border: 1px solid #93c5fd;        /* blue-300 */
+  border-left: 6px solid #2563eb;   /* blue-600 */
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+/* Buttons themselves */
+#email-tools .email-btn {
+  background-color: #ffffff;
+  border: 1px solid #c7d2fe;        /* indigo-200 */
+  color: #1e3a8a;                   /* blue-900 */
+  border-radius: 9999px;
+  padding: 0.55rem 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease,
+    transform 0.1s ease;
+}
+
+#email-tools .email-btn:hover {
+  background-color: #dbeafe;        /* blue-100 */
+  border-color: #2563eb;            /* blue-600 */
+  transform: translateY(-1px);
+}
+
+/* Dark mode – explicit as well */
+@media (prefers-color-scheme: dark) {
+  #email-tools .email-tools-buttons {
+    background-color: #0f172a;      /* slate-900 */
+    border-color: #1e40af;          /* blue-800 */
+    border-left-color: #3b82f6;     /* blue-500 */
+  }
+
+  #email-tools .email-btn {
+    background-color: #020617;      /* almost black */
+    border-color: #1e40af;
+    color: #bfdbfe;                 /* blue-200 */
+  }
+
+  #email-tools .email-btn:hover {
+    background-color: #1e293b;      /* slate-800 */
+    border-color: #60a5fa;          /* blue-400 */
+  }
+}
