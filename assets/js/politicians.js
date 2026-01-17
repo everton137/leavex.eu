@@ -99,7 +99,7 @@
 
     // Append archived exit tweet link if available
     if (status === "inactive" && p.xLastArchiveUrl) {
-      label += ` - <a href="${p.xLastArchiveUrl}" target="_blank" rel="noopener noreferrer">see exit post</a>`;
+      label += ` - <a href="${p.xLastArchiveUrl}" class="link-primary" target="_blank" rel="noopener noreferrer">see exit post</a>`;
     }
 
     const profileLink =
@@ -107,7 +107,7 @@
         ? `<a href="https://x.com/${p.xHandle.replace(
             "@",
             ""
-          )}" target="_blank" rel="noopener noreferrer">${p.xHandle}</a>`
+          )}" class="link-primary" target="_blank" rel="noopener noreferrer">${p.xHandle}</a>`
         : "";
 
     const handlePart = profileLink || handle;
@@ -276,7 +276,7 @@
               ${p.party ? `<li><strong>Party:</strong> ${p.party}</li>` : ""}
               ${
                 p.email
-                  ? `<li><strong>Email:</strong> <a href="mailto:${p.email}">${p.email}</a></li>`
+                  ? `<li><strong>Email:</strong> <a href="mailto:${p.email}" class="link-primary">${p.email}</a></li>`
                   : ""
               }
               ${renderXStatus(p)}

@@ -232,11 +232,29 @@
 .politician-stats-breakdown { margin: 0 0 0.25rem; opacity: 0.9; }
 .politician-stats-highlight { margin: 0; font-size: 1.2rem; }
 
+
+/* More space from the title and paragraph */
+
 .page-title {
   margin-bottom: 1.5rem;
 }
 
 .lead {
   margin-bottom: 1.5rem;
+}
+
+/* Trying to get a:hover from Hugo */
+
+.link-primary {
+  color: inherit;
+  text-decoration: none;
+}
+
+.link-primary:hover,
+.link-primary:focus-visible {
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-decoration-color: var(--color-primary);
+  text-underline-offset: 0.2em;
 }
 
