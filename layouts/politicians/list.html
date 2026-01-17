@@ -73,7 +73,7 @@
   | jsonify }};
 </script>
 
-{{ $search := resources.Get "js/search.js" | js.Build (dict "format" "iife") | minify }}
+{{ $search := resources.Get "js/politicians.js" | js.Build (dict "format" "iife") | minify }}
 <script src="{{ $search.RelPermalink }}" defer></script>
 
 
