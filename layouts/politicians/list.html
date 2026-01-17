@@ -71,6 +71,7 @@
     "defaultCountry" (.Params.defaultCountry | default "")
     "hideCountryFilter" (.Params.hideCountryFilter | default false)
   | jsonify }};
+  window.PAGE_TITLE = {{ .Title | jsonify }};
 </script>
 
 {{ $search := resources.Get "js/politicians.js" | js.Build (dict "format" "iife") | minify }}

@@ -12,6 +12,12 @@
     return;
   }
 
+  // Page title without quotes
+  const pageTitle = window.PAGE_TITLE
+  ? window.PAGE_TITLE.replace(/^["“]|["”]$/g, "")
+  : "";
+
+
   // Optional elements (can be null if hidden by Hugo)
   const hasLevel = !!levelSelect;
   const hasCountry = !!countrySelect;
@@ -176,29 +182,74 @@
     const offX = none;
     const percentOn = Math.round((onX / total) * 100);
 
-    let label = "All countries";
-    if (countryValue) {
-      const fromMap = countryMap.get(countryValue);
-      label = fromMap || countryValue;
+    const label = getStatsLabel({
+      searchTerm: searchInput.value.trim(),
+      countryValue,
+    });
+
+    function getStatsLabel({ searchTerm, countryValue }) {
+      // 1) Search query wins
+      if (searchTerm) {
+        return `Search results for “${searchTerm}”`;
+      }
+
+      // 2) If user selected a country in the filter, show that
+      if (countryValue) {
+        const fromMap = countryMap.get(countryValue);
+        return `${fromMap || countryValue} MEPs`;
+      }
+
+      // 3) Otherwise, use the page context (e.g., /politicians-nl/)
+      if (window.PAGE_TITLE) {
+        return pageTitle;
+      }
+
+      // 4) Fallback
+      return "All countries";
     }
 
-    const prefix = countryValue ? `${label}: ` : "";
 
     statsEl.innerHTML = `
-      <p class="politician-stats-summary">
-        ${prefix}<strong>${total} MPs analysed</strong>
-      </p>
+      <div class="stats-card" role="region" aria-label="X account statistics">
+        <div class="stats-title">${label} on X</div>
 
-      <p class="politician-stats-breakdown">
-        <strong>Still active on X:</strong> ${active} ·
-        <strong>Inactive but on X:</strong> ${inactive} ·
-        <strong>Not on X:</strong> ${none}
-        ${unknown ? ` · <strong>Unknown:</strong> ${unknown}` : ""}
-      </p>
+        <div class="stats-bar-info">
+          <div class="stats-percentage">${percentOn}%</div>
+          <div class="stats-total">${onX} of ${total} MPs still have an X account</div>
+        </div>
 
-      <p class="politician-stats-highlight">
-        <strong>${percentOn}%</strong> (${onX}/${total}) still have an X account
-      </p>
+        <div class="stats-bar" aria-hidden="true">
+          <div class="stats-bar-fill" style="width:${percentOn}%"></div>
+        </div>
+
+        <div class="stats-boxes">
+          <div class="stats-box active">
+            <div class="stats-box-number">${active}</div>
+            <div class="stats-box-label">Active on X</div>
+          </div>
+
+          <div class="stats-box inactive">
+            <div class="stats-box-number">${inactive}</div>
+            <div class="stats-box-label">Inactive on X</div>
+          </div>
+
+          <div class="stats-box not-on">
+            <div class="stats-box-number">${none}</div>
+            <div class="stats-box-label">Not on X</div>
+          </div>
+
+          ${
+            unknown
+              ? `
+            <div class="stats-box unknown">
+              <div class="stats-box-number">${unknown}</div>
+              <div class="stats-box-label">Unknown</div>
+            </div>
+          `
+              : ""
+          }
+        </div>
+      </div>
     `;
   }
 

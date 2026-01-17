@@ -199,39 +199,141 @@
   }
 }
 
-.politician-stats {
-  margin-bottom: 0.75rem;
-  padding: 0.5rem 0.9rem;
-  border-radius: 9999px;
-  border: 1px solid var(--hairline-color);
-  background-color: rgba(0, 0, 0, 0.02);
-  font-size: 0.9rem;
-}
-
-.politician-stats-text {
-  margin: 0;
-}
-
-.politician-stats-percent {
-  margin-left: 0.25rem;
-  color: var(--muted-color);
-}
-
-@media (prefers-color-scheme: dark) {
-  .politician-stats {
-    background-color: rgba(255, 255, 255, 0.04);
-  }
-}
-
 .politician-card {
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
-.politician-stats-summary { font-size: 1.1rem; margin: 0 0 0.25rem; }
-.politician-stats-breakdown { margin: 0 0 0.25rem; opacity: 0.9; }
-.politician-stats-highlight { margin: 0; font-size: 1.2rem; }
 
+/* --- Stats card layout (semantic colors: red=on X, green=not on X) --- */
+
+.stats-card {
+  margin-bottom: 1rem;
+  padding: 1.25rem 1.25rem;
+  border-radius: 0.75rem;
+  border: 1px solid var(--hairline-color);
+  background: var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Centered title */
+.stats-title {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 0.9rem;
+}
+
+/* The headline number represents "still on X" => red */
+.stats-bar-info {
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.stats-percentage {
+  font-size: 2.6rem;
+  font-weight: 800;
+  line-height: 1;
+  color: #dc2626; /* red-600 */
+  margin-bottom: 0.25rem;
+}
+
+.stats-total {
+  font-size: 1rem;
+  color: var(--muted-color);
+}
+
+/* Bar also represents "still on X" => red fill */
+.stats-bar {
+  width: 100%;
+  height: 42px;
+  background: rgba(220, 38, 38, 0.12); /* light red */
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border: 1px solid var(--hairline-color);
+}
+
+.stats-bar-fill {
+  height: 100%;
+  width: 0%;
+  background: #dc2626; /* red-600 */
+}
+
+/* Boxes grid */
+.stats-boxes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+/* Default neutral box styling */
+.stats-box {
+  text-align: center;
+  padding: 0.9rem 0.6rem;
+  border-radius: 0.6rem;
+  border: 1px solid var(--hairline-color);
+  background: color-mix(in srgb, var(--surface) 96%, #000);
+}
+
+.stats-box-number {
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 0.3rem;
+}
+
+.stats-box-label {
+  font-size: 0.85rem;
+  color: var(--muted-color);
+}
+
+/* Variants */
+
+/* Active on X => red */
+.stats-box.active {
+  background: rgba(220, 38, 38, 0.10);
+  border-color: rgba(220, 38, 38, 0.35);
+}
+.stats-box.active .stats-box-number {
+  color: #dc2626;
+}
+
+/* Inactive on X => yellow */
+.stats-box.inactive {
+  background: rgba(245, 158, 11, 0.12);  /* amber */
+  border-color: rgba(245, 158, 11, 0.4);
+}
+.stats-box.inactive .stats-box-number {
+  color: #d97706;
+}
+
+/* Not on X => green */
+.stats-box.not-on {
+  background: rgba(22, 163, 74, 0.12);  /* green */
+  border-color: rgba(22, 163, 74, 0.4);
+}
+.stats-box.not-on .stats-box-number {
+  color: #16a34a;
+}
+
+/* Unknown => neutral */
+.stats-box.unknown {
+  background: color-mix(in srgb, var(--surface) 92%, #888);
+}
+
+/* If unknown exists, grid becomes 4 boxes on wider screens */
+@media (min-width: 560px) {
+  .stats-boxes:has(.unknown) {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+/* Mobile: stack nicely */
+@media (max-width: 420px) {
+  .stats-boxes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
 
 /* More space from the title and paragraph */
 
