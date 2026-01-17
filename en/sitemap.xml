@@ -200,6 +200,12 @@
   
     
       <url>
+            <loc>https://leavex.eu/politicians/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://leavex.eu/network/</loc>
             <xhtml:link
               rel="alternate"
@@ -227,12 +233,6 @@
     
       <url>
             <loc>https://leavex.eu/news/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://leavex.eu/politicians/</loc>
           </url>
     
   
