@@ -331,7 +331,23 @@
 /* Mobile: stack nicely */
 @media (max-width: 420px) {
   .stats-boxes {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.5rem;
+  }
+
+  .stats-box {
+    padding: 0.65rem 0.4rem;
+    border-radius: 0.5rem;
+  }
+
+  .stats-box-number {
+    font-size: 1.35rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .stats-box-label {
+    font-size: 0.75rem;
+    line-height: 1.1;
   }
 }
 
