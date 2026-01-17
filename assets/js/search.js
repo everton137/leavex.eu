@@ -185,15 +185,19 @@
     const prefix = countryValue ? `${label}: ` : "";
 
     statsEl.innerHTML = `
-      <p class="politician-stats-text">
-        ${prefix}
-        <strong>Still active on X:</strong> ${active} /
-        <strong>Inactive but on X:</strong> ${inactive} /
+      <p class="politician-stats-summary">
+        ${prefix}<strong>${total} MPs analysed</strong>
+      </p>
+
+      <p class="politician-stats-breakdown">
+        <strong>Still active on X:</strong> ${active} ·
+        <strong>Inactive but on X:</strong> ${inactive} ·
         <strong>Not on X:</strong> ${none}
-        ${unknown ? `/ <strong>Unknown:</strong> ${unknown}` : ""}
-        <span class="politician-stats-percent">
-          (${percentOn}% <strong><em>still have an X account</em></strong>)
-        </span>
+        ${unknown ? ` · <strong>Unknown:</strong> ${unknown}` : ""}
+      </p>
+
+      <p class="politician-stats-highlight">
+        <strong>${percentOn}%</strong> (${onX}/${total}) still have an X account
       </p>
     `;
   }

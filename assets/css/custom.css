@@ -228,3 +228,15 @@
   word-break: break-word;
 }
 
+.politician-stats-summary { font-size: 1.1rem; margin: 0 0 0.25rem; }
+.politician-stats-breakdown { margin: 0 0 0.25rem; opacity: 0.9; }
+.politician-stats-highlight { margin: 0; font-size: 1.2rem; }
+
+.page-title {
+  margin-bottom: 1.5rem;
+}
+
+.lead {
+  margin-bottom: 1.5rem;
+}
+
