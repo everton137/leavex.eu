@@ -570,8 +570,10 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "katarina.barley@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@KATARINABARLEY"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_257110",
@@ -1396,8 +1398,10 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "delara.burkhardt@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@delarabur"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_197829",
@@ -2432,8 +2436,10 @@
     "party": "Group of the European People's Party (Christian Democrats)",
     "euGroupFull": "Group of the European People's Party (Christian Democrats)",
     "email": "christian.ehler@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@mep_ehler"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_192254",
@@ -3782,8 +3788,10 @@
     "party": "Group of the Greens/European Free Alliance",
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "martin.haeusling@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@MartinHaeusling"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_197646",
@@ -5158,7 +5166,9 @@
     "euGroupFull": "Group of the European People's Party (Christian Democrats)",
     "email": "norbert.lins@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@linsnorbert"
+    "xHandle": "@norbertlins",
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_197494",
@@ -6389,8 +6399,10 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "maria.noichl@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@MariaNoichl"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_257044",
@@ -6726,7 +6738,13 @@
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "jutta.paulus@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@juttapaulusrlp"
+    "xHandle": "@juttapaulusrlp",
+    "xStatus": "inactive",
+    "xLeftAt": "2025-02-24",
+    "xNotes": "“Ich werde X verlassen. Gründe finden sich zuhauf, bei dem, was seit dem 20.1. geschieht. Dieser Account bleibt vorerst bestehen, auch um Fake-Accounts mit meinem Namen zu verhindern. Ihr findet mich im blauen Himmel. @juttapaulus.bsky.social”",
+    "xLastArchiveUrl": "https://archive.is/1PLXI",
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_110673",
@@ -7359,7 +7377,13 @@
     "euGroupFull": "Group of the European People's Party (Christian Democrats)",
     "email": "manuela.ripa@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@RipaManuela"
+    "xHandle": "@RipaManuela",
+    "xStatus": "inactive",
+    "xLeftAt": "2025-01-14",
+    "xNotes": "“Bye, Bye X! #X fördert #Desinformation, #Hass und #Hetze. Ich wechsle zu Bluesky & Mastodon. Auch Politiker:innen & EU-Kommissare sollten folgen und europäische Alternativen stärken, um demokratische Werte zu schützen.”",
+    "xLastArchiveUrl": "https://archive.is/mUqQE",
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_257066",
@@ -7974,8 +7998,10 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "birgit.sippel@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@BirgitSippelMEP"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_2268",
@@ -9815,7 +9841,13 @@
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "tiemo.woelken@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@woelken"
+    "xHandle": "@woelken",
+    "xStatus": "inactive",
+    "xLeftAt": "2026-01-13",
+    "xNotes": "“.@elonmusk ist ein Feind Europas. Er hasst unsere Demokratie, unseren Rechtsstaat, unsere Werte und alles andere, was seiner Raffgier im Weg steht. Ich habe deshalb beschlossen, X zu verlassen. Ich habe lange mit mir gerungen, ob ich diesen Schritt wirklich gehen will.”",
+    "xLastArchiveUrl": "https://archive.is/fhjel",
+    "source": "manual",
+    "updatedAt": "2026-01-18"
   },
   {
     "id": "mep_5392",
