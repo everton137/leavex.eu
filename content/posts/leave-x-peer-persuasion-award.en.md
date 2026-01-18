@@ -51,7 +51,7 @@ The prizes are valuable not for their material reward, but for what they represe
 
 #### How to Participate
 
-- Publish on some alternative social media, for instance, Mastodon, or on your website, the list of MEPs you can convinced to leave X.
+- Publish on some alternative social media, for instance, Mastodon, or on your website, the list of MEPs you have convinced to leave X.
 - Explain your arguments and reasoning.
 - List the colleagues who left X following your persuasion.
 - Share a link with us at [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), or [@leavex@mastodon.social](https://mastodon.social/@leavex).
