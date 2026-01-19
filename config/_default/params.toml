@@ -6,3 +6,10 @@
 
 [assets]
   loadExtendedCSS = true
+
+[appearance]
+  showSwitch = true
+  defaultMode = "auto"
+
+[header]
+  layout = "basic"

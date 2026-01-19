@@ -1,3 +1,12 @@
+/* Congo dark mode uses a .dark class (not only prefers-color-scheme).
+   Support BOTH so the toggle always works. */
+:root.dark,
+html.dark,
+body.dark {
+  /* You can optionally tweak overall page surfaces here if needed */
+}
+
+
 .politician-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -433,3 +442,118 @@
     border-color: #60a5fa;          /* blue-400 */
   }
 }
+
+/* =========================
+   Filters / Selects - Dark
+   ========================= */
+
+html.dark .filter-label {
+  color: color-mix(in srgb, var(--muted-color) 85%, white);
+}
+
+html.dark .filter-input {
+  background-color: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.14);
+  color: color-mix(in srgb, white 92%, var(--surface));
+}
+
+/* The *dropdown list* is controlled by <option> styling (limited but helps a lot) */
+html.dark select.filter-input option {
+  background-color: #0b1220; /* deep slate */
+  color: rgba(255, 255, 255, 0.92);
+}
+
+/* Hover/focus states */
+html.dark .filter-input:hover {
+  background-color: rgba(255, 255, 255, 0.10);
+}
+
+html.dark .filter-input:focus {
+  border-color: color-mix(in srgb, var(--primary) 75%, white);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--primary) 35%, transparent);
+}
+
+/* =========================
+   Stats - Dark
+   ========================= */
+
+html.dark .stats-card {
+  background: rgba(255, 255, 255, 0.03);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+html.dark .stats-percentage {
+  color: rgba(147, 197, 253, 0.95); /* readable "blue-300-ish" */
+}
+
+html.dark .stats-bar {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+html.dark .stats-bar-fill {
+  background: rgba(96, 165, 250, 0.95); /* brighter fill */
+}
+
+/* Boxes: increase contrast & keep semantic tints */
+html.dark .stats-box {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+html.dark .stats-box-label {
+  color: rgba(255, 255, 255, 0.70);
+}
+
+/* Variant boxes (stronger borders + slightly stronger backgrounds) */
+html.dark .stats-box.active {
+  background: rgba(177, 24, 24, 0.493);
+  border-color: rgba(220, 38, 38, 0.45);
+}
+html.dark .stats-box.active .stats-box-number {
+  color: rgba(252, 165, 165, 0.95);
+}
+
+html.dark .stats-box.inactive {
+  background: rgba(255, 183, 57, 0.37);
+  border-color: rgba(245, 158, 11, 0.45);
+}
+html.dark .stats-box.inactive .stats-box-number {
+  color: rgba(253, 230, 138, 0.95);
+}
+
+html.dark .stats-box.not-on {
+  background: rgba(25, 199, 89, 0.37);
+  border-color: rgba(22, 163, 74, 0.45);
+}
+html.dark .stats-box.not-on .stats-box-number {
+  color: rgba(134, 239, 172, 0.95);
+}
+
+/* =========================
+   Politician cards - Dark
+   ========================= */
+
+html.dark .politician-card {
+  background: rgba(255, 255, 255, 0.03);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+/* ACTIVE on X */
+html.dark .politician-card.x-active {
+  background-color: rgba(177, 24, 24, 0.493);
+  border-color: rgba(220, 38, 38, 0.45);
+}
+
+/* INACTIVE on X */
+html.dark .politician-card.x-inactive {
+  background-color: rgba(255, 183, 57, 0.37);
+  border-color: rgba(245, 158, 11, 0.45);
+}
+
+/* NOT on X */
+html.dark .politician-card.x-none {
+  background-color: rgba(25, 199, 89, 0.37);
+  border-color: rgba(22, 163, 74, 0.45);
+}
+

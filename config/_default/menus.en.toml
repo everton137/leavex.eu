@@ -22,3 +22,11 @@ weight = 999
   icon = "translate"
   showName = false
 
+[[main]]
+  name = "Appearance"
+  weight = 998
+  [main.params]
+    action = "appearance"
+    icon = "sun"
+    showName = false
+
