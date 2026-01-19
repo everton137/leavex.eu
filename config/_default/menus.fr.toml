@@ -7,4 +7,13 @@
   name = "À propos"
   pageRef = "about"
   weight = 30
+
+[[main]]
+name = "Languages"
+weight = 999
+
+  [main.params]
+  action = "locale"
+  icon = "translate"
+  showName = false
   

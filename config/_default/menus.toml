@@ -1,0 +1,8 @@
+[[main]]
+name = "Languages"
+weight = 999
+
+  [main.params]
+  action = "locale"
+  icon = "translate"
+  showName = false
