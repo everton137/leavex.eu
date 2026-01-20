@@ -9,7 +9,7 @@ enableRobotsTXT = true
     path = "github.com/jpanther/congo/v2"
 
 [params]
-    homepage.layout = "page"
+    homepage.layout = "custom"
     colorScheme = "ocean"
 
 [markup]
