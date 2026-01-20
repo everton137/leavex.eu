@@ -1,12 +1,9 @@
 baseURL = 'https://leavex.eu'
 defaultContentLanguage = 'en'
 title = 'Leave X - Protect Democracy'
+theme = 'congo'
 
 enableRobotsTXT = true
-
-[module]
-    [[module.imports]]
-    path = "github.com/jpanther/congo/v2"
 
 [params]
     homepage.layout = "custom"
