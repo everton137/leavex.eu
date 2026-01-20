@@ -35,4 +35,4 @@ config.json.backup
 # Deployment-related
 .deploy/
 .cache/
-themes/congo
+themes/congo/node_modules
