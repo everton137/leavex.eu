@@ -1,0 +1,9 @@
+{
+  "name": "leavex-site",
+  "private": true,
+  "scripts": {
+    "build:css": "cd themes/congo && npm run build",
+    "dev": "npm run build:css && hugo serve",
+    "build": "npm run build:css && hugo --minify"
+  }
+}

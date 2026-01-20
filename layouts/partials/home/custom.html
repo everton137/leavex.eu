@@ -65,10 +65,12 @@
 
       <div class="mt-4">
         {{ if $openLetterPage }}
-          <a class="inline-flex items-center font-medium underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-600 dark:decoration-neutral-700 dark:hover:decoration-neutral-300"
-             href="{{ $openLetterPage.RelPermalink }}">
-            See more →
-          </a>
+            <a class="font-medium text-primary-600 underline decoration-primary-300 underline-offset-4 hover:decoration-primary-500
+          dark:text-primary-400 dark:decoration-primary-700 dark:hover:decoration-primary-300"
+           href="{{ $openLetterPage.RelPermalink }}">
+  See more →
+</a>
+
         {{ else }}
           <a class="inline-flex items-center font-medium underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-600 dark:decoration-neutral-700 dark:hover:decoration-neutral-300"
              href="{{ $openLetterPath }}">
@@ -97,7 +99,8 @@
           {{ end }}
         </ul>
         <div class="mt-5">
-          <a class="inline-flex items-center font-medium underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-600 dark:decoration-neutral-700 dark:hover:decoration-neutral-300"
+          <a class="font-medium text-primary-600 underline decoration-primary-300 underline-offset-4 hover:decoration-primary-500
+          dark:text-primary-400 dark:decoration-primary-700 dark:hover:decoration-primary-300"
              href="{{ (site.GetPage "/posts/").RelPermalink }}">
             All posts →
           </a>
@@ -128,11 +131,12 @@
         </div>
         </div>
         <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
-        <div class="h-3 rounded-full bg-neutral-900 dark:bg-neutral-100" style="width: {{ printf "%.0f" $euPct }}%;"></div>
+          <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $euPct }}%;"></div>
         </div>
+
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
         {{ $euOnX }} / {{ $euTotal }}
-        · <a class="underline" href="{{ (site.GetPage "/politicians/").RelPermalink }}">Details</a>
+        · <a class="underline" href="{{ (site.GetPage "/politicians/").RelPermalink }}">EU Details</a>
         </div>
     </div>
 
@@ -144,11 +148,12 @@
         </div>
         </div>
         <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
-        <div class="h-3 rounded-full bg-neutral-900 dark:bg-neutral-100" style="width: {{ printf "%.0f" $nlPct }}%;"></div>
+        <div class="h-3 rounded-full bg-primary-600 dark:bg-neutral-100" style="width: {{ printf "%.0f" $nlPct }}%;"></div>
         </div>
+
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
         {{ $nlOnX }} / {{ $nlTotal }}
-        · <a class="underline" href="{{ (site.GetPage "/politicians/nl/").RelPermalink }}">NL</a>
+        · <a class="underline" href="{{ (site.GetPage "/politicians/nl/").RelPermalink }}">NL Details</a>
         </div>
     </div>
 
