@@ -7,8 +7,8 @@ author: "Everton Zanella Alvarenga"
 showTableOfContents: false
 ---
 
-Dear Ms Geese, <br/>
-Dear Ms Cifrová Ostrihoňová, <br/>
+Dear Alexandra Geese, <br/>
+Dear Veronika Cifrová Ostrihoňová, <br/>
 Dear fellow signatories and Members of the European Parliament,
 
 Thank you for your strong and timely letter [addressing the ongoing crisis on X](/docs/eu-meps-letter-on-x-260119.pdf). Your assessment is clear: X is no longer a safe, open or balanced platform for democratic debate. Your arguments align with those set out in our Open Letter to [All European Politicians and Leaders to Abandon X/Twitter](/letter), which was written more than a year ago and has been endorsed by [over three thousand people](https://openpetition.eu/leavex).
