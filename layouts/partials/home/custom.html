@@ -10,6 +10,7 @@
 {{/* DATA */}}
 {{ $meps := site.Data.politicians.eu.meps | default (slice) }}
 {{ $nlmps := site.Data.politicians.nl.mps | default (slice) }}
+{{ $atmps := site.Data.politicians.at.mps | default (slice) }}
 
 {{/* EU */}}
 {{ $euTotal := len $meps }}
@@ -29,6 +30,14 @@
 {{ $nlPct := 0.0 }}
 {{ if gt $nlTotal 0 }}{{ $nlPct = mul (div (float $nlOnX) (float $nlTotal)) 100.0 }}{{ end }}
 
+{{/* AT */}}
+{{ $atTotal := len $atmps }}
+{{ $atOnX := 0.0 }}
+{{ range $atmps }}
+  {{ if .usesX }}{{ $atOnX = add $atOnX 1 }}{{ end }}
+{{ end }}
+{{ $atPct := 0.0 }}
+{{ if gt $atTotal 0 }}{{ $atPct = mul (div (float $atOnX) (float $atTotal)) 100.0 }}{{ end }}
 
 {{/* Latest posts (language-aware) */}}
 {{ $posts := where site.RegularPages "Section" "posts" }}
@@ -121,7 +130,7 @@
       </a>
     </div>
 
-    <div class="mt-6 grid grid-cols-1 gap-6 md:grid-cols-2">
+    <div class="mt-6 grid grid-cols-1 gap-6 md:grid-cols-3">
 
     <div>
         <div class="flex items-baseline justify-between">
@@ -156,6 +165,24 @@
         · <a class="underline" href="{{ (site.GetPage "/politicians/nl/").RelPermalink }}">NL Details</a>
         </div>
     </div>
+
+    <div>
+        <div class="flex items-baseline justify-between">
+        <div class="font-medium">Austria</div>
+        <div class="text-sm text-neutral-600 dark:text-neutral-400">
+          {{ printf "%.0f" $atPct }}% still on X
+        </div>
+        </div>
+        <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
+        <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $atPct }}%;"></div>
+        </div>
+
+        <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
+        {{ $atOnX }} / {{ $atTotal }}
+        · <a class="underline" href="{{ (site.GetPage "/politicians/at/").RelPermalink }}">AT Details</a>
+        </div>
+    </div>
+
 
     </div>
 
