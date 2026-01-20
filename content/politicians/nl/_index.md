@@ -13,6 +13,6 @@ params:
   hideCountryFilter: true
   intro: >
     Browse members of the Dutch Tweede Kamer and search by name and party.
-    You’ll soon be able to copy email addresses and contact them directly.
+    You can then copy the selected MPs' email addresses to contact them.
 
 ---
