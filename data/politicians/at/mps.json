@@ -1586,14 +1586,16 @@
   "institution" : "Nationalrat",
   "role" : "MP",
   "party" : "GRÜNE",
-  "usesX" : true,
+  "usesX" : false,
   "email" : "ralph.schallmeiner@parlament.gv.at",
-  "xHandle" : "@R_Schallmeiner",
+  "xHandle" : null,
   "name" : "Ralph Schallmeiner",
   "level" : "national",
   "id" : "at_nr_5676",
   "country" : "Austria",
-  "countryCode" : "AT"
+  "countryCode" : "AT",
+  "source": "manual",
+  "updatedAt": "2026-01-21"
 }, {
   "institution" : "Nationalrat",
   "role" : "MP",
