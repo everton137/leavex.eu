@@ -178,8 +178,10 @@
     "party": "The Left group in the European Parliament - GUE/NGL",
     "euGroupFull": "The Left group in the European Parliament - GUE/NGL",
     "email": "li.andersson@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@liandersson",
+    "source": "manual",
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_197448",
@@ -3860,8 +3862,11 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "eero.heinaluoma@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@EeroHeinaluoma",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_198073",
@@ -4421,7 +4426,13 @@
     "euGroupFull": "Renew Europe Group",
     "email": "elsi.katainen@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@elsikatainen"
+    "xHandle": "@elsikatainen",
+    "xStatus": "inactive",
+    "xLeftAt": "2026-01-15",
+    "xNotes": "Siirryn käyttämään Threads-palvelua, ja jatkossa voit seurata päivityksiäni siellä @elsikatainen. Lue uusin julkaisuni linkistä.",
+    "xLastArchiveUrl": "https://archive.is/iroZf",
+    "source": "manual",
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_125068",
@@ -4843,8 +4854,11 @@
     "party": "Renew Europe Group",
     "euGroupFull": "Renew Europe Group",
     "email": "katri.kulmuni@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@KatriKulmuni",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_124736",
@@ -6499,8 +6513,14 @@
     "party": "Group of the Greens/European Free Alliance",
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "maria.ohisalo@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@MariaOhisalo",
+    "xStatus": "inactive",
+    "xLeftAt": "2025-01-13",
+    "xNotes": "Hyvästi X. Alustalla levitettävä vihapuhe, disinformaatio, avoin rasismi ja naisviha sekä täysi haluttomuus puuttua näihin ongelmiin ovat suoria uhkia demokratialle. Löydät minut jatkossa muista somekanavista, mm. Blueskysta ja Threadsista. Kuulemisiin!",
+    "xLastArchiveUrl": "https://archive.is/5eIiV",
+    "source": "manual",
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_257083",
@@ -7536,8 +7556,10 @@
     "party": "Group of the European People's Party (Christian Democrats)",
     "euGroupFull": "Group of the European People's Party (Christian Democrats)",
     "email": "aura.salla@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@AuraSalla"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_197722",
@@ -7593,7 +7615,13 @@
     "euGroupFull": "The Left group in the European Parliament - GUE/NGL",
     "email": "jussi.saramo@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@jussisaramo"
+    "xHandle": "@jussisaramo",
+    "xStatus": "inactive",
+    "xLeftAt": "2024-12-18",
+    "xNotes": "Hyvästi, Elon Musk! Nyt lopetan X:n käytön. 1/7",
+    "xLastArchiveUrl": "https://archive.is/JPdkG",
+    "source": "manual",
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_197578",
