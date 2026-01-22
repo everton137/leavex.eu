@@ -30,8 +30,8 @@ body.dark {
   border-color: rgba(255, 0, 0, 0.25);
 }
 
-/* INACTIVE on X → yellow neutral */
-.politician-card.x-inactive {
+/* exited X → yellow neutral */
+.politician-card.x-exited {
   background-color: rgba(255, 215, 0, 0.12);
   border-color: rgba(220, 180, 0, 0.4);
 }
@@ -307,12 +307,12 @@ body.dark {
   color: #dc2626;
 }
 
-/* Inactive on X => yellow */
-.stats-box.inactive {
+/* eXited => yellow */
+.stats-box.exited {
   background: rgba(245, 158, 11, 0.12);  /* amber */
   border-color: rgba(245, 158, 11, 0.4);
 }
-.stats-box.inactive .stats-box-number {
+.stats-box.exited .stats-box-number {
   color: #d97706;
 }
 
@@ -514,11 +514,11 @@ html.dark .stats-box.active .stats-box-number {
   color: rgba(252, 165, 165, 0.95);
 }
 
-html.dark .stats-box.inactive {
+html.dark .stats-box.exited {
   background: rgba(255, 183, 57, 0.37);
   border-color: rgba(245, 158, 11, 0.45);
 }
-html.dark .stats-box.inactive .stats-box-number {
+html.dark .stats-box.exited .stats-box-number {
   color: rgba(253, 230, 138, 0.95);
 }
 
@@ -545,8 +545,8 @@ html.dark .politician-card.x-active {
   border-color: rgba(220, 38, 38, 0.45);
 }
 
-/* INACTIVE on X */
-html.dark .politician-card.x-inactive {
+/* eXited */
+html.dark .politician-card.x-exited {
   background-color: rgba(255, 183, 57, 0.37);
   border-color: rgba(245, 158, 11, 0.45);
 }

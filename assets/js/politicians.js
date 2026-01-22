@@ -91,7 +91,7 @@
   function getDerivedStatus(p) {
     const s = (p.xStatus || "").toLowerCase();
 
-    if (s === "active" || s === "inactive" || s === "none" || s === "unknown") {
+    if (s === "active" || s === "exited" || s === "none" || s === "unknown") {
       return s;
     }
 
@@ -105,7 +105,7 @@
   // Class for card coloring
   function getStatusClass(p) {
     const status = getDerivedStatus(p);
-    if (status === "inactive") return "x-inactive";
+    if (status === "exited") return "x-exited";
     if (status === "active") return "x-active";
     if (status === "none") return "x-none";
     return "x-unknown";
@@ -116,10 +116,10 @@
     if (!statusValue) return true; // "All"
     const derived = getDerivedStatus(p);
 
-    // New values like "active" | "inactive" | "none" | "unknown"
+    // New values like "active" | "exited" | "none" | "unknown"
     if (
       statusValue === "active" ||
-      statusValue === "inactive" ||
+      statusValue === "exited" ||
       statusValue === "none"
     ) {
       return derived === statusValue;
@@ -144,19 +144,19 @@
     let label = "Status unknown";
     if (status === "active") {
       label = "Still active on X";
-    } else if (status === "inactive") {
-      label = "Has X, but is inactive";
+    } else if (status === "exited") {
+      label = "Has eXited";
     } else if (status === "none") {
       label = "Not on X";
     }
 
     // Append archived exit tweet link if available
-    if (status === "inactive" && p.xLastArchiveUrl) {
+    if (status === "exited" && p.xLastArchiveUrl) {
       label += ` - <a href="${p.xLastArchiveUrl}" class="link-primary" target="_blank" rel="noopener noreferrer">see exit post</a>`;
     }
 
     const profileLink =
-      p.xHandle && (status === "active" || status === "inactive")
+      p.xHandle && (status === "active" || status === "exited")
         ? `<a href="https://x.com/${p.xHandle.replace(
             "@",
             ""
@@ -213,20 +213,20 @@
     }
 
     let active = 0;
-    let inactive = 0;
+    let exited = 0;
     let none = 0;
     let unknown = 0;
 
     items.forEach((p) => {
       const s = getDerivedStatus(p);
       if (s === "active") active += 1;
-      else if (s === "inactive") inactive += 1;
+      else if (s === "exited") exited += 1;
       else if (s === "none") none += 1;
       else unknown += 1;
     });
 
-    const onX = active + inactive;
-    const offX = none;
+    const onX = active;
+    const offX = exited + none;
     const percentOn = Math.round((onX / total) * 100);
 
     const label = getStatsLabel({
@@ -262,7 +262,7 @@
 
         <div class="stats-bar-info">
           <div class="stats-percentage">${percentOn}%</div>
-          <div class="stats-total">${onX} of ${total} MPs still have an X account</div>
+          <div class="stats-total">${onX} of ${total} MPs are active on X</div>
         </div>
 
         <div class="stats-bar" aria-hidden="true">
@@ -275,9 +275,9 @@
             <div class="stats-box-label">Active on X</div>
           </div>
 
-          <div class="stats-box inactive">
-            <div class="stats-box-number">${inactive}</div>
-            <div class="stats-box-label">Inactive on X</div>
+          <div class="stats-box exited">
+            <div class="stats-box-number">${exited}</div>
+            <div class="stats-box-label">eXited</div>
           </div>
 
           <div class="stats-box not-on">

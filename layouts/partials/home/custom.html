@@ -16,7 +16,20 @@
 {{ $euTotal := len $meps }}
 {{ $euOnX := 0 }}
 {{ range $meps }}
-  {{ if .usesX }}{{ $euOnX = add $euOnX 1 }}{{ end }}
+  {{ $st := lower (.xStatus | default "") }}
+
+  {{/* If xStatus is present, it wins */}}
+  {{ if $st }}
+    {{ if eq $st "active" }}
+      {{ $euOnX = add $euOnX 1 }}
+    {{ end }}
+
+  {{/* Otherwise fall back to usesX */}}
+  {{ else }}
+    {{ if .usesX }}
+      {{ $euOnX = add $euOnX 1 }}
+    {{ end }}
+  {{ end }}
 {{ end }}
 {{ $euPct := 0.0 }}
 {{ if gt $euTotal 0 }}{{ $euPct = mul (div (float $euOnX) (float $euTotal)) 100.0 }}{{ end }}
@@ -25,7 +38,20 @@
 {{ $nlTotal := len $nlmps }}
 {{ $nlOnX := 0 }}
 {{ range $nlmps }}
-  {{ if .usesX }}{{ $nlOnX = add $nlOnX 1 }}{{ end }}
+  {{ $st := lower (.xStatus | default "") }}
+
+  {{/* If xStatus is present, it wins */}}
+  {{ if $st }}
+    {{ if eq $st "active" }}
+      {{ $nlOnX = add $nlOnX 1 }}
+    {{ end }}
+
+  {{/* Otherwise fall back to usesX */}}
+  {{ else }}
+    {{ if .usesX }}
+      {{ $nlOnX = add $nlOnX 1 }}
+    {{ end }}
+  {{ end }}
 {{ end }}
 {{ $nlPct := 0.0 }}
 {{ if gt $nlTotal 0 }}{{ $nlPct = mul (div (float $nlOnX) (float $nlTotal)) 100.0 }}{{ end }}
@@ -34,7 +60,20 @@
 {{ $atTotal := len $atmps }}
 {{ $atOnX := 0.0 }}
 {{ range $atmps }}
-  {{ if .usesX }}{{ $atOnX = add $atOnX 1 }}{{ end }}
+  {{ $st := lower (.xStatus | default "") }}
+
+  {{/* If xStatus is present, it wins */}}
+  {{ if $st }}
+    {{ if eq $st "active" }}
+      {{ $atOnX = add $atOnX 1 }}
+    {{ end }}
+
+  {{/* Otherwise fall back to usesX */}}
+  {{ else }}
+    {{ if .usesX }}
+      {{ $atOnX = add $atOnX 1 }}
+    {{ end }}
+  {{ end }}
 {{ end }}
 {{ $atPct := 0.0 }}
 {{ if gt $atTotal 0 }}{{ $atPct = mul (div (float $atOnX) (float $atTotal)) 100.0 }}{{ end }}
