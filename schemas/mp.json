@@ -1,0 +1,104 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name",
+      "country",
+      "countryCode",
+      "level",
+      "institution",
+      "role",
+      "party",
+      "email",
+      "usesX",
+      "xHandle"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Unique identifier for the representative"
+      },
+      "name": {
+        "type": "string",
+        "description": "Full name of the representative"
+      },
+      "country": {
+        "type": "string",
+        "description": "Country the representative represents"
+      },
+      "countryCode": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$",
+        "description": "ISO 3166-1 alpha-2 country code"
+      },
+      "level": {
+        "type": "string",
+        "enum": ["eu", "national"],
+        "description": "Level of government (EU or national)"
+      },
+      "institution": {
+        "type": "string",
+        "description": "Name of the institution or parliament"
+      },
+      "role": {
+        "type": "string",
+        "description": "Role or position (e.g., MEP, MP)"
+      },
+      "party": {
+        "type": "string",
+        "description": "Political party or group affiliation"
+      },
+      "euGroupFull": {
+        "type": "string",
+        "description": "Full name political party in European parlement"
+      },
+      "email": {
+        "type": "string",
+        "format": "email",
+        "description": "Official email address"
+      },
+      "usesX": {
+        "type": "boolean",
+        "description": "Whether the representative uses X (formerly Twitter)"
+      },
+      "xHandle": {
+        "type": ["string", "null"],
+        "pattern": "^@[a-zA-Z0-9_]+$|^$",
+        "description": "X (Twitter) handle, including @ symbol, or null if not applicable"
+      },
+      "xStatus": {
+        "enum": ["exited", "active"],
+        "description": "Status on X"
+      },
+      "xLeftAt": {
+        "type": "string",
+        "format": "date",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+        "description": "Date the person left X"
+      },
+      "xNotes": {
+        "type": "string",
+        "description": "Exit message on X"
+      },
+      "xLastArchiveUrl": {
+        "type": "string",
+        "format": "url",
+        "description": "Internet archive URL of last message on X"
+      },
+      "source": {
+        "enum": ["manual", "automatic"],
+        "description": "Source of X status"
+      },
+      "updatedAt": {
+        "type": "string",
+        "format": "date",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+        "description": "Date of the latest update"
+      }
+    },
+    "additionalProperties": false
+  }
+}
