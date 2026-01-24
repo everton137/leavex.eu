@@ -22,8 +22,10 @@
     "role": "MP",
     "party": "denk",
     "email": "i.eabassi@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@IsmailelAbassi2",
+    "source": "manual",
+    "updatedAt": "2026-01-22"
   },
   {
     "id": "mp_nl_004",
@@ -61,8 +63,10 @@
     "role": "MP",
     "party": "cda",
     "email": "e.armut@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@etkinarmut",
+    "source": "manual",
+    "updatedAt": "2026-01-22"
   },
   {
     "id": "mp_nl_007",
@@ -140,7 +144,9 @@
     "party": "d66",
     "email": "f.belhirch@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-22"
   },
   {
     "id": "mp_nl_013",
@@ -165,8 +171,10 @@
     "role": "MP",
     "party": "d66",
     "email": "n.vberkel@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@Vanberkel2508",
+    "source": "manual",
+    "updatedAt": "2026-01-22"
   },
   {
     "id": "mp_nl_015",
@@ -1555,9 +1563,9 @@
     "institution": "Tweede Kamer",
     "role": "MP",
     "party": "fvd",
-    "email": "",
-    "usesX": false,
-    "xHandle": null
+    "email": "t.russcher@tweedekamer.nl",
+    "usesX": true,
+    "xHandle": "@tomrusscher"
   },
   {
     "id": "mp_nl_122",
