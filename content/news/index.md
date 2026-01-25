@@ -2,10 +2,9 @@
 title: "Newsroom"
 description: "Relevant news related to the abandoning of X"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 The latest updates, media coverage, and opinion pieces supporting the movement to abandon X/Twitter. You can also find [quotes and ideas](/quotes) related to this project.
