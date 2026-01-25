@@ -12,5 +12,7 @@ params:
   hideLevelFilter: true
   hideCountryFilter: true
   intro: >
+      NOTE: This is the data for the 20th Bundestag.
+
       Browse the members of the German Parliament (Bundestag) and search by name or party. You can then copy the selected MPs' email addresses to contact them.
 ---
