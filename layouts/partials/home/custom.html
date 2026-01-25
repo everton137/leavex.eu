@@ -18,20 +18,20 @@
 {{ $euTotal := len $meps }}
 {{ $euOnX := 0 }}
 {{ range $meps }}
-  {{ $st := lower (.xStatus | default "") }}
+{{ $st := lower (.xStatus | default "") }}
 
-  {{/* If xStatus is present, it wins */}}
-  {{ if $st }}
-    {{ if eq $st "active" }}
-      {{ $euOnX = add $euOnX 1 }}
-    {{ end }}
+{{/* If xStatus is present, it wins */}}
+{{ if $st }}
+{{ if eq $st "active" }}
+{{ $euOnX = add $euOnX 1 }}
+{{ end }}
 
-  {{/* Otherwise fall back to usesX */}}
-  {{ else }}
-    {{ if .usesX }}
-      {{ $euOnX = add $euOnX 1 }}
-    {{ end }}
-  {{ end }}
+{{/* Otherwise fall back to usesX */}}
+{{ else }}
+{{ if .usesX }}
+{{ $euOnX = add $euOnX 1 }}
+{{ end }}
+{{ end }}
 {{ end }}
 {{ $euPct := 0.0 }}
 {{ if gt $euTotal 0 }}{{ $euPct = mul (div (float $euOnX) (float $euTotal)) 100.0 }}{{ end }}
@@ -40,20 +40,20 @@
 {{ $deTotal := len $demps }}
 {{ $deOnX := 0 }}
 {{ range $demps }}
-  {{ $st := lower (.xStatus | default "") }}
+{{ $st := lower (.xStatus | default "") }}
 
-  {{/* If xStatus is present, it wins */}}
-  {{ if $st }}
-    {{ if eq $st "active" }}
-      {{ $deOnX = add $deOnX 1 }}
-    {{ end }}
+{{/* If xStatus is present, it wins */}}
+{{ if $st }}
+{{ if eq $st "active" }}
+{{ $deOnX = add $deOnX 1 }}
+{{ end }}
 
-  {{/* Otherwise fall back to usesX */}}
-  {{ else }}
-    {{ if .usesX }}
-      {{ $deOnX = add $deOnX 1 }}
-    {{ end }}
-  {{ end }}
+{{/* Otherwise fall back to usesX */}}
+{{ else }}
+{{ if .usesX }}
+{{ $deOnX = add $deOnX 1 }}
+{{ end }}
+{{ end }}
 {{ end }}
 {{ $dePct := 0.0 }}
 {{ if gt $deTotal 0 }}{{ $dePct = mul (div (float $deOnX) (float $deTotal)) 100.0 }}{{ end }}
@@ -62,20 +62,20 @@
 {{ $nlTotal := len $nlmps }}
 {{ $nlOnX := 0 }}
 {{ range $nlmps }}
-  {{ $st := lower (.xStatus | default "") }}
+{{ $st := lower (.xStatus | default "") }}
 
-  {{/* If xStatus is present, it wins */}}
-  {{ if $st }}
-    {{ if eq $st "active" }}
-      {{ $nlOnX = add $nlOnX 1 }}
-    {{ end }}
+{{/* If xStatus is present, it wins */}}
+{{ if $st }}
+{{ if eq $st "active" }}
+{{ $nlOnX = add $nlOnX 1 }}
+{{ end }}
 
-  {{/* Otherwise fall back to usesX */}}
-  {{ else }}
-    {{ if .usesX }}
-      {{ $nlOnX = add $nlOnX 1 }}
-    {{ end }}
-  {{ end }}
+{{/* Otherwise fall back to usesX */}}
+{{ else }}
+{{ if .usesX }}
+{{ $nlOnX = add $nlOnX 1 }}
+{{ end }}
+{{ end }}
 {{ end }}
 {{ $nlPct := 0.0 }}
 {{ if gt $nlTotal 0 }}{{ $nlPct = mul (div (float $nlOnX) (float $nlTotal)) 100.0 }}{{ end }}
@@ -84,20 +84,20 @@
 {{ $atTotal := len $atmps }}
 {{ $atOnX := 0.0 }}
 {{ range $atmps }}
-  {{ $st := lower (.xStatus | default "") }}
+{{ $st := lower (.xStatus | default "") }}
 
-  {{/* If xStatus is present, it wins */}}
-  {{ if $st }}
-    {{ if eq $st "active" }}
-      {{ $atOnX = add $atOnX 1 }}
-    {{ end }}
+{{/* If xStatus is present, it wins */}}
+{{ if $st }}
+{{ if eq $st "active" }}
+{{ $atOnX = add $atOnX 1 }}
+{{ end }}
 
-  {{/* Otherwise fall back to usesX */}}
-  {{ else }}
-    {{ if .usesX }}
-      {{ $atOnX = add $atOnX 1 }}
-    {{ end }}
-  {{ end }}
+{{/* Otherwise fall back to usesX */}}
+{{ else }}
+{{ if .usesX }}
+{{ $atOnX = add $atOnX 1 }}
+{{ end }}
+{{ end }}
 {{ end }}
 {{ $atPct := 0.0 }}
 {{ if gt $atTotal 0 }}{{ $atPct = mul (div (float $atOnX) (float $atTotal)) 100.0 }}{{ end }}
@@ -106,20 +106,20 @@
 {{ $seTotal := len $semps }}
 {{ $seOnX := 0 }}
 {{ range $semps }}
-  {{ $st := lower (.xStatus | default "") }}
+{{ $st := lower (.xStatus | default "") }}
 
-  {{/* If xStatus is present, it wins */}}
-  {{ if $st }}
-    {{ if eq $st "active" }}
-      {{ $seOnX = add $seOnX 1 }}
-    {{ end }}
+{{/* If xStatus is present, it wins */}}
+{{ if $st }}
+{{ if eq $st "active" }}
+{{ $seOnX = add $seOnX 1 }}
+{{ end }}
 
-  {{/* Otherwise fall back to usesX */}}
-  {{ else }}
-    {{ if .usesX }}
-      {{ $seOnX = add $seOnX 1 }}
-    {{ end }}
-  {{ end }}
+{{/* Otherwise fall back to usesX */}}
+{{ else }}
+{{ if .usesX }}
+{{ $seOnX = add $seOnX 1 }}
+{{ end }}
+{{ end }}
 {{ end }}
 {{ $sePct := 0.0 }}
 {{ if gt $seTotal 0 }}{{ $sePct = mul (div (float $seOnX) (float $seTotal)) 100.0 }}{{ end }}
@@ -133,177 +133,189 @@
   <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
 
     {{/* --- LEFT: Open Letter / Project summary --- */}}
-    <div class="rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
+    <div
+      class="rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
       <h2 class="text-xl font-semibold text-neutral-900 dark:text-neutral-100">
         {{ if $openLetterPage }}
-          {{ $openLetterPage.Title | default "Open Letter" }}
+        {{ $openLetterPage.Title | default "Open Letter" }}
         {{ else }}
-          Open Letter
+        Open Letter
         {{ end }}
       </h2>
 
       <div class="mt-3 text-neutral-700 dark:text-neutral-300">
         {{ if $openLetterPage }}
-          {{/* Prefer a short param if you define it, else use Summary */}}
-          {{ with $openLetterPage.Params.homeSummary }}
-            <p class="leading-relaxed">{{ . }}</p>
-          {{ else }}
-            <p class="leading-relaxed">{{ $openLetterPage.Summary }}</p>
-          {{ end }}
+        {{/* Prefer a short param if you define it, else use Summary */}}
+        {{ with $openLetterPage.Params.homeSummary }}
+        <p class="leading-relaxed">{{ . }}</p>
         {{ else }}
-          <p class="leading-relaxed">
-            Leave X – Protect Democracy is a civic initiative encouraging public officials to leave X and documenting the shift to healthier public spaces.
-          </p>
+        <p class="leading-relaxed">{{ $openLetterPage.Summary }}</p>
+        {{ end }}
+        {{ else }}
+        <p class="leading-relaxed">
+          Leave X – Protect Democracy is a civic initiative encouraging public officials to leave X and documenting the
+          shift to healthier public spaces.
+        </p>
         {{ end }}
       </div>
 
       <div class="mt-4">
         {{ if $openLetterPage }}
-            <a class="font-medium text-primary-600 underline decoration-primary-300 underline-offset-4 hover:decoration-primary-500
+        <a class="font-medium text-primary-600 underline decoration-primary-300 underline-offset-4 hover:decoration-primary-500
           dark:text-primary-400 dark:decoration-primary-700 dark:hover:decoration-primary-300"
-           href="{{ $openLetterPage.RelPermalink }}">
-  See more →
-</a>
+          href="{{ $openLetterPage.RelPermalink }}">
+          See more →
+        </a>
 
         {{ else }}
-          <a class="inline-flex items-center font-medium underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-600 dark:decoration-neutral-700 dark:hover:decoration-neutral-300"
-             href="{{ $openLetterPath }}">
-            See more →
-          </a>
+        <a class="inline-flex items-center font-medium underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-600 dark:decoration-neutral-700 dark:hover:decoration-neutral-300"
+          href="{{ $openLetterPath }}">
+          See more →
+        </a>
         {{ end }}
       </div>
     </div>
 
     {{/* --- RIGHT: Latest posts --- */}}
-    <div class="rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
+    <div
+      class="rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
       <h2 class="text-xl font-semibold text-neutral-900 dark:text-neutral-100">Latest posts</h2>
 
       {{ if gt (len $posts) 0 }}
-        <ul class="mt-4 space-y-3">
-          {{ range $posts }}
-            <li class="leading-snug">
-              <a class="font-medium text-neutral-900 hover:underline dark:text-neutral-100"
-                 href="{{ .RelPermalink }}">
-                {{ .Title }}
-              </a>
-              <div class="mt-1 text-sm text-neutral-600 dark:text-neutral-400">
-                {{ .Date.Format "2006-01-02" }}
-              </div>
-            </li>
-          {{ end }}
-        </ul>
-        <div class="mt-5">
-          <a class="font-medium text-primary-600 underline decoration-primary-300 underline-offset-4 hover:decoration-primary-500
-          dark:text-primary-400 dark:decoration-primary-700 dark:hover:decoration-primary-300"
-             href="{{ (site.GetPage "/posts/").RelPermalink }}">
-            All posts →
+      <ul class="mt-4 space-y-3">
+        {{ range $posts }}
+        <li class="leading-snug">
+          <a class="font-medium text-neutral-900 hover:underline dark:text-neutral-100" href="{{ .RelPermalink }}">
+            {{ .Title }}
           </a>
-        </div>
+          <div class="mt-1 text-sm text-neutral-600 dark:text-neutral-400">
+            {{ .Date.Format "2006-01-02" }}
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+      <div class="mt-5">
+        <a class="font-medium text-primary-600 underline decoration-primary-300 underline-offset-4 hover:decoration-primary-500
+          dark:text-primary-400 dark:decoration-primary-700 dark:hover:decoration-primary-300" href="{{ (site.GetPage " /posts/").RelPermalink }}">
+          All posts →
+        </a>
+      </div>
       {{ else }}
-        <p class="mt-4 text-neutral-700 dark:text-neutral-300">No posts yet.</p>
+      <p class="mt-4 text-neutral-700 dark:text-neutral-300">No posts yet.</p>
       {{ end }}
     </div>
   </div>
 
   {{/* --- BOTTOM: Simple stats --- */}}
-  <div class="mt-8 rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
+  <div
+    class="mt-8 rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
     <div class="flex flex-wrap items-baseline justify-between gap-2">
       <h2 class="text-xl font-semibold text-neutral-900 dark:text-neutral-100">Statistics</h2>
-      <a class="text-sm font-medium underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-600 dark:decoration-neutral-700 dark:hover:decoration-neutral-300"
-         href="{{ (site.GetPage "/politicians/").RelPermalink }}">
-        Detailed statistics →
-      </a>
+      <a class="text-sm font-medium underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-600 dark:decoration-neutral-700 dark:hover:decoration-neutral-300" href="{{ (site.GetPage " /politicians/").RelPermalink }}">Detailed statistics →</a>
     </div>
 
-    <div class="mt-6 grid grid-cols-1 gap-6 md:grid-cols-3">
+    {{/* 2x2 on md+, single column on mobile */}}
+    <div class="mt-6 grid grid-cols-1 gap-6 md:grid-cols-2">
 
-    <div>
+      {{/* EU */}}
+      <div>
         <div class="flex items-baseline justify-between">
-        <div class="font-medium">EU</div>
-        <div class="text-sm text-neutral-600 dark:text-neutral-400">
+          <div class="font-medium">EU</div>
+          <div class="text-sm text-neutral-600 dark:text-neutral-400">
             {{ printf "%.0f" $euPct }}% still on X
-        </div>
+          </div>
         </div>
         <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
-          <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $euPct }}%;"></div>
+          <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf " %.0f" $euPct }}%;">
+          </div>
         </div>
 
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
-        {{ $euOnX }} / {{ $euTotal }}
-        · <a class="underline" href="{{ (site.GetPage "/politicians/").RelPermalink }}">EU Details</a>
+          {{ $euOnX }} / {{ $euTotal }}
+          · <a class="underline" href="{{ (site.GetPage " /politicians/").RelPermalink }}">EU Details</a>
         </div>
-    </div>
+      </div>
 
-        <div>
+      {{/* Austria */}}
+      <div>
         <div class="flex items-baseline justify-between">
-        <div class="font-medium">Germany</div>
-        <div class="text-sm text-neutral-600 dark:text-neutral-400">
-            {{ printf "%.0f" $dePct }}% still on X
-        </div>
+          <div class="font-medium">Austria</div>
+          <div class="text-sm text-neutral-600 dark:text-neutral-400">
+            {{ printf "%.0f" $atPct }}% still on X
+          </div>
         </div>
         <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
-        <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $dePct }}%;"></div>
+          <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf " %.0f" $atPct }}%;">
+          </div>
         </div>
 
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
-        {{ $deOnX }} / {{ $deTotal }}
-        · <a class="underline" href="{{ (site.GetPage "/politicians/de/").RelPermalink }}">DE Details</a>
+          {{ $atOnX }} / {{ $atTotal }}
+          · <a class="underline" href="{{ (site.GetPage " /politicians/at/").RelPermalink }}">AT Details</a>
         </div>
-    </div>
+      </div>
 
-    <div>
+
+      {{/* Sweden */}}
+      <div>
         <div class="flex items-baseline justify-between">
-        <div class="font-medium">Netherlands</div>
-        <div class="text-sm text-neutral-600 dark:text-neutral-400">
+          <div class="font-medium">Sweden</div>
+          <div class="text-sm text-neutral-600 dark:text-neutral-400">
+            {{ printf "%.0f" $sePct }}% still on X
+          </div>
+        </div>
+        <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
+          <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf " %.0f" $sePct }}%;">
+          </div>
+        </div>
+
+        <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
+          {{ $seOnX }} / {{ $seTotal }}
+          · <a class="underline" href="{{ (site.GetPage " /politicians/se/").RelPermalink }}">SE Details</a>
+        </div>
+      </div>
+
+      {{/* Netherlands */}}
+      <div>
+        <div class="flex items-baseline justify-between">
+          <div class="font-medium">Netherlands</div>
+          <div class="text-sm text-neutral-600 dark:text-neutral-400">
             {{ printf "%.0f" $nlPct }}% still on X
-        </div>
+          </div>
         </div>
         <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
-        <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $nlPct }}%;"></div>
+          <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf " %.0f" $nlPct }}%;">
+          </div>
         </div>
 
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
-        {{ $nlOnX }} / {{ $nlTotal }}
-        · <a class="underline" href="{{ (site.GetPage "/politicians/nl/").RelPermalink }}">NL Details</a>
+          {{ $nlOnX }} / {{ $nlTotal }}
+          · <a class="underline" href="{{ (site.GetPage " /politicians/nl/").RelPermalink }}">NL Details</a>
         </div>
-    </div>
+      </div>
 
-    <div>
+      {{/* Germany (commented out)
+      <div>
         <div class="flex items-baseline justify-between">
-        <div class="font-medium">Austria</div>
-        <div class="text-sm text-neutral-600 dark:text-neutral-400">
-          {{ printf "%.0f" $atPct }}% still on X
-        </div>
+          <div class="font-medium">Germany</div>
+          <div class="text-sm text-neutral-600 dark:text-neutral-400">
+            {{ printf "%.0f" $dePct }}% still on X
+          </div>
         </div>
         <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
-        <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $atPct }}%;"></div>
+          <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf " %.0f" $dePct }}%;">
+          </div>
         </div>
 
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
-        {{ $atOnX }} / {{ $atTotal }}
-        · <a class="underline" href="{{ (site.GetPage "/politicians/at/").RelPermalink }}">AT Details</a>
+          {{ $deOnX }} / {{ $deTotal }}
+          · <a class="underline" href="{{ (site.GetPage " /politicians/de/").RelPermalink }}">DE Details</a>
         </div>
-    </div>
-
-    <div>
-        <div class="flex items-baseline justify-between">
-        <div class="font-medium">Sweden</div>
-        <div class="text-sm text-neutral-600 dark:text-neutral-400">
-          {{ printf "%.0f" $sePct }}% still on X
-        </div>
-        </div>
-        <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
-        <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $sePct }}%;"></div>
-        </div>
-
-        <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
-        {{ $seOnX }} / {{ $seTotal }}
-        · <a class="underline" href="{{ (site.GetPage "/politicians/se/").RelPermalink }}">SE Details</a>
-        </div>
-    </div>
-
+      </div>
+      */}}
 
     </div>
+  </div>
 
 
   </div>
