@@ -11,6 +11,7 @@
 {{ $meps := site.Data.politicians.eu.meps | default (slice) }}
 {{ $nlmps := site.Data.politicians.nl.mps | default (slice) }}
 {{ $atmps := site.Data.politicians.at.mps | default (slice) }}
+{{ $demps := site.Data.politicians.de.mps | default (slice) }}
 
 {{/* EU */}}
 {{ $euTotal := len $meps }}
@@ -34,10 +35,32 @@
 {{ $euPct := 0.0 }}
 {{ if gt $euTotal 0 }}{{ $euPct = mul (div (float $euOnX) (float $euTotal)) 100.0 }}{{ end }}
 
+{{/* DE */}}
+{{ $deTotal := len $demps }}
+{{ $deOnX := 0 }}
+{{ range $demps }}
+  {{ $st := lower (.xStatus | default "") }}
+
+  {{/* If xStatus is present, it wins */}}
+  {{ if $st }}
+    {{ if eq $st "active" }}
+      {{ $deOnX = add $deOnX 1 }}
+    {{ end }}
+
+  {{/* Otherwise fall back to usesX */}}
+  {{ else }}
+    {{ if .usesX }}
+      {{ $deOnX = add $deOnX 1 }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $dePct := 0.0 }}
+{{ if gt $deTotal 0 }}{{ $dePct = mul (div (float $deOnX) (float $deTotal)) 100.0 }}{{ end }}
+
 {{/* NL */}}
-{{ $nlTotal := len $nlmps }}
+{{ $nlTotal := len $demps }}
 {{ $nlOnX := 0 }}
-{{ range $nlmps }}
+{{ range $demps }}
   {{ $st := lower (.xStatus | default "") }}
 
   {{/* If xStatus is present, it wins */}}
@@ -185,6 +208,23 @@
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
         {{ $euOnX }} / {{ $euTotal }}
         · <a class="underline" href="{{ (site.GetPage "/politicians/").RelPermalink }}">EU Details</a>
+        </div>
+    </div>
+
+        <div>
+        <div class="flex items-baseline justify-between">
+        <div class="font-medium">Germany</div>
+        <div class="text-sm text-neutral-600 dark:text-neutral-400">
+            {{ printf "%.0f" $dePct }}% still on X
+        </div>
+        </div>
+        <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
+        <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $dePct }}%;"></div>
+        </div>
+
+        <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
+        {{ $deOnX }} / {{ $deTotal }}
+        · <a class="underline" href="{{ (site.GetPage "/politicians/de/").RelPermalink }}">DE Details</a>
         </div>
     </div>
 
