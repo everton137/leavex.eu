@@ -7,7 +7,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "fredrik.ahlstedt@­riksdagen.se",
     "usesX": true,
     "xHandle": "@FredrikAhlstedt"
@@ -20,7 +20,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "emma.ahlstrom.koster@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Emmaakoster"
@@ -33,7 +33,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "alireza.akhondi@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AlirezaAkhondi"
@@ -46,7 +46,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "anders.alftberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AAlftberg"
@@ -59,7 +59,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "leila.ali.elmi@­riksdagen.se",
     "usesX": true,
     "xHandle": "@LeilaAliElmi"
@@ -72,11 +72,11 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "janine.alm.ericson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Almericson"
-  },  
+  },
   {
     "id": "mp_se_007",
     "name": "Ann-Sofie Alm",
@@ -85,7 +85,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ann-sofie.alm@­riksdagen.se",
     "usesX": true,
     "xHandle": "@annsofiealm"
@@ -98,7 +98,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "sofia.amloh@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AmlohSofia"
@@ -111,7 +111,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "pontus.andersson.garpvall@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SdPontus"
@@ -124,12 +124,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "andrea.andersson-tay@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_011",
     "name": "Johan Andersson",
     "country": "Sweden",
@@ -137,12 +137,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "johan.andersson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_012",
     "name": "Jonas Andersson",
     "country": "Sweden",
@@ -150,12 +150,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "jonas.p.andersson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_013",
     "name": "Lars Andersson",
     "country": "Sweden",
@@ -163,12 +163,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "lars.andersson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_014",
     "name": "Magdalena Andersson",
     "country": "Sweden",
@@ -176,12 +176,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "magdalena.andersson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@magdandersson"
-  },  
- {
+  },
+  {
     "id": "mp_se_015",
     "name": "Tobias Andersson",
     "country": "Sweden",
@@ -189,12 +189,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "tobias.andersson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SDTobbe"
-  },  
- {
+  },
+  {
     "id": "mp_se_016",
     "name": "Lili André",
     "country": "Sweden",
@@ -202,12 +202,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "lili.andre@­riksdagen.se",
     "usesX": true,
     "xHandle": "@liliandre"
-  },  
- {
+  },
+  {
     "id": "mp_se_017",
     "name": "Alexandra Anstrell",
     "country": "Sweden",
@@ -215,12 +215,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "alexandra.anstrell@­riksdagen.se",
     "usesX": true,
     "xHandle": "@alexandraanstr1"
-  },  
- {
+  },
+  {
     "id": "mp_se_018",
     "name": "Clara Aranda",
     "country": "Sweden",
@@ -228,12 +228,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "clara.aranda@­riksdagen.se",
     "usesX": true,
     "xHandle": "@aranda_clara"
-  },  
- {
+  },
+  {
     "id": "mp_se_019",
     "name": "Mats Arkhem",
     "country": "Sweden",
@@ -241,12 +241,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "mats.arkhem@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_020",
     "name": "Ludvig Aspling",
     "country": "Sweden",
@@ -254,12 +254,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "ludvig.aspling@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AsplingLudvig"
-  },  
- {
+  },
+  {
     "id": "mp_se_021",
     "name": "Madeleine Atlas",
     "country": "Sweden",
@@ -267,12 +267,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "madeleine.atlas@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_022",
     "name": "Gulan Avci",
     "country": "Sweden",
@@ -280,12 +280,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "gulan.avci@­riksdagen.se",
     "usesX": true,
     "xHandle": "@GulanAvci"
-  },  
- {
+  },
+  {
     "id": "mp_se_023",
     "name": "Nadja Awad",
     "country": "Sweden",
@@ -293,12 +293,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "nadja.awad@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AwadNadja"
-  },  
- {
+  },
+  {
     "id": "mp_se_024",
     "name": "Kristina Axén Olin",
     "country": "Sweden",
@@ -306,12 +306,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "kristina.axen.olin@­riksdagen.se",
     "usesX": true,
     "xHandle": "@kristinaaxol"
-  },  
- {
+  },
+  {
     "id": "mp_se_025",
     "name": "Yusuf Aydin",
     "country": "Sweden",
@@ -319,12 +319,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "yusuf.aydin@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Y_Aydin82"
-  },  
- {
+  },
+  {
     "id": "mp_se_026",
     "name": "Sanna Backeskog",
     "country": "Sweden",
@@ -332,12 +332,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "sanna.backeskog@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SannaBackeskog"
-  },  
- {
+  },
+  {
     "id": "mp_se_027",
     "name": "Lars Beckman",
     "country": "Sweden",
@@ -345,12 +345,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "lars.beckman@­riksdagen.se",
     "usesX": true,
     "xHandle": "@beckmansasikter"
-  },  
- {
+  },
+  {
     "id": "mp_se_028",
     "name": "Denis Begic",
     "country": "Sweden",
@@ -358,12 +358,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "denis.begic@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_029",
     "name": "Angelika Bengtsson",
     "country": "Sweden",
@@ -371,12 +371,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "angelika.bengtsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_030",
     "name": "Mathias Bengtsson",
     "country": "Sweden",
@@ -384,12 +384,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "mathias.bengtsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@bangtsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_031",
     "name": "Christofer Bergenblock",
     "country": "Sweden",
@@ -397,12 +397,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "christofer.bergenblock@­riksdagen.se",
     "usesX": true,
     "xHandle": "@c_bergenblock"
-  },  
- {
+  },
+  {
     "id": "mp_se_032",
     "name": "Sten Bergheden",
     "country": "Sweden",
@@ -410,12 +410,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "sten.bergheden@­riksdagen.se",
     "usesX": true,
     "xHandle": "@StenBergheden"
-  },  
- {
+  },
+  {
     "id": "mp_se_033",
     "name": "Jörgen Berglund",
     "country": "Sweden",
@@ -423,12 +423,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "jorgen.berglund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@jorgen_berglund"
-  },  
- {
+  },
+  {
     "id": "mp_se_034",
     "name": "Mats Berglund",
     "country": "Sweden",
@@ -436,12 +436,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "mats.berglund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@matber"
-  },  
- {
+  },
+  {
     "id": "mp_se_035",
     "name": "Magnus Berntsson",
     "country": "Sweden",
@@ -449,12 +449,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "magnus.berntsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MagnusBerntsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_036",
     "name": "Aida Birinxhiku",
     "country": "Sweden",
@@ -462,12 +462,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "aida.birinxhiku@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AidaBirinxhiku"
-  },  
- {
+  },
+  {
     "id": "mp_se_037",
     "name": "Sara-Lena Bjälkö",
     "country": "Sweden",
@@ -475,12 +475,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "-",
+    "party": "Partilös (obunden)",
     "email": "sara-lena.bjalko@­riksdagen.se",
     "usesX": true,
     "xHandle": "@sdbjalko"
-  },  
- {
+  },
+  {
     "id": "mp_se_038",
     "name": "Patrik Björck",
     "country": "Sweden",
@@ -488,12 +488,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "patrik.bjorck@­riksdagen.se",
     "usesX": true,
     "xHandle": "@patrikbjorck"
-  },  
- {
+  },
+  {
     "id": "mp_se_039",
     "name": "Peder Björk",
     "country": "Sweden",
@@ -501,12 +501,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "peder.bjork@­riksdagen.se",
     "usesX": true,
     "xHandle": "@PederBjrk"
-  },  
- {
+  },
+  {
     "id": "mp_se_040",
     "name": "Heléne Björklund",
     "country": "Sweden",
@@ -514,12 +514,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "helene.bjorklund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@helenebjorklund"
-  },  
- {
+  },
+  {
     "id": "mp_se_041",
     "name": "Carita Boulwén",
     "country": "Sweden",
@@ -527,12 +527,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "carita.boulwen@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_042",
     "name": "Helena Bouveng",
     "country": "Sweden",
@@ -540,12 +540,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "helena.bouveng@­riksdagen.se",
     "usesX": true,
     "xHandle": "@helenabouveng"
-  },  
- {
+  },
+  {
     "id": "mp_se_043",
     "name": "Camilla Brodin",
     "country": "Sweden",
@@ -553,12 +553,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "camilla.brodin@­riksdagen.se",
     "usesX": true,
     "xHandle": "@CamillaBrodin"
-  },  
- {
+  },
+  {
     "id": "mp_se_044",
     "name": "Bo Broman",
     "country": "Sweden",
@@ -566,12 +566,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "bo.broman@­riksdagen.se",
     "usesX": true,
     "xHandle": "@BosseBroman"
-  },  
- {
+  },
+  {
     "id": "mp_se_045",
     "name": "Gudrun Brunegård",
     "country": "Sweden",
@@ -579,12 +579,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "gudrun.brunegard@­riksdagen.se",
     "usesX": true,
     "xHandle": "@gudrunbrunegard"
-  },  
- {
+  },
+  {
     "id": "mp_se_046",
     "name": "Camilla Brunsberg",
     "country": "Sweden",
@@ -592,12 +592,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "camilla.brunsberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Brunsberg"
-  },  
- {
+  },
+  {
     "id": "mp_se_047",
     "name": "Johan Büser",
     "country": "Sweden",
@@ -605,12 +605,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "alireza.akhondi@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_048",
     "name": "Mattias Bäckström Johansson",
     "country": "Sweden",
@@ -618,12 +618,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "mattias.backstrom.johansson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@mattiasbjo"
-  },  
- {
+  },
+  {
     "id": "mp_se_049",
     "name": "Daniel Bäckström",
     "country": "Sweden",
@@ -631,12 +631,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "daniel.backstrom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@danielsaffle"
-  },  
- {
+  },
+  {
     "id": "mp_se_050",
     "name": "Christian Carlsson",
     "country": "Sweden",
@@ -644,12 +644,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "christian.carlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ChristianCkd"
-  },  
- {
+  },
+  {
     "id": "mp_se_051",
     "name": "Crister Carlsson",
     "country": "Sweden",
@@ -657,12 +657,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "crister.carlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ChristerCa23712"
-  },  
- {
+  },
+  {
     "id": "mp_se_052",
     "name": "Gunilla Carlsson",
     "country": "Sweden",
@@ -670,12 +670,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "gunilla.c.carlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@kulturgunilla"
-  },  
- {
+  },
+  {
     "id": "mp_se_053",
     "name": "Rose-Marie Carlsson",
     "country": "Sweden",
@@ -683,12 +683,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "alireza.akhondi@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_054",
     "name": "Teresa Carvalho",
     "country": "Sweden",
@@ -696,12 +696,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "teresa.carvalho@­riksdagen.se",
     "usesX": true,
     "xHandle": "@TeresaCarvalho"
-  },  
- {
+  },
+  {
     "id": "mp_se_055",
     "name": "Margareta Cederfelt",
     "country": "Sweden",
@@ -709,12 +709,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "margareta.cederfelt@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MCederfelt"
-  },  
- {
+  },
+  {
     "id": "mp_se_056",
     "name": "Ludvig Ceimertz",
     "country": "Sweden",
@@ -722,12 +722,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ludvig.ceimertz@­riksdagen.se",
     "usesX": true,
     "xHandle": "@LCeimertz"
-  },  
- {
+  },
+  {
     "id": "mp_se_057",
     "name": "Alexander Christiansson",
     "country": "Sweden",
@@ -735,12 +735,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "alexander.christiansson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AOchristiansson"
-  },  
- {
+  },
+  {
     "id": "mp_se_058",
     "name": "Dzenan Cisija",
     "country": "Sweden",
@@ -748,12 +748,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "dzenan.cisija@­riksdagen.se",
     "usesX": true,
     "xHandle": "@cisija"
-  },  
- {
+  },
+  {
     "id": "mp_se_059",
     "name": "Nooshi Dadgostar",
     "country": "Sweden",
@@ -761,12 +761,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "nooshi.dadgostar@­riksdagen.se",
     "usesX": true,
     "xHandle": "@dadgostarnooshi"
-  },  
- {
+  },
+  {
     "id": "mp_se_060",
     "name": "Chris Dahlqvist",
     "country": "Sweden",
@@ -774,12 +774,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "chris.dahlqvist@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ChrisDahlqvist"
-  },  
- {
+  },
+  {
     "id": "mp_se_061",
     "name": "Mikael Dahlqvist",
     "country": "Sweden",
@@ -787,12 +787,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mikael.dahlqvist@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_062",
     "name": "Mikael Damberg",
     "country": "Sweden",
@@ -800,12 +800,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mikael.damberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@mikaeldamberg"
-  },  
- {
+  },
+  {
     "id": "mp_se_063",
     "name": "Mikael Damsgaard",
     "country": "Sweden",
@@ -813,12 +813,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "mikael.damsgaard@­riksdagen.se",
     "usesX": true,
     "xHandle": "@_damsgaard"
-  },  
- {
+  },
+  {
     "id": "mp_se_064",
     "name": "Malin Danielsson",
     "country": "Sweden",
@@ -826,12 +826,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "malin.danielsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_065",
     "name": "Lorena Delgado Varas",
     "country": "Sweden",
@@ -839,12 +839,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "-",
+    "party": "Partilös (obunden)",
     "email": "lorena.delgado@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_066",
     "name": "Muharrem Demirok",
     "country": "Sweden",
@@ -852,12 +852,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "muharrem.demirok@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MuharremDemirok"
-  },  
- {
+  },
+  {
     "id": "mp_se_067",
     "name": "Catarina Deremar",
     "country": "Sweden",
@@ -865,12 +865,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "catarina.deremar@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_068",
     "name": "Dennis Dioukarev",
     "country": "Sweden",
@@ -878,12 +878,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "dennis.dioukarev@­riksdagen.se",
     "usesX": true,
     "xHandle": "@DennisDioukarev"
-  },  
- {
+  },
+  {
     "id": "mp_se_069",
     "name": "Ida Drougge",
     "country": "Sweden",
@@ -891,12 +891,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ida.drougge@­riksdagen.se",
     "usesX": true,
     "xHandle": "@idadrougge"
-  },  
- {
+  },
+  {
     "id": "mp_se_070",
     "name": "Anders Ekegren",
     "country": "Sweden",
@@ -904,12 +904,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "anders.ekegren@­riksdagen.se",
     "usesX": true,
     "xHandle": "@EkegrenSolna"
-  },  
- {
+  },
+  {
     "id": "mp_se_071",
     "name": "Ida Ekeroth Clausson",
     "country": "Sweden",
@@ -917,12 +917,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "ida.ekeroth.clausson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@idaekeroth"
-  },  
- {
+  },
+  {
     "id": "mp_se_072",
     "name": "Hans Eklind",
     "country": "Sweden",
@@ -930,12 +930,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "hans.eklind@­riksdagen.se",
     "usesX": true,
     "xHandle": "@HansEklind"
-  },  
- {
+  },
+  {
     "id": "mp_se_073",
     "name": "Louise Eklund",
     "country": "Sweden",
@@ -943,12 +943,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "louise.eklund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@LouEklund"
-  },  
- {
+  },
+  {
     "id": "mp_se_074",
     "name": "Staffan Eklöf",
     "country": "Sweden",
@@ -956,12 +956,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "staffan.eklof@­riksdagen.se",
     "usesX": true,
     "xHandle": "@StaffanSEklof"
-  },  
- {
+  },
+  {
     "id": "mp_se_075",
     "name": "Hans Ekström",
     "country": "Sweden",
@@ -969,12 +969,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "hans.ekstrom@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_076",
     "name": "Jamal El-Haj",
     "country": "Sweden",
@@ -982,12 +982,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "-",
+    "party": "Partilös (obunden)",
     "email": "jamal.el-haj@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_077",
     "name": "Blåvitt Elofsson",
     "country": "Sweden",
@@ -995,12 +995,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "blavitt.elofsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_078",
     "name": "Torsten Elofsson",
     "country": "Sweden",
@@ -1008,12 +1008,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "torsten.elofsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@TorstenElofsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_079",
     "name": "Cecilia Engström",
     "country": "Sweden",
@@ -1021,12 +1021,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "cecilia.engstrom@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_080",
     "name": "Lars Engsund",
     "country": "Sweden",
@@ -1034,12 +1034,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "lars.engsund@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_081",
     "name": "Matheus Enholm",
     "country": "Sweden",
@@ -1047,12 +1047,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "matheus.enholm@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MatheusEnholm"
-  },  
- {
+  },
+  {
     "id": "mp_se_082",
     "name": "Karin Enström",
     "country": "Sweden",
@@ -1060,12 +1060,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "karin.enstrom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Karinenstrom"
-  },  
- {
+  },
+  {
     "id": "mp_se_083",
     "name": "Jan Ericson",
     "country": "Sweden",
@@ -1073,12 +1073,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "jan.ericson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Ericson_ubbhult"
-  },  
- {
+  },
+  {
     "id": "mp_se_084",
     "name": "Mattias Eriksson Falk",
     "country": "Sweden",
@@ -1086,12 +1086,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "mattias.eriksson.falk@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SDMattias"
-  },  
- {
+  },
+  {
     "id": "mp_se_085",
     "name": "Yasmine Eriksson",
     "country": "Sweden",
@@ -1099,12 +1099,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "yasmine.eriksson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@YasmineEriksson"
-  },  
- {
+  },
+  {
     "id": "mp_se_086",
     "name": "Åsa Eriksson",
     "country": "Sweden",
@@ -1112,12 +1112,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "asa.eriksson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_087",
     "name": "Matilda Ernkrans",
     "country": "Sweden",
@@ -1125,12 +1125,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "matilda.ernkrans@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ernkrans"
-  },  
- {
+  },
+  {
     "id": "mp_se_088",
     "name": "Mikael Eskilandersson",
     "country": "Sweden",
@@ -1138,12 +1138,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "mikael.eskilandersson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Eskilandersson"
-  },  
- {
+  },
+  {
     "id": "mp_se_089",
     "name": "Erik Ezelius",
     "country": "Sweden",
@@ -1151,12 +1151,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "erik.ezelius@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_090",
     "name": "Rashid Farivar",
     "country": "Sweden",
@@ -1164,12 +1164,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "rashid.farivar@­riksdagen.se",
     "usesX": true,
     "xHandle": "@RashidFarivar"
-  },  
- {
+  },
+  {
     "id": "mp_se_091",
     "name": "Runar Filper",
     "country": "Sweden",
@@ -1177,12 +1177,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "runar.filper@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_092",
     "name": "Kenneth G Forslund",
     "country": "Sweden",
@@ -1190,12 +1190,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "kenneth.g.forslund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@KGFdirekt"
-  },  
- {
+  },
+  {
     "id": "mp_se_093",
     "name": "Joar Forssell",
     "country": "Sweden",
@@ -1203,12 +1203,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "joar.forssell@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JoarForssell"
-  },  
- {
+  },
+  {
     "id": "mp_se_094",
     "name": "Josef Fransson",
     "country": "Sweden",
@@ -1216,12 +1216,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "josef.fransson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@FranssonJosef"
-  },  
- {
+  },
+  {
     "id": "mp_se_095",
     "name": "Kajsa Fredholm",
     "country": "Sweden",
@@ -1229,12 +1229,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "kajsa.fredholm@­riksdagen.se",
     "usesX": true,
     "xHandle": "@fredholmkajsa"
-  },  
- {
+  },
+  {
     "id": "mp_se_096",
     "name": "Ann-Christine Frohm",
     "country": "Sweden",
@@ -1242,12 +1242,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "ann-christine.frohm@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Anki_Utterstedt"
-  },  
- {
+  },
+  {
     "id": "mp_se_097",
     "name": "Isak From",
     "country": "Sweden",
@@ -1255,12 +1255,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "isak.from@­riksdagen.se",
     "usesX": true,
     "xHandle": "@FromIsak"
-  },  
- {
+  },
+  {
     "id": "mp_se_098",
     "name": "Merit Frost Lindberg",
     "country": "Sweden",
@@ -1268,12 +1268,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "merit.frost.lindberg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_099",
     "name": "Marianne Fundahn",
     "country": "Sweden",
@@ -1281,12 +1281,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "marianne.fundahn@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_100",
     "name": "Ida Gabrielsson",
     "country": "Sweden",
@@ -1294,12 +1294,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "ida.gabrielsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@idagabrielsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_101",
     "name": "Arber Gashi",
     "country": "Sweden",
@@ -1307,12 +1307,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "arber.gashi@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_102",
     "name": "Helena Gellerman",
     "country": "Sweden",
@@ -1320,12 +1320,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "helena.gellerman@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_103",
     "name": "Nima Gholam Ali Pour",
     "country": "Sweden",
@@ -1333,12 +1333,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "nima.gholam.ali.pour@­riksdagen.se",
     "usesX": true,
     "xHandle": "@nimagap"
-  },  
- {
+  },
+  {
     "id": "mp_se_104",
     "name": "Rasmus Giertz",
     "country": "Sweden",
@@ -1346,12 +1346,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "rasmus.giertz@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_105",
     "name": "Sara Gille",
     "country": "Sweden",
@@ -1359,12 +1359,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "sara.gille@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SaraGille1"
-  },  
- {
+  },
+  {
     "id": "mp_se_106",
     "name": "Samuel Gonzalez Westling",
     "country": "Sweden",
@@ -1372,12 +1372,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "samuel.gonzalez.westling@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_107",
     "name": "Mats Green",
     "country": "Sweden",
@@ -1385,12 +1385,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "mats.green@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MatsGreenM"
-  },  
- {
+  },
+  {
     "id": "mp_se_108",
     "name": "Leif Gripestam",
     "country": "Sweden",
@@ -1398,12 +1398,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "leif.gripestam@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Leif_Gripestam"
-  },  
- {
+  },
+  {
     "id": "mp_se_109",
     "name": "Jörgen Grubb",
     "country": "Sweden",
@@ -1411,12 +1411,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "jorgen.grubb@­riksdagen.se",
     "usesX": true,
     "xHandle": "@GrubbJorgen"
-  },  
- {
+  },
+  {
     "id": "mp_se_110",
     "name": "Hanna Gunnarsson",
     "country": "Sweden",
@@ -1424,12 +1424,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "hanna.gunnarsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@gunnarssonhanna"
-  },  
- {
+  },
+  {
     "id": "mp_se_111",
     "name": "Cecilia Gustafsson",
     "country": "Sweden",
@@ -1437,12 +1437,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "cecilia.gustafsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_112",
     "name": "Jytte Guteland",
     "country": "Sweden",
@@ -1450,12 +1450,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "jytte.guteland@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JytteGuteland"
-  },  
- {
+  },
+  {
     "id": "mp_se_113",
     "name": "Gustaf Göthberg",
     "country": "Sweden",
@@ -1463,12 +1463,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "gustaf.gothberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@gustafgothberg"
-  },  
- {
+  },
+  {
     "id": "mp_se_114",
     "name": "Tony Haddou",
     "country": "Sweden",
@@ -1476,12 +1476,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "tony.haddou@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_115",
     "name": "Monica Haider",
     "country": "Sweden",
@@ -1489,12 +1489,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "monica.haider@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Monicahaider"
-  },  
- {
+  },
+  {
     "id": "mp_se_116",
     "name": "Lena Hallengren",
     "country": "Sweden",
@@ -1502,12 +1502,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "lena.hallengren@­riksdagen.se",
     "usesX": true,
     "xHandle": "@lenahallengren"
-  },  
- {
+  },
+  {
     "id": "mp_se_117",
     "name": "Ann-Charlotte Hammar Johnsson",
     "country": "Sweden",
@@ -1515,12 +1515,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ann-charlotte.hammar.johnsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_118",
     "name": "Camilla Hansén",
     "country": "Sweden",
@@ -1528,12 +1528,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "camilla.hansen@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_119",
     "name": "Johanna Haraldsson",
     "country": "Sweden",
@@ -1541,12 +1541,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "johanna.haraldsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_120",
     "name": "Anna-Lena Hedberg",
     "country": "Sweden",
@@ -1554,12 +1554,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "anna-lena.hedberg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_121",
     "name": "Peter Hedberg",
     "country": "Sweden",
@@ -1567,12 +1567,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "peter.hedberg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_122",
     "name": "Roger Hedlund",
     "country": "Sweden",
@@ -1580,12 +1580,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "roger.hedlund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@rogerhedlund"
-  },  
- {
+  },
+  {
     "id": "mp_se_123",
     "name": "Ulrika Heie",
     "country": "Sweden",
@@ -1593,12 +1593,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "ulrika.heie@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_124",
     "name": "Ulrika Heindorff",
     "country": "Sweden",
@@ -1606,12 +1606,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ulrika.heindorff@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_125",
     "name": "Daniel Helldén",
     "country": "Sweden",
@@ -1619,12 +1619,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "daniel.hellden@­riksdagen.se",
     "usesX": true,
     "xHandle": "@DanielHellden"
-  },  
- {
+  },
+  {
     "id": "mp_se_126",
     "name": "Mats Hellhoff",
     "country": "Sweden",
@@ -1632,12 +1632,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "mats.hellhoff@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_127",
     "name": "Erik Hellsborn",
     "country": "Sweden",
@@ -1645,12 +1645,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "erik.hellsborn@­riksdagen.se",
     "usesX": true,
     "xHandle": "@EHellsborn"
-  },  
- {
+  },
+  {
     "id": "mp_se_128",
     "name": "Caroline Helmersson Olsson",
     "country": "Sweden",
@@ -1658,12 +1658,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "caroline.helmersson.olsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_129",
     "name": "Annika Hirvonen",
     "country": "Sweden",
@@ -1671,12 +1671,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "annika.hirvonen@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AnnikaHirvonen"
-  },  
- {
+  },
+  {
     "id": "mp_se_130",
     "name": "Ulf Holm",
     "country": "Sweden",
@@ -1684,12 +1684,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "ulf.holm@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_131",
     "name": "Dan Hovskär",
     "country": "Sweden",
@@ -1697,12 +1697,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "dan.hovskar@­riksdagen.se",
     "usesX": true,
     "xHandle": "@DanHovskar"
-  },  
- {
+  },
+  {
     "id": "mp_se_132",
     "name": "Peter Hultqvist",
     "country": "Sweden",
@@ -1710,12 +1710,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "peter.hultqvist@­riksdagen.se",
     "usesX": false,
     "xHandle": "@null"
-  },  
- {
+  },
+  {
     "id": "mp_se_133",
     "name": "Marie-Louise Hänel Sandström",
     "country": "Sweden",
@@ -1723,12 +1723,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "marie-louise.hanel.sandstrom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MarieLouise_HS"
-  },  
- {
+  },
+  {
     "id": "mp_se_134",
     "name": "Per-Arne Håkansson",
     "country": "Sweden",
@@ -1736,12 +1736,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "per-arne.hakansson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_135",
     "name": "Malin Höglund",
     "country": "Sweden",
@@ -1749,12 +1749,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "malin.hoglund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Moderatmalin"
-  },  
- {
+  },
+  {
     "id": "mp_se_136",
     "name": "Caroline Högström",
     "country": "Sweden",
@@ -1762,12 +1762,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "caroline.hogstrom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@CHogstrom"
-  },  
- {
+  },
+  {
     "id": "mp_se_137",
     "name": "Lars Isacsson",
     "country": "Sweden",
@@ -1775,12 +1775,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "lars.isacsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@IsacssonLars"
-  },  
- {
+  },
+  {
     "id": "mp_se_138",
     "name": "Magnus Jacobsson",
     "country": "Sweden",
@@ -1788,12 +1788,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "magnus.jacobsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@magnusjacobsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_139",
     "name": "Malcolm Momodou Jallow",
     "country": "Sweden",
@@ -1801,12 +1801,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "momodou-malcolm.jallow@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Jallow_M"
-  },  
- {
+  },
+  {
     "id": "mp_se_140",
     "name": "Kjell Jansson",
     "country": "Sweden",
@@ -1814,12 +1814,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "kjell.jansson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@KjellJansson4"
-  },  
- {
+  },
+  {
     "id": "mp_se_141",
     "name": "Lena Johansson",
     "country": "Sweden",
@@ -1827,12 +1827,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "lena.johansson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_142",
     "name": "Martina Johansson",
     "country": "Sweden",
@@ -1840,12 +1840,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "martina.johansson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_143",
     "name": "Morgan Johansson",
     "country": "Sweden",
@@ -1853,12 +1853,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "morgan.johansson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@johanssonmorgan"
-  },  
- {
+  },
+  {
     "id": "mp_se_144",
     "name": "Lotta Johnsson Fornarve",
     "country": "Sweden",
@@ -1866,12 +1866,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "lotta.johnsson.fornarve@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JFornarve"
-  },  
- {
+  },
+  {
     "id": "mp_se_145",
     "name": "Lars Johnsson",
     "country": "Sweden",
@@ -1879,12 +1879,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "lars.e.johnsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_146",
     "name": "Richard Jomshof",
     "country": "Sweden",
@@ -1892,12 +1892,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "richard.jomshof@­riksdagen.se",
     "usesX": true,
     "xHandle": "@RichardJomshof"
-  },  
- {
+  },
+  {
     "id": "mp_se_147",
     "name": "Anders W Jonsson",
     "country": "Sweden",
@@ -1905,12 +1905,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "anders.w.jonsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@anderswjonsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_148",
     "name": "Mattias Jonsson",
     "country": "Sweden",
@@ -1918,12 +1918,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mattias.jonsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@riksdagsmattias"
-  },  
- {
+  },
+  {
     "id": "mp_se_149",
     "name": "David Josefsson",
     "country": "Sweden",
@@ -1931,12 +1931,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "david.josefsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@david_josefsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_150",
     "name": "Ellen Juntti",
     "country": "Sweden",
@@ -1944,12 +1944,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ellen.juntti@­riksdagen.se",
     "usesX": true,
     "xHandle": "@EllenJuntti"
-  },  
- {
+  },
+  {
     "id": "mp_se_151",
     "name": "Joakim Järrebring",
     "country": "Sweden",
@@ -1957,12 +1957,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "joakim.jarrebring@­riksdagen.se",
     "usesX": true,
     "xHandle": "@jarrebring58096"
-  },  
- {
+  },
+  {
     "id": "mp_se_152",
     "name": "Patrik Jönsson",
     "country": "Sweden",
@@ -1970,12 +1970,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "patrik.jonsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_153",
     "name": "Markus Kallifatides",
     "country": "Sweden",
@@ -1983,12 +1983,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "markus.kallifatides@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_154",
     "name": "Arin Karapet",
     "country": "Sweden",
@@ -1996,12 +1996,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "arin.karapet@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ArinKarapet"
-  },  
- {
+  },
+  {
     "id": "mp_se_155",
     "name": "Ida Karkiainen",
     "country": "Sweden",
@@ -2009,12 +2009,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "ida.karkiainen@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_156",
     "name": "Patrik Karlson",
     "country": "Sweden",
@@ -2022,12 +2022,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "patrik.karlson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_157",
     "name": "Anders Karlsson",
     "country": "Sweden",
@@ -2035,12 +2035,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "anders.karlsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_158",
     "name": "Maj Karlsson",
     "country": "Sweden",
@@ -2048,12 +2048,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "maj.karlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@karlsson_maj"
-  },  
- {
+  },
+  {
     "id": "mp_se_159",
     "name": "Mattias Karlsson",
     "country": "Sweden",
@@ -2061,12 +2061,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "mattias.j.karlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@moderatkarlsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_160",
     "name": "Mattias Karlsson",
     "country": "Sweden",
@@ -2074,12 +2074,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "mattias.karlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@sdkarlsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_161",
     "name": "Niklas Karlsson",
     "country": "Sweden",
@@ -2087,12 +2087,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "niklas.karlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@niklaska"
-  },  
- {
+  },
+  {
     "id": "mp_se_162",
     "name": "Åsa Karlsson",
     "country": "Sweden",
@@ -2100,12 +2100,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "asa.karlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@kimasa62"
-  },  
- {
+  },
+  {
     "id": "mp_se_163",
     "name": "Kadir Kasirga",
     "country": "Sweden",
@@ -2113,12 +2113,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "kadir.kasirga@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_164",
     "name": "Ingemar Kihlström",
     "country": "Sweden",
@@ -2126,12 +2126,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "ingemar.kihlstrom@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_165",
     "name": "Martin Kinnunen",
     "country": "Sweden",
@@ -2139,12 +2139,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "martin.kinnunen@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Martin_Kinnunen"
-  },  
- {
+  },
+  {
     "id": "mp_se_166",
     "name": "Julia Kronlid",
     "country": "Sweden",
@@ -2152,12 +2152,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "julia.kronlid@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JuliaKronlid"
-  },  
- {
+  },
+  {
     "id": "mp_se_167",
     "name": "Tomas Kronståhl",
     "country": "Sweden",
@@ -2165,12 +2165,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "tomas.kronstahl@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_168",
     "name": "Kent Kumpula",
     "country": "Sweden",
@@ -2178,12 +2178,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "kent.kumpula@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_169",
     "name": "Fredrik Kärrholm",
     "country": "Sweden",
@@ -2191,12 +2191,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "fredrik.karrholm@­riksdagen.se",
     "usesX": true,
     "xHandle": "@FredrikKarrholm"
-  },  
- {
+  },
+  {
     "id": "mp_se_170",
     "name": "Serkan Köse",
     "country": "Sweden",
@@ -2204,12 +2204,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "serkan.kose@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SerkanK63678592"
-  },  
- {
+  },
+  {
     "id": "mp_se_171",
     "name": "Birger Lahti",
     "country": "Sweden",
@@ -2217,12 +2217,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "birger.lahti@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_172",
     "name": "Linus Lakso",
     "country": "Sweden",
@@ -2230,12 +2230,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "linus.lakso@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_173",
     "name": "Gustaf Lantz",
     "country": "Sweden",
@@ -2243,12 +2243,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "gustaf.lantz@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_174",
     "name": "Lars Mejern Larsson",
     "country": "Sweden",
@@ -2256,12 +2256,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "lars.mejern.larsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Mejern"
-  },  
- {
+  },
+  {
     "id": "mp_se_175",
     "name": "Malin Larsson",
     "country": "Sweden",
@@ -2269,12 +2269,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "malin.larsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_176",
     "name": "Mikael Larsson",
     "country": "Sweden",
@@ -2282,12 +2282,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "mikael.larsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_177",
     "name": "Stina Larsson",
     "country": "Sweden",
@@ -2295,12 +2295,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "stina.larsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_178",
     "name": "Anna Lasses",
     "country": "Sweden",
@@ -2308,12 +2308,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "anna.lasses@­riksdagen.se",
     "usesX": true,
     "xHandle": "@annalasses"
-  },  
- {
+  },
+  {
     "id": "mp_se_179",
     "name": "Rebecka Le Moine",
     "country": "Sweden",
@@ -2321,12 +2321,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "rebecka.le.moine@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Rebeckalemoine"
-  },  
- {
+  },
+  {
     "id": "mp_se_180",
     "name": "Zara Leghissa",
     "country": "Sweden",
@@ -2334,12 +2334,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "zara.leghissa@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_181",
     "name": "Andreas Lennkvist Manriquez",
     "country": "Sweden",
@@ -2347,12 +2347,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "andreas.lennkvist.manriquez@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_182",
     "name": "Sanne Lennström",
     "country": "Sweden",
@@ -2360,12 +2360,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "sanne.lennstrom@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_183",
     "name": "Joanna Lewerentz",
     "country": "Sweden",
@@ -2373,12 +2373,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "joanna.lewerentz@­riksdagen.se",
     "usesX": true,
     "xHandle": "@joannalewerentz"
-  },  
- {
+  },
+  {
     "id": "mp_se_184",
     "name": "Ann-Sofie Lifvenhage",
     "country": "Sweden",
@@ -2386,12 +2386,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ann-sofie.lifvenhage@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Lifvenhage"
-  },  
- {
+  },
+  {
     "id": "mp_se_185",
     "name": "Ulrika Liljeberg",
     "country": "Sweden",
@@ -2399,12 +2399,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "ulrika.liljeberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@UlrikaLiljeberg"
-  },  
- {
+  },
+  {
     "id": "mp_se_186",
     "name": "Amanda Lind",
     "country": "Sweden",
@@ -2412,12 +2412,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "amanda.lind@­riksdagen.se",
     "usesX": true,
     "xHandle": "@amandalind_"
-  },  
- {
+  },
+  {
     "id": "mp_se_187",
     "name": "Fredrik Lindahl",
     "country": "Sweden",
@@ -2425,12 +2425,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "fredrik.lindahl@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_188",
     "name": "Helena Lindahl",
     "country": "Sweden",
@@ -2438,12 +2438,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "helena.lindahl@­riksdagen.se",
     "usesX": true,
     "xHandle": "@HelenaLindahl"
-  },  
- {
+  },
+  {
     "id": "mp_se_189",
     "name": "Kristoffer Lindberg",
     "country": "Sweden",
@@ -2451,12 +2451,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "kristoffer.lindberg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_190",
     "name": "Linda Lindberg",
     "country": "Sweden",
@@ -2464,12 +2464,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "linda.lindberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@LindaLindbergs"
-  },  
- {
+  },
+  {
     "id": "mp_se_191",
     "name": "Christian Lindefjärd",
     "country": "Sweden",
@@ -2477,12 +2477,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "christian.lindefjard@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_192",
     "name": "Eva Lindh",
     "country": "Sweden",
@@ -2490,12 +2490,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "eva.lindh@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Eva_Lindh"
-  },  
- {
+  },
+  {
     "id": "mp_se_193",
     "name": "Ulf Lindholm",
     "country": "Sweden",
@@ -2503,12 +2503,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "ulf.lindholm@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_194",
     "name": "Fredrik Lindstål",
     "country": "Sweden",
@@ -2516,12 +2516,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "fredrik.lindstal@­riksdagen.se",
     "usesX": true,
     "xHandle": "@fredrik365"
-  },  
- {
+  },
+  {
     "id": "mp_se_195",
     "name": "Lars-Ingvar Ljungman",
     "country": "Sweden",
@@ -2529,12 +2529,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "lars-ingvar.ljungman@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_196",
     "name": "Katarina Luhr",
     "country": "Sweden",
@@ -2542,12 +2542,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "katarina.luhr@­riksdagen.se",
     "usesX": true,
     "xHandle": "@gialuhr"
-  },  
- {
+  },
+  {
     "id": "mp_se_197",
     "name": "Marléne Lund Kopparklint",
     "country": "Sweden",
@@ -2555,12 +2555,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "marlene.lund.kopparklint@­riksdagen.se",
     "usesX": true,
     "xHandle": "@FruKopparklint"
-  },  
- {
+  },
+  {
     "id": "mp_se_198",
     "name": "Angelica Lundberg",
     "country": "Sweden",
@@ -2568,12 +2568,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "angelica.lundberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AngelicaJkpg"
-  },  
- {
+  },
+  {
     "id": "mp_se_199",
     "name": "Kerstin Lundgren",
     "country": "Sweden",
@@ -2581,12 +2581,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "kerstin.lundgren@­riksdagen.se",
     "usesX": true,
     "xHandle": "@KerstinLundgren"
-  },  
- {
+  },
+  {
     "id": "mp_se_200",
     "name": "Fredrik Lundh Sammeli",
     "country": "Sweden",
@@ -2594,12 +2594,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "fredrik.lundh.sammeli@­riksdagen.se",
     "usesX": true,
     "xHandle": "@lundhsammeli"
-  },  
- {
+  },
+  {
     "id": "mp_se_201",
     "name": "Patrik Lundqvist",
     "country": "Sweden",
@@ -2607,12 +2607,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "patrik.lundqvist@­riksdagen.se",
     "usesX": true,
     "xHandle": "@PALundqvist"
-  },  
- {
+  },
+  {
     "id": "mp_se_202",
     "name": "Petter Löberg",
     "country": "Sweden",
@@ -2620,12 +2620,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "petter.loberg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_203",
     "name": "Johan Löfstrand",
     "country": "Sweden",
@@ -2633,12 +2633,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "johan.lofstrand@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_204",
     "name": "Adrian Magnusson",
     "country": "Sweden",
@@ -2646,12 +2646,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "adrian.magnusson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@adrianmagnussn"
-  },  
- {
+  },
+  {
     "id": "mp_se_205",
     "name": "Fredrik Malm",
     "country": "Sweden",
@@ -2659,12 +2659,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "fredrik.malm@­riksdagen.se",
     "usesX": true,
     "xHandle": "@FredrikMalm"
-  },  
- {
+  },
+  {
     "id": "mp_se_206",
     "name": "Magnus Manhammar",
     "country": "Sweden",
@@ -2672,12 +2672,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "magnus.manhammar@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_207",
     "name": "Noria Manouchi",
     "country": "Sweden",
@@ -2685,12 +2685,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "noria.manouchi@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_208",
     "name": "Adam Marttinen",
     "country": "Sweden",
@@ -2698,12 +2698,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "adam.marttinen@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AdamMarttinen"
-  },  
- {
+  },
+  {
     "id": "mp_se_209",
     "name": "Martin Melin",
     "country": "Sweden",
@@ -2711,12 +2711,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "martin.melin@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Martin_Melin"
-  },  
- {
+  },
+  {
     "id": "mp_se_210",
     "name": "Isabell Mixter",
     "country": "Sweden",
@@ -2724,12 +2724,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "isabell.mixter@­riksdagen.se",
     "usesX": true,
     "xHandle": "@isabellmixter"
-  },  
- {
+  },
+  {
     "id": "mp_se_211",
     "name": "Thomas Morell",
     "country": "Sweden",
@@ -2737,12 +2737,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "thomas.morell@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ThomasMorell12"
-  },  
- {
+  },
+  {
     "id": "mp_se_212",
     "name": "Azra Muranovic",
     "country": "Sweden",
@@ -2750,12 +2750,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "azra.muranovic@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AzraMuranovic"
-  },  
- {
+  },
+  {
     "id": "mp_se_213",
     "name": "Ola Möller",
     "country": "Sweden",
@@ -2763,12 +2763,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "ola.moller@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_214",
     "name": "Laila Naraghi",
     "country": "Sweden",
@@ -2776,12 +2776,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "laila.naraghi@­riksdagen.se",
     "usesX": true,
     "xHandle": "@lailanaraghi"
-  },  
- {
+  },
+  {
     "id": "mp_se_215",
     "name": "Marie Nicholson",
     "country": "Sweden",
@@ -2789,12 +2789,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "marie.nicholson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_216",
     "name": "Agneta Nilsson",
     "country": "Sweden",
@@ -2802,12 +2802,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "agneta.nilsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@med_agge"
-  },  
- {
+  },
+  {
     "id": "mp_se_217",
     "name": "Elin Nilsson",
     "country": "Sweden",
@@ -2815,12 +2815,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "elin.nilsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@nilsson_elin_"
-  },  
- {
+  },
+  {
     "id": "mp_se_218",
     "name": "Jennie Nilsson",
     "country": "Sweden",
@@ -2828,12 +2828,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "jennie.nilsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JennieNilsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_219",
     "name": "Ulrik Nilsson",
     "country": "Sweden",
@@ -2841,12 +2841,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "ulrik.nilsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ulriknilsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_220",
     "name": "Emma Nohrén",
     "country": "Sweden",
@@ -2854,12 +2854,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "emma.nohren@­riksdagen.se",
     "usesX": true,
     "xHandle": "@emmanohren"
-  },  
- {
+  },
+  {
     "id": "mp_se_221",
     "name": "Carl Nordblom",
     "country": "Sweden",
@@ -2867,12 +2867,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "carl.nordblom@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_222",
     "name": "Gudrun Nordborg",
     "country": "Sweden",
@@ -2880,12 +2880,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "gudrun.nordborg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_223",
     "name": "Rickard Nordin",
     "country": "Sweden",
@@ -2893,12 +2893,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "rickard.nordin@­riksdagen.se",
     "usesX": true,
     "xHandle": "@rickardnordin"
-  },  
- {
+  },
+  {
     "id": "mp_se_224",
     "name": "Lina Nordquist",
     "country": "Sweden",
@@ -2906,12 +2906,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "lina.nordquist@­riksdagen.se",
     "usesX": true,
     "xHandle": "@LinaNordquist"
-  },  
- {
+  },
+  {
     "id": "mp_se_225",
     "name": "Charlotte Nordström",
     "country": "Sweden",
@@ -2919,12 +2919,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "charlotte.nordstrom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SkaraCharlotte"
-  },  
- {
+  },
+  {
     "id": "mp_se_226",
     "name": "Susanne Nordström",
     "country": "Sweden",
@@ -2932,12 +2932,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "susanne.nordstrom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Simplisisimus"
-  },  
- {
+  },
+  {
     "id": "mp_se_227",
     "name": "Aylin Nouri",
     "country": "Sweden",
@@ -2945,12 +2945,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "aylin.nouri@­riksdagen.se",
     "usesX": true,
     "xHandle": "@aylin_nouri"
-  },  
- {
+  },
+  {
     "id": "mp_se_228",
     "name": "Katja Nyberg",
     "country": "Sweden",
@@ -2958,12 +2958,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "katja.nyberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Katja_Nyberg"
-  },  
- {
+  },
+  {
     "id": "mp_se_229",
     "name": "Ingela Nylund Watz",
     "country": "Sweden",
@@ -2971,12 +2971,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "ingela.nylund.watz@­riksdagen.se",
     "usesX": true,
     "xHandle": "@NylundWatz"
-  },  
- {
+  },
+  {
     "id": "mp_se_230",
     "name": "Leif Nysmed",
     "country": "Sweden",
@@ -2984,12 +2984,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "leif.nysmed@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_231",
     "name": "Helene Odenjung",
     "country": "Sweden",
@@ -2997,12 +2997,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "helene.odenjung@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_232",
     "name": "Robert Olesen",
     "country": "Sweden",
@@ -3010,12 +3010,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "robert.olesen@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_233",
     "name": "Mona Olin",
     "country": "Sweden",
@@ -3023,12 +3023,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "mona.olin@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_234",
     "name": "Peter Ollén",
     "country": "Sweden",
@@ -3036,12 +3036,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "peter.ollen@­riksdagen.se",
     "usesX": true,
     "xHandle": "@OllenPeter"
-  },  
- {
+  },
+  {
     "id": "mp_se_235",
     "name": "Jakob Olofsgård",
     "country": "Sweden",
@@ -3049,12 +3049,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "jakob.olofsgard@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_236",
     "name": "Fredrik Olovsson",
     "country": "Sweden",
@@ -3062,12 +3062,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "fredrik.olovsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@fredrikolovsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_237",
     "name": "Kalle Olsson",
     "country": "Sweden",
@@ -3075,12 +3075,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "kalle.olsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_238",
     "name": "Marie Olsson",
     "country": "Sweden",
@@ -3088,12 +3088,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "marie.olsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_239",
     "name": "Stefan Olsson",
     "country": "Sweden",
@@ -3101,12 +3101,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "stefan.olsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Spesam"
-  },  
- {
+  },
+  {
     "id": "mp_se_240",
     "name": "Magnus Oscarsson",
     "country": "Sweden",
@@ -3114,12 +3114,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "magnus.oscarsson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_241",
     "name": "Mikael Oscarsson",
     "country": "Sweden",
@@ -3127,12 +3127,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "mikael.oscarsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MikaelOscarsson"
-  },  
- {
+  },
+  {
     "id": "mp_se_242",
     "name": "Erik Ottoson",
     "country": "Sweden",
@@ -3140,12 +3140,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "erik.ottoson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ErikOttoson"
-  },  
- {
+  },
+  {
     "id": "mp_se_243",
     "name": "Kjell-Arne Ottosson",
     "country": "Sweden",
@@ -3153,12 +3153,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "kjell-arne.ottosson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@KAO_KD"
-  },  
- {
+  },
+  {
     "id": "mp_se_244",
     "name": "Mattias Ottosson",
     "country": "Sweden",
@@ -3166,12 +3166,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mattias.ottosson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MattiasOtto1"
-  },  
- {
+  },
+  {
     "id": "mp_se_245",
     "name": "Niels Paarup-Petersen",
     "country": "Sweden",
@@ -3179,12 +3179,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "niels.paarup-petersen@­riksdagen.se",
     "usesX": true,
     "xHandle": "@nielspaarup"
-  },  
- {
+  },
+  {
     "id": "mp_se_246",
     "name": "Eric Palmqvist",
     "country": "Sweden",
@@ -3192,12 +3192,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "eric.palmqvist@­riksdagen.se",
     "usesX": true,
     "xHandle": "palmqvist_erik"
-  },  
- {
+  },
+  {
     "id": "mp_se_247",
     "name": "Amanda Palmstierna",
     "country": "Sweden",
@@ -3205,12 +3205,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "amanda.palmstierna@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_248",
     "name": "David Perez",
     "country": "Sweden",
@@ -3218,12 +3218,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "david.perez@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_249",
     "name": "Daniel Persson",
     "country": "Sweden",
@@ -3231,12 +3231,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "daniel.persson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_250",
     "name": "Magnus Persson",
     "country": "Sweden",
@@ -3244,12 +3244,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "magnus.persson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MangePersson"
-  },  
- {
+  },
+  {
     "id": "mp_se_251",
     "name": "Mats Persson",
     "country": "Sweden",
@@ -3257,12 +3257,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "mats.persson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@matsperspektiv"
-  },  
- {
+  },
+  {
     "id": "mp_se_252",
     "name": "Helén Pettersson",
     "country": "Sweden",
@@ -3270,12 +3270,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "helen.pettersson@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_253",
     "name": "Ewa Pihl Krabbe",
     "country": "Sweden",
@@ -3283,12 +3283,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "ewa.pihl.krabbe@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_254",
     "name": "Lars Püss",
     "country": "Sweden",
@@ -3296,12 +3296,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "lars.puss@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_255",
     "name": "Charlotte Quensel",
     "country": "Sweden",
@@ -3309,12 +3309,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "charlotte.quensel@­riksdagen.se",
     "usesX": true,
     "xHandle": "@CQuensel"
-  },  
- {
+  },
+  {
     "id": "mp_se_256",
     "name": "Saila Quicklund",
     "country": "Sweden",
@@ -3322,12 +3322,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "saila.quicklund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@SQuicklund"
-  },  
- {
+  },
+  {
     "id": "mp_se_257",
     "name": "Thomas Ragnarsson",
     "country": "Sweden",
@@ -3335,12 +3335,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "thomas.ragnarsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@LjungbyThomas"
-  },  
- {
+  },
+  {
     "id": "mp_se_258",
     "name": "Johanna Rantsi",
     "country": "Sweden",
@@ -3348,12 +3348,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "johanna.rantsi@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_259",
     "name": "Lawen Redar",
     "country": "Sweden",
@@ -3361,12 +3361,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "lawen.redar@­riksdagen.se",
     "usesX": true,
     "xHandle": "@RedarLawen"
-  },  
- {
+  },
+  {
     "id": "mp_se_260",
     "name": "Magnus Resare",
     "country": "Sweden",
@@ -3374,12 +3374,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "magnus.resare@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MagnusResare"
-  },  
- {
+  },
+  {
     "id": "mp_se_261",
     "name": "Patrick Reslow",
     "country": "Sweden",
@@ -3387,12 +3387,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "patrick.reslow@­riksdagen.se",
     "usesX": true,
     "xHandle": "@patrickreslow"
-  },  
- {
+  },
+  {
     "id": "mp_se_262",
     "name": "Adam Reuterskiöld",
     "country": "Sweden",
@@ -3400,12 +3400,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "adam.reuterskiold@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AdamDidrik"
-  },  
- {
+  },
+  {
     "id": "mp_se_263",
     "name": "Daniel Riazat",
     "country": "Sweden",
@@ -3413,12 +3413,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "-",
+    "party": "Partilös (obunden)",
     "email": "daniel.riazat@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_264",
     "name": "Edward Riedl",
     "country": "Sweden",
@@ -3426,12 +3426,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "edward.riedl@­riksdagen.se",
     "usesX": true,
     "xHandle": "@EdwardRiedl"
-  },  
- {
+  },
+  {
     "id": "mp_se_265",
     "name": "Jan Riise",
     "country": "Sweden",
@@ -3439,12 +3439,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "jan.riise@­riksdagen.se",
     "usesX": true,
     "xHandle": "@RiiseJan"
-  },  
- {
+  },
+  {
     "id": "mp_se_266",
     "name": "Camilla Rinaldo Miller",
     "country": "Sweden",
@@ -3452,12 +3452,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "camilla.rinaldo.miller@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_267",
     "name": "Jacob Risberg",
     "country": "Sweden",
@@ -3465,12 +3465,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "jacob.risberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@KlimatJacob"
-  },  
- {
+  },
+  {
     "id": "mp_se_268",
     "name": "Jessica Rodén",
     "country": "Sweden",
@@ -3478,12 +3478,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "jessica.roden@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_269",
     "name": "Mauricio Rojas",
     "country": "Sweden",
@@ -3491,12 +3491,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "mauricio.rojas@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MauricioRojasmr"
-  },  
- {
+  },
+  {
     "id": "mp_se_270",
     "name": "Azadeh Rojhan",
     "country": "Sweden",
@@ -3504,12 +3504,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "azadeh.rojhan@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_271",
     "name": "Oliver Rosengren",
     "country": "Sweden",
@@ -3517,12 +3517,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "oliver.rosengren@­riksdagen.se",
     "usesX": true,
     "xHandle": "@OliverRosengren"
-  },  
- {
+  },
+  {
     "id": "mp_se_272",
     "name": "Michael Rubbestad",
     "country": "Sweden",
@@ -3530,12 +3530,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "michael.rubbestad@­riksdagen.se",
     "usesX": true,
     "xHandle": "@rubbestad"
-  },  
- {
+  },
+  {
     "id": "mp_se_273",
     "name": "Amalia Rud Stenlöf",
     "country": "Sweden",
@@ -3543,12 +3543,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "amalia.rud.stenlof@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_274",
     "name": "Mirja Räihä",
     "country": "Sweden",
@@ -3556,12 +3556,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mirja.raiha@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_275",
     "name": "Karin Rågsjö",
     "country": "Sweden",
@@ -3569,12 +3569,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "karin.ragsjo@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ragsjo"
-  },  
- {
+  },
+  {
     "id": "mp_se_276",
     "name": "Cecilia Rönn",
     "country": "Sweden",
@@ -3582,12 +3582,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "L",
+    "party": "Liberalerna",
     "email": "cecilia.ronn@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ceciliaronn"
-  },  
- {
+  },
+  {
     "id": "mp_se_277",
     "name": "Joakim Sandell",
     "country": "Sweden",
@@ -3595,12 +3595,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "joakim.sandell@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_278",
     "name": "Markus Selin",
     "country": "Sweden",
@@ -3608,12 +3608,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "markus.selin@­riksdagen.se",
     "usesX": true,
     "xHandle": "@selinmarkus"
-  },  
- {
+  },
+  {
     "id": "mp_se_279",
     "name": "Nils Seye Larsen",
     "country": "Sweden",
@@ -3621,12 +3621,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "nils.seye.larsen@­riksdagen.se",
     "usesX": true,
     "xHandle": "@NilsSeye"
-  },  
- {
+  },
+  {
     "id": "mp_se_280",
     "name": "Ardalan Shekarabi",
     "country": "Sweden",
@@ -3634,12 +3634,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "ardalan.shekarabi@­riksdagen.se",
     "usesX": true,
     "xHandle": "@shekarabi"
-  },  
- {
+  },
+  {
     "id": "mp_se_281",
     "name": "Niklas Sigvardsson",
     "country": "Sweden",
@@ -3647,12 +3647,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "niklas.sigvardsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Niklas1991"
-  },  
- {
+  },
+  {
     "id": "mp_se_282",
     "name": "Anna af Sillén",
     "country": "Sweden",
@@ -3660,12 +3660,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "anna.af.sillen@­riksdagen.se",
     "usesX": true,
     "xHandle": "@annaafsillen"
-  },  
- {
+  },
+  {
     "id": "mp_se_283",
     "name": "Annelie Sjöberg",
     "country": "Sweden",
@@ -3673,12 +3673,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "annelie.sjoberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AesgSjberg"
-  },  
- {
+  },
+  {
     "id": "mp_se_284",
     "name": "Inga-Lill Sjöblom",
     "country": "Sweden",
@@ -3686,12 +3686,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "inga-lill.sjoblom@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_285",
     "name": "Anne-Li Sjölund",
     "country": "Sweden",
@@ -3699,12 +3699,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "anne-li.sjolund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@sjolund_li"
-  },  
- {
+  },
+  {
     "id": "mp_se_286",
     "name": "Oscar Sjöstedt",
     "country": "Sweden",
@@ -3712,12 +3712,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "oscar.sjostedt@­riksdagen.se",
     "usesX": true,
     "xHandle": "@OscarSjostedt"
-  },  
- {
+  },
+  {
     "id": "mp_se_287",
     "name": "Jesper Skalberg Karlsson",
     "country": "Sweden",
@@ -3725,12 +3725,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "jesper.skalberg.karlsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JesperSkalberg"
-  },  
- {
+  },
+  {
     "id": "mp_se_288",
     "name": "Linus Sköld",
     "country": "Sweden",
@@ -3738,12 +3738,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "linus.skold@­riksdagen.se",
     "usesX": true,
     "xHandle": "@lskold"
-  },  
- {
+  },
+  {
     "id": "mp_se_289",
     "name": "Sofia Skönnbrink",
     "country": "Sweden",
@@ -3751,12 +3751,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "sofia.skonnbrink@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_290",
     "name": "Jessica Stegrud",
     "country": "Sweden",
@@ -3764,12 +3764,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "jessica.stegrud@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JessicaStegrud"
-  },  
- {
+  },
+  {
     "id": "mp_se_291",
     "name": "Robert Stenkvist",
     "country": "Sweden",
@@ -3777,12 +3777,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "robert.stenkvist@­riksdagen.se",
     "usesX": true,
     "xHandle": "@robertstenkvist"
-  },  
- {
+  },
+  {
     "id": "mp_se_292",
     "name": "Maria Stockhaus",
     "country": "Sweden",
@@ -3790,12 +3790,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "maria.stockhaus@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Mariastockhaus"
-  },  
- {
+  },
+  {
     "id": "mp_se_293",
     "name": "Helena Storckenfeldt",
     "country": "Sweden",
@@ -3803,12 +3803,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "helena.storckenfeldt@­riksdagen.se",
     "usesX": true,
     "xHandle": "@H_Storckenfeldt"
-  },  
- {
+  },
+  {
     "id": "mp_se_294",
     "name": "Annika Strandhäll",
     "country": "Sweden",
@@ -3816,12 +3816,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "annika.strandhall@­riksdagen.se",
     "usesX": true,
     "xHandle": "@strandhall"
-  },  
- {
+  },
+  {
     "id": "mp_se_295",
     "name": "Anna-Belle Strömberg",
     "country": "Sweden",
@@ -3829,12 +3829,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "anna-belle.stromberg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_296",
     "name": "Jimmy Ståhl",
     "country": "Sweden",
@@ -3842,12 +3842,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "jimmy.stahl@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_297",
     "name": "Karin Sundin",
     "country": "Sweden",
@@ -3855,12 +3855,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "karin.sundin@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_298",
     "name": "Johnny Svedin",
     "country": "Sweden",
@@ -3868,12 +3868,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "johnny.svedin@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_299",
     "name": "Håkan Svenneling",
     "country": "Sweden",
@@ -3881,12 +3881,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "hakan.svenneling@­riksdagen.se",
     "usesX": true,
     "xHandle": "@hsvenneling"
-  },  
- {
+  },
+  {
     "id": "mp_se_300",
     "name": "Jonathan Svensson",
     "country": "Sweden",
@@ -3894,12 +3894,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "jonathan.svensson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@TantanSvensson"
-  },  
- {
+  },
+  {
     "id": "mp_se_301",
     "name": "Oskar Svärd",
     "country": "Sweden",
@@ -3907,12 +3907,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "oskar.svard@­riksdagen.se",
     "usesX": true,
     "xHandle": "@osvard"
-  },  
- {
+  },
+  {
     "id": "mp_se_302",
     "name": "Ilona Szatmári Waldau",
     "country": "Sweden",
@@ -3920,12 +3920,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "ilona.waldau@­riksdagen.se",
     "usesX": true,
     "xHandle": "@IlonaWaldau"
-  },  
- {
+  },
+  {
     "id": "mp_se_303",
     "name": "Anna-Caren Sätherberg",
     "country": "Sweden",
@@ -3933,12 +3933,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "anna-caren.satherberg@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AnnaCarenS"
-  },  
- {
+  },
+  {
     "id": "mp_se_304",
     "name": "Björn Söder",
     "country": "Sweden",
@@ -3946,12 +3946,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "bjorn.soder@­riksdagen.se",
     "usesX": true,
     "xHandle": "@BjornSoder"
-  },  
- {
+  },
+  {
     "id": "mp_se_305",
     "name": "Larry Söder",
     "country": "Sweden",
@@ -3959,12 +3959,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "larry.soder@­riksdagen.se",
     "usesX": true,
     "xHandle": "@larrysoder"
-  },  
- {
+  },
+  {
     "id": "mp_se_306",
     "name": "Per Söderlund",
     "country": "Sweden",
@@ -3972,12 +3972,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "per.soderlund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@PerSoderlund_SD"
-  },  
- {
+  },
+  {
     "id": "mp_se_307",
     "name": "Mathias Tegnér",
     "country": "Sweden",
@@ -3985,12 +3985,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mathias.tegner@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_308",
     "name": "Elisabeth Thand Ringqvist",
     "country": "Sweden",
@@ -3998,12 +3998,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "elisabeth.thand.ringqvist@­riksdagen.se",
     "usesX": true,
     "xHandle": "@elisabethtr"
-  },  
- {
+  },
+  {
     "id": "mp_se_309",
     "name": "Olle Thorell",
     "country": "Sweden",
@@ -4011,12 +4011,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "olle.thorell@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Olle_Thorell"
-  },  
- {
+  },
+  {
     "id": "mp_se_310",
     "name": "Louise Thunström",
     "country": "Sweden",
@@ -4024,12 +4024,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "louise.thunstrom@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_311",
     "name": "Magdalena Thuresson",
     "country": "Sweden",
@@ -4037,12 +4037,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "magdalena.thuresson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@karlsson_maj"
-  },  
- {
+  },
+  {
     "id": "mp_se_312",
     "name": "Victoria Tiblom",
     "country": "Sweden",
@@ -4050,12 +4050,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "victoria.tiblom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@VTiblom"
-  },  
- {
+  },
+  {
     "id": "mp_se_313",
     "name": "Björn Tidland",
     "country": "Sweden",
@@ -4063,12 +4063,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "bjorn.tidland@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_314",
     "name": "Katarina Tolgfors",
     "country": "Sweden",
@@ -4076,12 +4076,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "katarina.tolgfors@­riksdagen.se",
     "usesX": true,
     "xHandle": "@KattisTolgfors"
-  },  
- {
+  },
+  {
     "id": "mp_se_315",
     "name": "Pia Trollehjelm",
     "country": "Sweden",
@@ -4089,12 +4089,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "pia.trollehjelm@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_316",
     "name": "Vasiliki Tsouplaki",
     "country": "Sweden",
@@ -4102,12 +4102,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "vasiliki.tsouplaki@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_317",
     "name": "Malte Tängmark Roos",
     "country": "Sweden",
@@ -4115,12 +4115,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "malte.roos@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_318",
     "name": "Roland Utbult",
     "country": "Sweden",
@@ -4128,12 +4128,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "KD",
+    "party": "Kristdemokraterna",
     "email": "roland.utbult@­riksdagen.se",
     "usesX": true,
     "xHandle": "@RolandUtbult"
-  },  
- {
+  },
+  {
     "id": "mp_se_319",
     "name": "Daniel Vencu Velasquez Castro",
     "country": "Sweden",
@@ -4141,12 +4141,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "daniel.vencu.velasquez.castro@­riksdagen.se",
     "usesX": true,
     "xHandle": "@VencuVelasquez"
-  },  
- {
+  },
+  {
     "id": "mp_se_320",
     "name": "Mattias Vepsä",
     "country": "Sweden",
@@ -4154,12 +4154,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mattias.vepsa@­riksdagen.se",
     "usesX": true,
     "xHandle": "@mattiasvepsa"
-  },  
- {
+  },
+  {
     "id": "mp_se_321",
     "name": "Anna Vikström",
     "country": "Sweden",
@@ -4167,12 +4167,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "anna.vikstrom@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AnnaVikstrom"
-  },  
- {
+  },
+  {
     "id": "mp_se_322",
     "name": "Helena Vilhelmsson",
     "country": "Sweden",
@@ -4180,12 +4180,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "helena.vilhelmsson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@centerhelena"
-  },  
- {
+  },
+  {
     "id": "mp_se_323",
     "name": "Henrik Vinge",
     "country": "Sweden",
@@ -4193,12 +4193,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "henrik.vinge@­riksdagen.se",
     "usesX": true,
     "xHandle": "@VingeHenrik"
-  },  
- {
+  },
+  {
     "id": "mp_se_324",
     "name": "Alexandra Völker",
     "country": "Sweden",
@@ -4206,12 +4206,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "alexandra.volker@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_325",
     "name": "Anna Wallentheim",
     "country": "Sweden",
@@ -4219,12 +4219,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "anna.wallentheim@­riksdagen.se",
     "usesX": true,
     "xHandle": "@walleannas"
-  },  
- {
+  },
+  {
     "id": "mp_se_326",
     "name": "Ciczie Weidby",
     "country": "Sweden",
@@ -4232,12 +4232,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "ciczie.weidby@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ciczie"
-  },  
- {
+  },
+  {
     "id": "mp_se_327",
     "name": "John E Weinerhall",
     "country": "Sweden",
@@ -4245,12 +4245,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "john.e.weinerhall@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_328",
     "name": "Jennie Wernäng",
     "country": "Sweden",
@@ -4258,12 +4258,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "jennie.wernang@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Jenniewer"
-  },  
- {
+  },
+  {
     "id": "mp_se_329",
     "name": "Hanna Westerén",
     "country": "Sweden",
@@ -4271,12 +4271,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "hanna.westeren@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_330",
     "name": "Ulrika Westerlund",
     "country": "Sweden",
@@ -4284,12 +4284,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "MP",
+    "party": "Miljöpartiet de gröna",
     "email": "ulrika.westerlund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@UlrikaW"
-  },  
- {
+  },
+  {
     "id": "mp_se_331",
     "name": "Åsa Westlund",
     "country": "Sweden",
@@ -4297,12 +4297,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "asa.westlund@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AsaWestlund"
-  },  
- {
+  },
+  {
     "id": "mp_se_332",
     "name": "Martin Westmont",
     "country": "Sweden",
@@ -4310,12 +4310,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "martin.westmont@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MartinWestmont"
-  },  
- {
+  },
+  {
     "id": "mp_se_333",
     "name": "Eric Westroth",
     "country": "Sweden",
@@ -4323,12 +4323,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "eric.westroth@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_334",
     "name": "Jessica Wetterling",
     "country": "Sweden",
@@ -4336,12 +4336,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "jessica.wetterling@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_335",
     "name": "Linnéa Wickman",
     "country": "Sweden",
@@ -4349,12 +4349,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "linnea.wickman@­riksdagen.se",
     "usesX": true,
     "xHandle": "@linneawickman"
-  },  
- {
+  },
+  {
     "id": "mp_se_336",
     "name": "Elsa Widding",
     "country": "Sweden",
@@ -4362,12 +4362,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "-",
+    "party": "Partilös (obunden)",
     "email": "elsa.widding@­riksdagen.se",
     "usesX": true,
     "xHandle": "@ElsaWidding"
-  },  
- {
+  },
+  {
     "id": "mp_se_337",
     "name": "John Widegren",
     "country": "Sweden",
@@ -4375,12 +4375,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "john.widegren@­riksdagen.se",
     "usesX": true,
     "xHandle": "@JohnWidegren"
-  },  
- {
+  },
+  {
     "id": "mp_se_338",
     "name": "Björn Wiechel",
     "country": "Sweden",
@@ -4388,12 +4388,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "bjorn.wiechel@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Bjorn_Wiechel"
-  },  
- {
+  },
+  {
     "id": "mp_se_339",
     "name": "Markus Wiechel",
     "country": "Sweden",
@@ -4401,12 +4401,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "markus.wiechel@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MarkusWiechel"
-  },  
- {
+  },
+  {
     "id": "mp_se_340",
     "name": "Mats Wiking",
     "country": "Sweden",
@@ -4414,12 +4414,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "mats.wiking@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_341",
     "name": "Viktor Wärnick",
     "country": "Sweden",
@@ -4427,12 +4427,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "viktor.warnick@­riksdagen.se",
     "usesX": true,
     "xHandle": "@viktorwarnick"
-  },  
- {
+  },
+  {
     "id": "mp_se_342",
     "name": "Anders Ygeman",
     "country": "Sweden",
@@ -4440,12 +4440,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "anders.ygeman@­riksdagen.se",
     "usesX": true,
     "xHandle": "@Ygeman"
-  },  
- {
+  },
+  {
     "id": "mp_se_343",
     "name": "Leonid Yurkovskiy",
     "country": "Sweden",
@@ -4453,12 +4453,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "leonid.yurkovskiy@­riksdagen.se",
     "usesX": true,
     "xHandle": "@LYurkovskiy"
-  },  
- {
+  },
+  {
     "id": "mp_se_344",
     "name": "Boriana Åberg",
     "country": "Sweden",
@@ -4466,12 +4466,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "M",
+    "party": "Moderaterna",
     "email": "boriana.aberg@­riksdagen.se",
     "usesX": false,
     "xHandle": null
-  },  
- {
+  },
+  {
     "id": "mp_se_345",
     "name": "Anders Ådahl",
     "country": "Sweden",
@@ -4479,12 +4479,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "anders.adahl@­riksdagen.se",
     "usesX": true,
     "xHandle": "@AdahlAnders"
-  },  
- {
+  },
+  {
     "id": "mp_se_346",
     "name": "Martin Ådahl",
     "country": "Sweden",
@@ -4492,12 +4492,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "C",
+    "party": "Centerpartiet",
     "email": "martin.adahl@­riksdagen.se",
     "usesX": true,
     "xHandle": "@MartinAadahl"
-  },  
- {
+  },
+  {
     "id": "mp_se_347",
     "name": "Jimmie Åkesson",
     "country": "Sweden",
@@ -4505,12 +4505,12 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "SD",
+    "party": "Sverigedemokraterna",
     "email": "jimmie.akesson@­riksdagen.se",
     "usesX": true,
     "xHandle": "@jimmieakesson"
-  },  
- {
+  },
+  {
     "id": "mp_se_348",
     "name": "Carina Ödebrink",
     "country": "Sweden",
@@ -4518,11 +4518,11 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "S",
+    "party": "Socialdemokraterna",
     "email": "carina.odebrink@­riksdagen.se",
     "usesX": true,
     "xHandle": "@carinaodebrink"
-  },  
+  },
   {
     "id": "mp_se_349",
     "name": "Malin Östh",
@@ -4531,7 +4531,7 @@
     "level": "national",
     "institution": "Riksdagen",
     "role": "MP",
-    "party": "V",
+    "party": "Vänsterpartiet",
     "email": "malin.osth@­riksdagen.se",
     "usesX": false,
     "xHandle": null
