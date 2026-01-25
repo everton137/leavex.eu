@@ -12,6 +12,7 @@
 {{ $nlmps := site.Data.politicians.nl.mps | default (slice) }}
 {{ $atmps := site.Data.politicians.at.mps | default (slice) }}
 {{ $demps := site.Data.politicians.de.mps | default (slice) }}
+{{ $semps := site.Data.politicians.se.mps | default (slice) }}
 
 {{/* EU */}}
 {{ $euTotal := len $meps }}
@@ -58,9 +59,9 @@
 {{ if gt $deTotal 0 }}{{ $dePct = mul (div (float $deOnX) (float $deTotal)) 100.0 }}{{ end }}
 
 {{/* NL */}}
-{{ $nlTotal := len $demps }}
+{{ $nlTotal := len $nlmps }}
 {{ $nlOnX := 0 }}
-{{ range $demps }}
+{{ range $nlmps }}
   {{ $st := lower (.xStatus | default "") }}
 
   {{/* If xStatus is present, it wins */}}
@@ -100,6 +101,28 @@
 {{ end }}
 {{ $atPct := 0.0 }}
 {{ if gt $atTotal 0 }}{{ $atPct = mul (div (float $atOnX) (float $atTotal)) 100.0 }}{{ end }}
+
+{{/* SE */}}
+{{ $seTotal := len $semps }}
+{{ $seOnX := 0 }}
+{{ range $semps }}
+  {{ $st := lower (.xStatus | default "") }}
+
+  {{/* If xStatus is present, it wins */}}
+  {{ if $st }}
+    {{ if eq $st "active" }}
+      {{ $seOnX = add $seOnX 1 }}
+    {{ end }}
+
+  {{/* Otherwise fall back to usesX */}}
+  {{ else }}
+    {{ if .usesX }}
+      {{ $seOnX = add $seOnX 1 }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $sePct := 0.0 }}
+{{ if gt $seTotal 0 }}{{ $sePct = mul (div (float $seOnX) (float $seTotal)) 100.0 }}{{ end }}
 
 {{/* Latest posts (language-aware) */}}
 {{ $posts := where site.RegularPages "Section" "posts" }}
@@ -259,6 +282,23 @@
         <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
         {{ $atOnX }} / {{ $atTotal }}
         · <a class="underline" href="{{ (site.GetPage "/politicians/at/").RelPermalink }}">AT Details</a>
+        </div>
+    </div>
+
+    <div>
+        <div class="flex items-baseline justify-between">
+        <div class="font-medium">Sweden</div>
+        <div class="text-sm text-neutral-600 dark:text-neutral-400">
+          {{ printf "%.0f" $sePct }}% still on X
+        </div>
+        </div>
+        <div class="mt-2 h-3 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
+        <div class="h-3 rounded-full bg-primary-600 dark:bg-blue-400" style="width: {{ printf "%.0f" $sePct }}%;"></div>
+        </div>
+
+        <div class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
+        {{ $seOnX }} / {{ $seTotal }}
+        · <a class="underline" href="{{ (site.GetPage "/politicians/se/").RelPermalink }}">SE Details</a>
         </div>
     </div>
 
