@@ -2,10 +2,9 @@
 title: "Quotes"
 description: "Quotes and ideas relevant to the abandoning of X and disinformation campaigns"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 Some curated ideas related to X, its owner's agenda, and disinformation campaigns. Here is a list of curated [news and articles](/news) relevant to this project.

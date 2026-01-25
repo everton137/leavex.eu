@@ -2,10 +2,9 @@
 title: "Über uns"
 description: "Über diesen offenen Brief"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 Diese Website dient als zentrale Plattform für **#LeaveX** und beherbergt den [Offenen Brief an alle europäischen Politikerinnen, Politiker und politischen Entscheidungsträger zum Verlassen von X/Twitter](../), verfasst am 06. Januar 2025, sowie Übersetzungen in verschiedene offizielle europäische Sprachen. Eine zur Unterstützung des Briefes initiierte [Petition](https://openpetition.eu/leavex) sammelte vor ihrem Abschluss **3.230 Unterschriften** aus ganz Europa.

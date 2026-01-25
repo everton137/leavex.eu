@@ -2,10 +2,10 @@
 title: "FAQ (Frequently Asked Questions)"
 description: "Frequently Asked Questions"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 

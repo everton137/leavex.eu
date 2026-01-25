@@ -2,10 +2,9 @@
 title: "Netzwerk"
 description: "Gleichgesinnte Gruppen, Bewegungen und Einzelpersonen"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 Ein Raum, um mit gleichgesinnten Gruppen, Bewegungen und Einzelpersonen in Kontakt zu treten, die sich für den Schutz der Demokratie und die Förderung transparenter, ethischer Kommunikation einsetzen.

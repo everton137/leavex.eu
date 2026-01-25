@@ -2,10 +2,9 @@
 title: "À propos"
 description: "À propos de cette lettre ouverte"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 Ce site web sert de plateforme centrale pour **#LeaveX** et héberge [la lettre ouverte adressée à l’ensemble des responsables et dirigeant·e·s politiques européens appelant à quitter X/Twitter](../), rédigée le 06 janvier 2025, ainsi que ses traductions dans plusieurs langues officielles européennes. Une [pétition](https://openpetition.eu/leavex) créée pour soutenir cette lettre a recueilli **3 230 signatures** à travers l’Europe avant sa clôture.

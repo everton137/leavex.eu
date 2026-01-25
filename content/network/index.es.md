@@ -2,10 +2,9 @@
 title: "Red"
 description: "Grupos, movimientos e individuos con ideas afines"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 Un espacio para conectar con grupos, movimientos y personas afines que comparten el compromiso de proteger la democracia y promover una comunicación transparente y ética.

@@ -2,10 +2,9 @@
 title: "About"
 description: "About this Open Letter"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 This website serves as the central platform for hosting **#LeaveX**, [An Open Letter to All European Politicians and Leaders to Abandon X/Twitter](/letter), written on 06 January 2025, along with translations into various official European languages. A [petition](https://openpetition.eu/leavex) created to support the letter gathered **3,230 signatures** across Europe before closing.

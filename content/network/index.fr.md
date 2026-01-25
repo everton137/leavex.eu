@@ -2,10 +2,9 @@
 title: "Réseau"
 description: "Groupes, mouvements et individus partageant les mêmes idées"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 Un espace pour se connecter avec des groupes, mouvements et individus partageant les mêmes idées, engagés à protéger la démocratie et à promouvoir une communication transparente et éthique.

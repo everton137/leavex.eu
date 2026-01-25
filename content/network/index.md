@@ -2,10 +2,9 @@
 title: "Network"
 description: "Like-minded groups, movements, and individuals"
 
-cascade:
-  showDate: false
-  showAuthor: false
-  showReadingTime: false
+showDate: false
+showAuthor: false
+showReadingTime: false
 ---
 
 A space to connect with like-minded groups, movements, and individuals who share a commitment to protecting democracy and promoting transparent, ethical communication.
