@@ -8,7 +8,7 @@ showTableOfContents: false
 ---
 
 {{< alert>}}
-On January 22, MEPs Alexandra Geese and Veronika Cifrová Ostrihoňová were contacted regarding these proposals. We will publish their responses here if they answer.
+On January 22, MEPs Alexandra Geese and Veronika Cifrová Ostrihoňová were contacted per email regarding these proposals. We will publish their responses here if they answer.
 {{< /alert >}}
 
 Dear Alexandra Geese, <br/>
