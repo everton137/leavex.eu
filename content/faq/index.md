@@ -12,16 +12,16 @@ showReadingTime: false
 
 ### What is *Leave X*?
 
-**Leave X - Protect Democracy** is a citizen-led initiative that raises awareness about the role of disinformation platforms in undermining democratic societies.
+'*Leave X - Protect Democracy*' is a citizen-led initiative that raises awareness about the role of disinformation platforms in undermining democratic societies.
 
-The project hosts **#LeaveX**, an [open letter to European politicians and leaders](/letter) calling on them to abandon X/Twitter. A supporting [petition](https://openpetition.eu/leavex) gathered **3,230 signatures** across Europe before closing.
+The project hosts *#LeaveX*, an [open letter to European politicians and leaders](/letter) calling on them to abandon X/Twitter. A supporting [petition](https://openpetition.eu/leavex) gathered **3,230 signatures** across Europe before closing.
 
 In addition, the website collects and publishes data on the continued use of X by political representatives across different European countries.
 
 
 ### Why focus on X (formerly Twitter)?
 
-We believe that democratic politics depends on **open, accountable, and civilized public dialogue**. X no longer provides an environment that supports these values.
+We believe that democratic politics depends on *open, accountable, and civilized public **dialogue***. X no longer provides an environment that supports these values.
 
 Politicians’ continued presence on X has concrete consequences:
 
@@ -38,17 +38,17 @@ I am Everton Zanella Alvarenga, a software engineer working at the intersection 
 
 Over the past two decades, I have led and contributed to international initiatives focused on transparency, digital rights, and democratic participation. This project is developed in my spare time.
 
-From the beginning, *Leave X – Protect Democracy* has been an **open-source and collaborative effort**. Contributors help by reviewing translations of the [open letter](/letter), sharing data about political representatives in their countries, and improving the website itself.
+From the beginning, *Leave X – Protect Democracy* has been an *open-source and collaborative effort*. Contributors help by reviewing translations of the [open letter](/letter), sharing data about political representatives in their countries, and improving the website itself.
 
 ## General Questions
 
 ### What does it mean to be “active” on X?
 
-A politician is considered **active on X** if they have an account and there is **no public statement** indicating that they have left the platform.
+A politician is considered '*active on X*' if they have an account and there is **no public statement** indicating that they have left the platform.
 
 This applies even if the account has not posted recently.
 
-If a politician wishes to be listed as **inactive** or "eXited," we require a **verifiable public statement** (for example, a post on your social media or an official announcement).
+If a politician wishes to be listed as *inactive* or '*eXited*,' we require a **verifiable public statement** (for example, a post on your social media or an official announcement).
 
 Such confirmation can be sent by email to [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) or via [Mastodon](https://mastodon.social/@leavex).  
 The statement will be published as a reference for transparency.
@@ -67,15 +67,15 @@ Corrections are welcome and encouraged.
 
 ### Is this a partisan or party-political initiative?
 
-No. *Leave X - Protect Democracy* is **non-partisan**.
+No. *Leave X - Protect Democracy* is *non-partisan*.
 
-The initiative does not endorse political parties or candidates. It focuses exclusively on the **structural risks posed by disinformation platforms** and the responsibility of public office holders to communicate in ways that uphold democratic values.
+The initiative does not endorse political parties or candidates. It focuses exclusively on the *structural risks posed by **disinformation platforms*** and the responsibility of public office holders to communicate in ways that uphold democratic values.
 
 ### Are you telling politicians to stop using social media altogether?
 
 No. The initiative does **not** argue against social media as such.
 
-It calls for politicians to **leave a specific platform** whose current governance, incentive structures, and moderation practices actively harm democratic discourse. And we propose using [alternative channels](/posts/concrete-european-alternatives-to-x/) that better support transparency and accountability.
+It calls for politicians to *leave a specific platform* whose current governance, incentive structures, and moderation practices actively harm democratic discourse. And we propose using [alternative channels](/posts/concrete-european-alternatives-to-x/) that better support transparency and accountability.
 
 ### Shouldn’t I stay on social networks to "provide opposition"?
 
@@ -90,7 +90,7 @@ In short, remaining on such platforms often amplifies them, legitimizes their ro
 
 We agree that other large social media platforms, such as Facebook (Meta), TikTok, and others, also pose serious problems for democratic discourse.
 
-This campaign focuses on **X** because it plays a unique role in political communication. Statements published on X are frequently quoted and amplified by traditional media outlets, including by organizations and individuals who have already left the platform themselves.
+This campaign *focuses on X* because it plays a unique role in political communication. Statements published on X are frequently quoted and amplified by traditional media outlets, including by organizations and individuals who have already left the platform themselves.
 
 As a result, X continues to *shape public debate* far beyond its own user base, making political disengagement from the platform both urgent and symbolically important.
 
