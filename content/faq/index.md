@@ -109,4 +109,4 @@ You can contribute in several ways:
 - Share the project with civil-society groups, individuals or journalists
 - Contribute directly to the website via [GitHub](https://github.com/everton137/leavex.eu)
 
-Suggestions and ideas are always welcome at [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) or a message on [Mastodon](https://mastodon.social/@leavex)
+Suggestions and ideas are always welcome at [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) or a message on [Mastodon](https://mastodon.social/@leavex).
