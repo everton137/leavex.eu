@@ -27,6 +27,7 @@ Politicians’ continued presence on X has concrete consequences:
 
 - Statements made on X are routinely *amplified by traditional media*.
 - Citizens and journalists are effectively *forced onto the platform* in order to follow their representatives.
+- Visibility on X is driven by *conflict-based engagement*. Even pro-democratic activity contributes to platform growth and thereby amplifies an anti-democratic dynamic (details [here](#shouldnt-i-stay-on-social-networks-to-provide-opposition)).
 - The platform has become associated with *disinformation, harassment, and hate speech*.
 - Platform governance decisions increasingly *conflict with democratic norms and public accountability*.
 
