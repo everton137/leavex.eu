@@ -14,6 +14,11 @@
   weight = 30
 
 [[main]]
+  name = "FAQ"
+  pageRef = "faq"
+  weight = 30
+
+[[main]]
 name = "Languages"
 weight = 999
 

@@ -23,8 +23,7 @@ However, the vision extends far beyond online engagement. Through this platform,
 
 {{< youtube ElqFlkUXavM >}}
 
-
-If you have suggestions, corrections, or ideas, feel free to email us at [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X). You can contribute to this site on [GitHub](https://github.com/everton137/leavex.eu).
+For answers to common questions about the initiative, its scope, data sources, and guiding principles, please see the [FAQ](/faq). If you have suggestions, corrections, or ideas, feel free to email us at [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X). You can contribute to this site on [GitHub](https://github.com/everton137/leavex.eu).
 
 
 Contacts: [{{< icon "email" >}}](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) [{{< icon "mastodon" >}}](https://mastodon.social/@leavex) [{{< icon "bluesky" >}}](https://bsky.app/profile/leavex.eu) [{{< icon "instagram" >}}](https://gram.social/leavex) [{{< icon "github" >}}](https://github.com/everton137/leavex.eu)
