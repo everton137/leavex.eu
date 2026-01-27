@@ -50,8 +50,9 @@ This applies even if the account has not posted recently.
 
 If a politician wishes to be listed as *inactive* or '*eXited*,' we require a **verifiable public statement** (for example, a post on your social media or an official announcement).
 
-Such confirmation can be sent by email to [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) or via [Mastodon](https://mastodon.social/@leavex).  
-The statement will be published as a reference for transparency.
+If you publicly state that you left or deleted your X account, you can send such confirmation by email [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) or via [Mastodon](https://mastodon.social/@leavex). An statement per email for us can be published as a reference for transparency.
+
+
 
 ### Where does your data come from?
 
