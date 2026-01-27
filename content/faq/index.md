@@ -90,7 +90,7 @@ In short, remaining on such platforms often amplifies them, legitimizes their ro
 
 ### Why focus only on X?
 
-We agree that other large social media platforms, such as Facebook (Meta), TikTok, and others, also pose serious problems for democratic discourse.
+We agree that other large social media platforms, such as Facebook (Meta), Instagram (Meta), TikTok, and others, also pose serious problems for democratic discourse.
 
 This campaign *focuses on X* because it plays a unique role in political communication. Statements published on X are frequently quoted and amplified by traditional media outlets, including by organizations and individuals who have already left the platform themselves.
 
