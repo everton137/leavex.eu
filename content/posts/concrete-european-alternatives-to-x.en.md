@@ -7,6 +7,10 @@ author: "Everton Zanella Alvarenga"
 showTableOfContents: false
 ---
 
+{{< alert>}}
+On January 22, MEPs Alexandra Geese and Veronika Cifrová Ostrihoňová were contacted regarding these proposals. We will publish their responses here if they answer.
+{{< /alert >}}
+
 Dear Alexandra Geese, <br/>
 Dear Veronika Cifrová Ostrihoňová, <br/>
 Dear fellow signatories and Members of the European Parliament,
@@ -37,3 +41,8 @@ Your letter powerfully argues that public authorities should avoid communicating
 The challenge remains significant, however: [**nearly 60% of Members of the European Parliament are still active on X**](/politicians), which highlights the scale of the problem and the need for clear, visible institutional leadership. To support such leadership in practice, initiatives that recognise and encourage [peer persuasion](/posts/leave-x-peer-persuasion-award/) among MEPs could also play a constructive role.
 
 I hope that these words will now be followed by concrete action.
+
+
+#### See also
+
+- [OpenPortability Research Project](https://iscpif.fr/openportability/en/research/), by Institut des Systèmes Complexes de Paris ÎdF, France
