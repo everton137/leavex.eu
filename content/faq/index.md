@@ -19,7 +19,7 @@ The project hosts *#LeaveX*, an [open letter to European politicians and leaders
 In addition, the website collects and publishes data on the continued use of X by political representatives across different European countries.
 
 
-### Why focus on X (formerly Twitter)?
+### Why focus on X?
 
 We believe that democratic politics depends on *open, accountable, and civilized public **dialogue***. X no longer provides an environment that supports these values.
 
@@ -88,13 +88,16 @@ Our core reasoning is explained in detail in [Why the argument that you have to 
 In short, remaining on such platforms often amplifies them, legitimizes their role in public discourse, and forces democratic debate to take place on infrastructures that are neither neutral nor accountable.
 
 
-### Why focus only on X?
+###  Why not include other harmful social media platforms?
 
-We agree that other large social media platforms, such as Facebook (Meta), Instagram (Meta), TikTok, and others, also pose serious problems for democratic discourse.
+We agree that other major social media platforms, including Facebook and Instagram (both owned by Meta), as well as TikTok, pose serious threats to democratic discourse.
 
-This campaign *focuses on X* because it plays a unique role in political communication. Statements published on X are frequently quoted and amplified by traditional media outlets, including by organizations and individuals who have already left the platform themselves.
+This campaign focuses on X because of its unique role in political communication. As explained in [why focus on X](#why-focus-on-x), statements published on the platform are often amplified by traditional media, shaping public debate far beyond its own user base.
 
-As a result, X continues to *shape public debate* far beyond its own user base, making political disengagement from the platform both urgent and symbolically important.
+More broadly, we address why staying on social media platforms "to provide opposition" is a flawed argument (see [Shouldn’t I stay on social networks to provide opposition?](#shouldnt-i-stay-on-social-networks-to-provide-opposition)).
+
+For similar initiatives targeting other platforms, see for example the [Delete Facebook](https://deletefacebook.com) campaign.
+
 
 ### How can I contribute?
 
