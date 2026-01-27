@@ -96,7 +96,7 @@ This campaign focuses on X because of its unique role in political communication
 
 More broadly, we address why staying on social media platforms "to provide opposition" is a flawed argument (see [Shouldn’t I stay on social networks to provide opposition?](#shouldnt-i-stay-on-social-networks-to-provide-opposition)).
 
-For similar initiatives targeting other platforms, see for example the [Delete Facebook](https://deletefacebook.com) campaign.
+For similar initiatives targeting other platforms, see for example the [Delete Facebook](https://deletefacebook.com), [Delete Instagram](https://www.deleteinstagram.com), and [Delete TikTok](https://deletetiktok.com) websites
 
 
 ### How can I contribute?
