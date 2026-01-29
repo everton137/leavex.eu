@@ -280,8 +280,11 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "gerolf.annemans@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@gannemans",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_257123",
@@ -1707,8 +1710,11 @@
     "party": "Renew Europe Group",
     "euGroupFull": "Renew Europe Group",
     "email": "olivier.chastel@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@OChastel",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_124861",
@@ -2239,8 +2245,11 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "elio.dirupo@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@eliodirupo",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_256874",
@@ -4386,8 +4395,11 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "assita.kanko@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@Assita_Kanko",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_197401",
@@ -5901,7 +5913,7 @@
     "usesX": false,
     "xHandle": null,
     "source": "manual",
-    "updatedAt": "2026-01-22"
+    "updatedAt": "2026-01-21"
   },
   {
     "id": "mep_197497",
@@ -8764,8 +8776,11 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "bruno.tobback@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@brunotobback",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_197402",
@@ -9145,8 +9160,11 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "kathleen.vanbrempt@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@kvanbrempt",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_257438",
@@ -9201,8 +9219,14 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "kris.vandijck@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@KrisVanDijck1",
+    "xStatus": "exited",
+    "xLeftAt": "2020-07-02",
+    "xNotes": "Ik ervaar vandaag opnieuw dat twitter gewoon dient om op de man te spelen, en vooral door linkse klojos. Ik sluit mijn account. Het leven is mooier zonder twitter. :)Arrivederci, adios, goodbye, salut, adieu.",
+    "xLastArchiveUrl": "https://archive.is/DP55W",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_256978",
@@ -9257,8 +9281,11 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "johan.vanovertveldt@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@jvanovertveldt",
+    "xStatus": "active",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_197870",
@@ -9622,7 +9649,13 @@
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "thomas.waitz@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@thomaswaitz"
+    "xHandle": "@thomaswaitz",
+    "xStatus": "exited",
+    "xLeftAt": "2025-01-25",
+    "xNotes": "Baba und fall ned. Elon Musk unterstützt Rechtsextreme und verwandelt seine Plattform in eine Hass- und Desinformationsschleuder. Es reicht. Ihr findet mich in Zukunft nur noch im Blauen Himmel.",
+    "xLastArchiveUrl": "https://archive.is/hfNRe",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mep_197863",
