@@ -9,8 +9,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "t.aartsen@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@StasIenW",
+    "source": "manual",
+    "updatedAt": "2026-01-28"
   },
   {
     "id": "mp_nl_003",
@@ -38,7 +40,9 @@
     "party": "pvda",
     "email": "f.abdi@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-28"
   },
   {
     "id": "mp_nl_005",
@@ -200,7 +204,9 @@
     "party": "d66",
     "email": "a.biekman@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-28"
   },
   {
     "id": "mp_nl_017",
@@ -226,7 +232,9 @@
     "party": "cda",
     "email": "l.boelsma@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-28"
   },
   {
     "id": "mp_nl_019",
@@ -329,8 +337,10 @@
     "role": "MP",
     "party": "cda",
     "email": "B.vdbrink@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@BartvdBrink",
+    "source": "manual",
+    "updatedAt": "2026-01-28"
   },
   {
     "id": "mp_nl_027",
@@ -368,8 +378,10 @@
     "role": "MP",
     "party": "cda",
     "email": "j.buhler@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@JudithBuhler",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_030",
@@ -434,7 +446,9 @@
     "party": "ja21",
     "email": "s.ceulemans@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_035",
@@ -444,7 +458,7 @@
     "level": "national",
     "institution": "Tweede Kamer",
     "role": "MP",
-    "party": "pvv",
+    "party": "Groep Markuszower",
     "email": "r.claassen@tweedekamer.nl",
     "usesX": true,
     "xHandle": "@claassen_pvv"
@@ -472,8 +486,10 @@
     "role": "MP",
     "party": "ja21",
     "email": "i.coenradie@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@IngridCoenradie",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_038",
@@ -486,7 +502,13 @@
     "party": "volt",
     "email": "l.dassen@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": "@DassenLaurens",
+    "xStatus": "exited",
+    "xLeftAt": "2025-01-13",
+    "xNotes": "Je kunt me blijven volgen op de kanalen in deze link: linktr.ee/laurens.dassen. Ik hoop je daar te zien. Wil je ons helpen in onze missie? Word dan lid: volt.team/simple-join/nl-NL",
+    "xLastArchiveUrl": "https://archive.is/AZSH7",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_039",
@@ -512,7 +534,9 @@
     "party": "pvv",
     "email": "t.vdijck@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_041",
@@ -524,8 +548,10 @@
     "role": "MP",
     "party": "sgp",
     "email": "d.j.h.vdijk@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@djhvandijk",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_042",
@@ -537,8 +563,10 @@
     "role": "MP",
     "party": "cda",
     "email": "i.vdijk@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@i_dijk",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_043",
@@ -550,8 +578,10 @@
     "role": "MP",
     "party": "d66",
     "email": "h.dijk@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@Heera_Dijk",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_044",
@@ -563,8 +593,10 @@
     "role": "MP",
     "party": "pvv",
     "email": "e.vdijk@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@vandijkPVV",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_045",
@@ -602,8 +634,10 @@
     "role": "MP",
     "party": "fvd",
     "email": "p.vduijvenvoorde@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@PeterFVD",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_048",
@@ -628,8 +662,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "w.veijk-nagel@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@wveijknagel",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_050",
@@ -642,7 +678,9 @@
     "party": "d66",
     "email": "s.elboujdaini@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_051",
@@ -719,8 +757,10 @@
     "role": "MP",
     "party": "ja21",
     "email": "m.goudzwaard@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@MGoudzwaard058",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_057",
@@ -771,8 +811,10 @@
     "role": "MP",
     "party": "cda",
     "email": "s.hamstra@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@HamstraSarath",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_061",
@@ -784,8 +826,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "e.heinen@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@eelcoheinen",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_062",
@@ -795,10 +839,12 @@
     "level": "national",
     "institution": "Tweede Kamer",
     "role": "MP",
-    "party": "pvv",
+    "party": "Groep Markuszower",
     "email": "h.heutink@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@HDHeutink",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_063",
@@ -810,8 +856,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "r.dhollander@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@renatemas",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_064",
@@ -860,10 +908,12 @@
     "level": "national",
     "institution": "Tweede Kamer",
     "role": "MP",
-    "party": "pvv",
+    "party": "Groep Markuszower",
     "email": "t.thove@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_068",
@@ -888,8 +938,10 @@
     "role": "MP",
     "party": "d66",
     "email": "r.huizenga@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@RenildeHuizenga",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_070",
@@ -940,8 +992,10 @@
     "role": "MP",
     "party": "cda",
     "email": "h.jumelet@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@HenkJumelet",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_074",
@@ -953,8 +1007,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "v.karremans@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@vincentkar",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_075",
@@ -992,8 +1048,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "a.kisteman@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@arendkisteman",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_078",
@@ -1018,8 +1076,10 @@
     "role": "MP",
     "party": "d66",
     "email": "f.klos@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@Felix_Klos",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_080",
@@ -1031,8 +1091,10 @@
     "role": "MP",
     "party": "cda",
     "email": "j.koorevaar@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@JAKoorevaar",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_081",
@@ -1071,7 +1133,9 @@
     "party": "d66",
     "email": "u.koese@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_084",
@@ -1133,10 +1197,12 @@
     "level": "national",
     "institution": "Tweede Kamer",
     "role": "MP",
-    "party": "pvv",
+    "party": "Groep Markuszower",
     "email": "a.lammers@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_089",
@@ -1149,7 +1215,9 @@
     "party": "cda",
     "email": "m.vlanschot@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_090",
@@ -1175,7 +1243,8 @@
     "party": "pvv",
     "email": "v.maeijer@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": "@VickyMaeijer",
+    "xLeftAt": "2023-11-23"
   },
   {
     "id": "mp_nl_092",
@@ -1185,10 +1254,12 @@
     "level": "national",
     "institution": "Tweede Kamer",
     "role": "MP",
-    "party": "pvv",
+    "party": "Groep Markuszower",
     "email": "g.markuszower@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@GidiMarkuszower",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_093",
@@ -1200,8 +1271,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "c.martens-america@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@ClaireMartens3",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_094",
@@ -1213,8 +1286,10 @@
     "role": "MP",
     "party": "pvv",
     "email": "r.vmeetelen@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@MeetelenRachel",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_095",
@@ -1263,7 +1338,7 @@
     "level": "national",
     "institution": "Tweede Kamer",
     "role": "MP",
-    "party": "pvv",
+    "party": "Groep Markuszower",
     "email": "n.moinat@tweedekamer.nl",
     "usesX": true,
     "xHandle": "@NicoleMoinat"
@@ -1330,8 +1405,10 @@
     "role": "MP",
     "party": "ja21",
     "email": "a.nanninga@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@ANanninga",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_104",
@@ -1356,8 +1433,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "j.nobel@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@JurgenNobel",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_106",
@@ -1382,8 +1461,10 @@
     "role": "MP",
     "party": "d66",
     "email": "h.oosterhuis@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@HJOosterhuis",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_108",
@@ -1500,7 +1581,9 @@
     "party": "pvv",
     "email": "e.prickaertz@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_117",
@@ -1512,8 +1595,10 @@
     "role": "MP",
     "party": "pvv",
     "email": "a.raijer@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@ARaijer_PVV",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_118",
@@ -1551,8 +1636,10 @@
     "role": "MP",
     "party": "pvv",
     "email": "r.deroon@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@RaymondRoonPVV",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_121",
@@ -1575,10 +1662,12 @@
     "level": "national",
     "institution": "Tweede Kamer",
     "role": "MP",
-    "party": "pvv",
+    "party": "Groep Markuszower",
     "email": "j.schilder@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_123",
@@ -1591,7 +1680,9 @@
     "party": "d66",
     "email": "j.schoonis@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_124",
@@ -1604,7 +1695,9 @@
     "party": "vvd",
     "email": "b.schutz@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": "@bjorn_schutz",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_125",
@@ -1642,8 +1735,10 @@
     "role": "MP",
     "party": "sgp",
     "email": "c.stoffer@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@chris_stoffer",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_128",
@@ -1681,8 +1776,10 @@
     "role": "MP",
     "party": "50plus",
     "email": "j.struijs@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@JanStruijs",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_131",
@@ -1733,8 +1830,10 @@
     "role": "MP",
     "party": "cda",
     "email": "e.tijmstra@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@EvelineTijmstra",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_135",
@@ -1760,7 +1859,9 @@
     "party": "d66",
     "email": "m.vellinga-beemsterboer@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_137",
@@ -1786,7 +1887,9 @@
     "party": "d66",
     "email": "m.vervuurt@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_139",
@@ -1812,7 +1915,9 @@
     "party": "pvda",
     "email": "l.vliegenthart@tweedekamer.nl",
     "usesX": false,
-    "xHandle": null
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_141",
@@ -1837,8 +1942,10 @@
     "role": "MP",
     "party": "pvv",
     "email": "m.vondeling@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@VondelingMarina",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_143",
@@ -1863,8 +1970,10 @@
     "role": "MP",
     "party": "vvd",
     "email": "h.wendel@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@wendel_hilde",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_145",
@@ -1876,8 +1985,10 @@
     "role": "MP",
     "party": "d66",
     "email": "j.vdwerf@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@hannekevdwerf",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_146",
@@ -1941,8 +2052,10 @@
     "role": "MP",
     "party": "pvda",
     "email": "a.zalinyan@tweedekamer.nl",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@ZalinyanAni",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_nl_151",
