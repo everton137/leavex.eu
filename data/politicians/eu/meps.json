@@ -9240,7 +9240,13 @@
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "reinier.vanlanschot@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@rlanschot"
+    "xHandle": "@rlanschot",
+    "xStatus": "exited",
+    "xLeftAt": "2025-01-07",
+    "xNotes": "...  over a year ago I decided to delete the app for the many reasons you are all aware of. At the same time, Volt Nederland - my party - also left the platform, becoming the first political party to do so in the Netherlands.",
+    "xLastArchiveUrl": "https://mastodon.social/@leavex/115984372330367901",
+    "source": "manual",
+    "updatedAt": "2026-01-30"
   },
   {
     "id": "mep_256983",
