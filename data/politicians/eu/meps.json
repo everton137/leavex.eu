@@ -5687,7 +5687,13 @@
     "euGroupFull": "Group of the Greens/European Free Alliance",
     "email": "sara.matthieu@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@msaraswati"
+    "xHandle": "@msaraswati",
+    "xStatus": "exited",
+    "xLeftAt": "2026-02-03",
+    "xNotes": "X was convicted for violations of the EU Digital Services Act. Its chatbot Grok is under investigation for generating sexually images, including of minors. This platform is no longer compatible with European law and values. Follow me on Bluesky: https://bsky.app/profile/saramatthieu.bsky.social",
+    "xLastArchiveUrl": "https://nitter.net/msaraswati/status/2018685367587688931",
+    "source": "manual",
+    "updatedAt": "2026-02-03"
   },
   {
     "id": "mep_124691",
