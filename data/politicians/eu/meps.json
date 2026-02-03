@@ -1965,8 +1965,10 @@
     "party": "Group of the European People's Party (Christian Democrats)",
     "euGroupFull": "Group of the European People's Party (Christian Democrats)",
     "email": "pauloalexandre.matoscunha@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@PauloCunhaVNF"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-02-03"
   },
   {
     "id": "mep_257028",
@@ -3376,8 +3378,10 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "bruno.goncalves@europarl.europa.eu",
-    "usesX": true,
-    "xHandle": "@brunog2504"
+    "usesX": false,
+    "xHandle": null,
+    "source": "manual",
+    "updatedAt": "2026-02-03"
   },
   {
     "id": "mep_257079",
