@@ -56,13 +56,13 @@
         "description": "Full name political party in European parlement"
       },
       "email": {
-        "type": "string",
+        "type": ["string", "null"],
         "format": "email",
         "description": "Official email address"
       },
       "usesX": {
         "type": "boolean",
-        "description": "Whether the representative uses X (formerly Twitter)"
+        "description": "A politician is considered \"active on X\" if they have an account and there is no public statement indicating that they have left the platform. This applies even if the account has not posted recently."
       },
       "xHandle": {
         "type": ["string", "null"],
@@ -74,7 +74,7 @@
         "description": "Status on X"
       },
       "xLeftAt": {
-        "type": "string",
+        "type": ["string", "null"],
         "format": "date",
         "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
         "description": "Date the person left X"
