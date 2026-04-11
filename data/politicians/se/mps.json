@@ -3195,7 +3195,9 @@
     "party": "Sverigedemokraterna",
     "email": "eric.palmqvist@riksdagen.se",
     "usesX": true,
-    "xHandle": "palmqvist_erik"
+    "xHandle": "@palmqvist_erik",
+    "source": "manual",
+    "updatedAt": "2026-01-29"
   },
   {
     "id": "mp_se_247",
