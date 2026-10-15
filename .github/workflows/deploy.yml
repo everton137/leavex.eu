@@ -26,7 +26,7 @@ jobs:
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          hugo-version: "0.168.0"
           extended: true
 
       - name: Build Congo assets

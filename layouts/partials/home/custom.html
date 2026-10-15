@@ -8,11 +8,11 @@
 {{ $openLetterPage := site.GetPage $openLetterPath }}
 
 {{/* DATA */}}
-{{ $meps := site.Data.politicians.eu.meps | default (slice) }}
-{{ $nlmps := site.Data.politicians.nl.mps | default (slice) }}
-{{ $atmps := site.Data.politicians.at.mps | default (slice) }}
-{{ $demps := site.Data.politicians.de.mps | default (slice) }}
-{{ $semps := site.Data.politicians.se.mps | default (slice) }}
+{{ $meps := hugo.Data.politicians.eu.meps | default (slice) }}
+{{ $nlmps := hugo.Data.politicians.nl.mps | default (slice) }}
+{{ $atmps := hugo.Data.politicians.at.mps | default (slice) }}
+{{ $demps := hugo.Data.politicians.de.mps | default (slice) }}
+{{ $semps := hugo.Data.politicians.se.mps | default (slice) }}
 
 {{/* EU */}}
 {{ $euTotal := len $meps }}

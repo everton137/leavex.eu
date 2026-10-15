@@ -65,7 +65,7 @@
 <div id="politician-list" class="politician-list"></div>
 
 {{ $path := .Params.dataPath | default (slice "politicians" "eu" "meps") }}
-{{ $data := collections.Index .Site.Data $path }} 
+{{ $data := collections.Index hugo.Data $path }} 
 
 <script>
   window.POLITICIANS = {{ $data | jsonify }};
