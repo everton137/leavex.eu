@@ -1,6 +1,7 @@
 ---
 title: "An Open Letter to President Zelenskyy: Leave X"
 description: "An appeal to Ukraine's president to reduce his dependence on X and help show that democratic communication does not need to rely on platforms owned by a single billionaire."
+date: 2026-10-15
 aliases: ["/letters/zelenskyy/"]
 ---
 
