@@ -23,7 +23,7 @@ In January 2025, I published [an open letter to European politicians](/letter/) 
 
 If you decided to publish your statements through independent channels, journalists around the world would follow. Your words matter because you are the president of a country fighting for its survival, not because they appear on a particular social network.
 
-The same principle applies to any platform controlled by a single individual, including Telegram, which plays such a central role in communication within Ukraine. My concern is not one company, but the dependence of democratic voices on infrastructure that no public institution controls.
+The same principle applies to any platform controlled by a single individual, including Telegram, which plays such a central role in communication within Ukraine. My concern is not one company, but the dependence of democratic voices on infrastructure controlled by unaccountable private owners.
 
 On top of that, there is another dimension that makes your situation particularly difficult.
 
