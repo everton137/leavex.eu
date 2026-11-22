@@ -7,6 +7,10 @@ author: "Everton Zanella Alvarenga"
 showTableOfContents: false
 ---
 
+{{< alert >}}
+**Correction (22 November 2026):** We had missed the X accounts of 22 MEPs: 15 from Poland, six from Czechia and one from Croatia. With these added, [our current data](/politicians) shows 442 of 719 MEPs (61%) active on X, including all 53 from Poland. The figures and rankings below are from January and have not been recalculated. We are still checking for other missing accounts.
+{{< /alert >}}
+
 Despite repeated warnings about X’s growing moderation failures, disinformation risks, and instability, many Members of the European Parliament (MEPs) continue to rely on the platform for public communication. To better understand this landscape, we compiled a dataset of [all current MEPs](/politicians) and checked whether they still have an account on X.
 
 The tables below show two rankings based on this data:
@@ -15,7 +19,7 @@ The tables below show two rankings based on this data:
 
 These rankings are based on the proportion of each group’s members who continue to use X, not just absolute numbers, offering a clearer picture of where platform dependency remains strongest within the Parliament.
 
-If you know of an inactive politician, we would be glad to update the statistics. Contact us  [leavex@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex), or [@leavex.bsky.social](https://bsky.app/profile/leavex.eu), and inform us of the X handle. If an MEP has declared that they quit X, we would appreciate an https://archive.is link to their post.
+If you know of an inactive politician, we would be glad to update the statistics. Contact us  [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex), or [@leavex.bsky.social](https://bsky.app/profile/leavex.eu), and inform us of the X handle. If an MEP has declared that they quit X, we would appreciate an https://archive.is link to their post.
 
 ### MEPs by X usage status
 
