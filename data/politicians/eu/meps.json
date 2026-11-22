@@ -974,8 +974,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "tobiasz.bochenski@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@TABochenski",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_197439",
@@ -1212,8 +1214,10 @@
     "party": "Non-attached Members",
     "euGroupFull": "Non-attached Members",
     "email": "grzegorz.braun@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@GrzegorzBraun_",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_251324",
@@ -1288,8 +1292,10 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "anna.brylka@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@annabrylka",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_128483",
@@ -1316,8 +1322,10 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "tomasz.buczek@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@buczek_tomasz",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_125012",
@@ -1344,8 +1352,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "waldemar.buda@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@waldemar_buda",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257047",
@@ -2442,8 +2452,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "michal.dworczyk@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@michaldworczyk",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_237465",
@@ -3460,8 +3472,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "malgorzata.gosiewska@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@MMGosiewska",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_97399",
@@ -4129,8 +4143,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "patryktomasz.jaki@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@PatrykJaki",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_256992",
@@ -4381,8 +4397,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "mariusz.kaminski@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@Kaminski_M_",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_197839",
@@ -6524,8 +6542,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "daniel.obajtek@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@DanielObajtek",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257010",
@@ -6670,8 +6690,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "jacek.ozdoba@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@OzdobaJacek",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_129073",
@@ -8111,8 +8133,10 @@
     "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "krzysztof.smiszek@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@K_Smiszek",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_256910",
@@ -8354,8 +8378,10 @@
     "party": "Group of the European People's Party (Christian Democrats)",
     "euGroupFull": "Group of the European People's Party (Christian Democrats)",
     "email": "davorivo.stier@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@DavorIvoStier",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257025",
@@ -8494,8 +8520,10 @@
     "party": "Europe of Sovereign Nations Group",
     "euGroupFull": "Europe of Sovereign Nations Group",
     "email": "marcin.sypniewski@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@MarSypniewski",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257026",
@@ -9085,8 +9113,10 @@
     "party": "Europe of Sovereign Nations Group",
     "euGroupFull": "Europe of Sovereign Nations Group",
     "email": "stanislaw.tyszka@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@styszka",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_197763",
@@ -9756,8 +9786,10 @@
     "party": "European Conservatives and Reformists Group",
     "euGroupFull": "European Conservatives and Reformists Group",
     "email": "maciej.wasik@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@WasikMaciej",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257045",
