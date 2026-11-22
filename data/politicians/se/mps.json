@@ -1986,7 +1986,9 @@
     "party": "Sverigedemokraterna",
     "email": "eric.palmqvist@riksdagen.se",
     "usesX": false,
-    "xHandle": "palmqvist_erik"
+    "xHandle": "@palmqvist_erik",
+    "source": "manual",
+    "updatedAt": "2026-11-14"
   },
   {
     "id": "mp_se_248",

@@ -4937,7 +4937,9 @@
     "party": "cdu/csu",
     "email": null,
     "usesX": true,
-    "xHandle": "@Andrea Lindholz"
+    "xHandle": "@AndreaLindholz",
+    "source": "manual",
+    "updatedAt": "2026-01-30"
   },
   {
     "id": "mp_de_381",
