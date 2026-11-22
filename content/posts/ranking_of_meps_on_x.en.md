@@ -19,7 +19,7 @@ The tables below show two rankings based on this data:
 
 These rankings are based on the proportion of each group’s members who continue to use X, not just absolute numbers, offering a clearer picture of where platform dependency remains strongest within the Parliament.
 
-If you know of an inactive politician, we would be glad to update the statistics. Contact us  [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex), or [@leavex.bsky.social](https://bsky.app/profile/leavex.eu), and inform us of the X handle. If an MEP has declared that they quit X, we would appreciate an https://archive.is link to their post.
+If you know of an inactive politician, we would be glad to update the statistics. Contact us  [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X), [@leavex@mastodon.social](https://mastodon.social/@leavex), or [@leavex.eu](https://bsky.app/profile/leavex.eu), and inform us of the X handle. If an MEP has declared that they quit X, we would appreciate an https://archive.is link to their post.
 
 ### MEPs by X usage status
 
