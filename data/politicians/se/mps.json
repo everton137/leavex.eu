@@ -1738,8 +1738,10 @@
     "role": "MP",
     "party": "Moderaterna",
     "email": "ulrik.nilsson@riksdagen.se",
-    "usesX": false,
-    "xHandle": "@ulriknilsson"
+    "usesX": true,
+    "xHandle": "@ulriknilsson",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mp_se_220",
@@ -1986,9 +1988,9 @@
     "party": "Sverigedemokraterna",
     "email": "eric.palmqvist@riksdagen.se",
     "usesX": false,
-    "xHandle": "@palmqvist_erik",
+    "xHandle": null,
     "source": "manual",
-    "updatedAt": "2026-11-14"
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mp_se_248",
@@ -2078,8 +2080,10 @@
     "role": "MP",
     "party": "Moderaterna",
     "email": "magnus.resare@riksdagen.se",
-    "usesX": false,
-    "xHandle": "@MagnusResare"
+    "usesX": true,
+    "xHandle": "@MagnusResare",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mp_se_261",
