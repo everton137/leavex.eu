@@ -30,10 +30,9 @@ jobs:
           extended: true
 
       - name: Build Congo assets
-        working-directory: themes/congo
         run: |
-          npm ci
-          npm run build
+          npm ci --prefix themes/congo
+          npm run build:css
 
       - name: Build site
         run: hugo --minify

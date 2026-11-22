@@ -16,8 +16,8 @@ The petition itself is hosted separately at
 ## Tech stack
 
 - **Hugo** (static site generator, extended version)
-- **Congo** theme (customized, included as a Git submodule)
-- **Tailwind CSS** (compiled inside the theme)
+- **Congo** theme (unmodified upstream, included as a Git submodule)
+- **Tailwind CSS** (compiled from the site root)
 - **GitHub Pages** for deployment
 
 ---
@@ -28,16 +28,17 @@ The petition itself is hosted separately at
 .
 ├── content/                # Hugo content (posts, letter translations, pages)
 ├── layouts/                # Custom Hugo templates and overrides
+├── assets/                 # Custom CSS, JS and icons
 ├── themes/
-│   └── congo/               # Congo theme (Git submodule, with local modifications)
+│   └── congo/              # Congo theme (Git submodule, do not edit)
 ├── static/                 # Static assets
 ├── .github/workflows/      # GitHub Actions deployment workflow
 └── README.md
 ```
 
 **Important:**  
-The Congo theme is included as a **Git submodule** and contains local customizations (notably Tailwind configuration).  
-It must be initialized and built before running the site locally.
+The Congo theme is included as a **Git submodule**, pinned to an unmodified upstream release. All customizations live in this repository.  
+The submodule must be initialized and the CSS built before running the site locally, otherwise some styles will be missing.
 
 ---
 
@@ -46,9 +47,9 @@ It must be initialized and built before running the site locally.
 ### Prerequisites
 
 - Git
-- Hugo **extended**  
+- Hugo **extended** (deployment uses the version set in `.github/workflows/deploy.yml`)  
   https://gohugo.io/installation/
-- Node.js (required to build Tailwind CSS inside the theme)
+- Node.js 20.19 or later (required to build Tailwind CSS; deployment uses Node 26)
 
 ---
 
@@ -65,35 +66,21 @@ If you already cloned the repository without submodules:
 git submodule update --init --recursive
 ```
 
-### 2. Build the theme assets (required)
+### 2. Install the build dependencies
 
-Tailwind CSS is built inside the Congo theme directory.
-
-```bash
-cd themes/congo
-npm install
-npm run build
-cd ../..
-```
-
-This step is required:
-- once per machine
-- whenever Tailwind-related files change
-
-If you already cloned the repository without submodules:
+Run this from the repository root, once after cloning and again whenever the theme is updated:
 
 ```bash
-cd themes/congo
-npm install
-npm run build
-cd ../..
+npm ci --prefix themes/congo
 ```
 
 ### 3. Start the local development server
 
 ```bash
-3. Start the local development server
+npm run dev
 ```
+
+This builds the CSS and then starts Hugo. If you add Tailwind classes while the server is running, run `npm run build:css` to regenerate the CSS.
 
 The site will be available at:
 - http://localhost:1313
@@ -131,14 +118,22 @@ You can contribute by:
 
 Please open an issue or a pull request.
 
-Working with the Congo theme
-- The Congo theme lives in themes/congo and is included as a Git submodule.
+## Working with the Congo theme
 
-If your change affects the theme:
-1. commit your changes inside themes/congo first
-1. push them to the theme repository
-1. then commit the updated submodule pointer in this repository
+Do not edit files inside `themes/congo`. Customize the theme from this repository instead:
+- templates: copy the file to the same path under `layouts/` and edit the copy
+- styles: edit `assets/css/custom.css`
+- Tailwind classes: use them in `layouts/` or `content/`, they are picked up by `npm run build:css`
+
+To update Congo to a new release (replace `vX.Y.Z` with its tag):
+
+```bash
+git -C themes/congo fetch --tags origin
+git -C themes/congo checkout vX.Y.Z
+npm ci --prefix themes/congo
+npm run dev   # check the site, including your overridden templates
+git add themes/congo
+git commit -m "Update Congo to vX.Y.Z"
+```
 
 If you are not familiar with Git submodules, feel free to ask for help in an issue or pull request.
-
-

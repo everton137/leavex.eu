@@ -2,7 +2,7 @@
   "name": "leavex-site",
   "private": true,
   "scripts": {
-    "build:css": "cd themes/congo && npm run build",
+    "build:css": "NODE_ENV=production ./themes/congo/node_modules/tailwindcss/lib/cli.js -c ./themes/congo/tailwind.config.js -i ./themes/congo/assets/css/main.css -o ./assets/css/compiled/main.css --jit",
     "dev": "npm run build:css && hugo serve",
     "build": "npm run build:css && hugo --minify"
   }
