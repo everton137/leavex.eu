@@ -49,6 +49,8 @@ A politician is considered '*active on X*' if they have an account and there is 
 
 This applies even if the account has not posted recently.
 
+A suspended account does not count as *active* while it is suspended. It only counts as '*eXited*' if the politician has also publicly stated that they left.
+
 If a politician wishes to be listed as *inactive* or '*eXited*,' we require a **verifiable public statement** (for example, a post on your social media or an official announcement).
 
 If you publicly state that you left or deleted your X account, you can send such confirmation by email [leavexeu@pm.me](mailto:leavexeu%40pm.me?subject=Ideas%20for%20Leave%20X) or via [Mastodon](https://mastodon.social/@leavex). A statement per email for us can be published as a reference for transparency.

@@ -1458,8 +1458,10 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "jaroslav.bzoch@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@JaroslavBzoch",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_256915",
@@ -2037,8 +2039,10 @@
     "party": "Europe of Sovereign Nations Group",
     "euGroupFull": "Europe of Sovereign Nations Group",
     "email": "ivan.david@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@IvanDav73523299",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257122",
@@ -2376,8 +2380,10 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "klara.dostalova@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@DostalovaK",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_256851",
@@ -4618,8 +4624,10 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "jaroslav.knot@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@jaroslavknot",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257037",
@@ -7070,8 +7078,10 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "jaroslava.pokornajermanova@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@JermanovaStKraj",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_257145",
@@ -8296,8 +8306,10 @@
     "party": "Patriots for Europe Group",
     "euGroupFull": "Patriots for Europe Group",
     "email": "antonin.stanek@europarl.europa.eu",
-    "usesX": false,
-    "xHandle": null
+    "usesX": true,
+    "xHandle": "@StanekAntonin",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_58766",

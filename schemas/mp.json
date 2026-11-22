@@ -62,7 +62,7 @@
       },
       "usesX": {
         "type": "boolean",
-        "description": "A politician is considered \"active on X\" if they have an account and there is no public statement indicating that they have left the platform. This applies even if the account has not posted recently."
+        "description": "A politician is considered \"active on X\" if they have an account and there is no public statement indicating that they have left the platform. This applies even if the account has not posted recently. Suspended accounts do not count as active while suspended, and only count as \"exited\" if there is a public statement of leaving."
       },
       "xHandle": {
         "type": ["string", "null"],
