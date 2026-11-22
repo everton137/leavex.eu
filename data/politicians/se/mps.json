@@ -3135,19 +3135,6 @@
     "xHandle": null
   },
   {
-    "id": "mp_se_373",
-    "name": "Mårten Blix",
-    "country": "Sweden",
-    "countryCode": "SE",
-    "level": "national",
-    "institution": "Riksdagen",
-    "role": "MP",
-    "party": "Moderaterna",
-    "email": "marten.blix@riksdagen.se",
-    "usesX": true,
-    "xHandle": "@MpBlix"
-  },
-  {
     "id": "mp_se_374",
     "name": "Katarina Bosetti-Kristoffersson",
     "country": "Sweden",
@@ -4537,5 +4524,20 @@
     "email": "carina.orgard@riksdagen.se",
     "usesX": false,
     "xHandle": null
+  },
+  {
+    "id": "mp_se_481",
+    "name": "Josefin Malmqvist",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "level": "national",
+    "institution": "Riksdagen",
+    "role": "MP",
+    "party": "Moderaterna",
+    "email": "josefin.malmqvist@riksdagen.se",
+    "usesX": true,
+    "xHandle": "@JMalmqvist",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   }
 ]
