@@ -1573,7 +1573,9 @@
     "euGroupFull": "Renew Europe Group",
     "email": "benoit.cassart@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@i"
+    "xHandle": "@BenoitCassart",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_256921",
@@ -2238,7 +2240,9 @@
     "euGroupFull": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
     "email": "vasile.dincu@europarl.europa.eu",
     "usesX": true,
-    "xHandle": "@i"
+    "xHandle": "@VasileDincu",
+    "source": "manual",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": "mep_1294",
