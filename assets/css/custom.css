@@ -1,9 +1,25 @@
-/* Congo dark mode uses a .dark class (not only prefers-color-scheme).
-   Support BOTH so the toggle always works. */
-:root.dark,
-html.dark,
-body.dark {
-  /* You can optionally tweak overall page surfaces here if needed */
+/* Design tokens, taken from the active Congo color scheme.
+   Congo stores colors as "r, g, b", hence the rgb() wrappers. */
+:root {
+  --surface: rgb(var(--color-neutral));
+  --hairline-color: rgb(var(--color-neutral-200));
+  --muted-color: rgb(var(--color-neutral-600));
+  --primary: rgb(var(--color-primary-600));
+  --color-primary: var(--primary);
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+/* Congo's dark mode toggle sets a .dark class on <html>. */
+html.dark {
+  --surface: rgb(var(--color-neutral-800));
+  --hairline-color: rgb(var(--color-neutral-700));
+  --muted-color: rgb(var(--color-neutral-300));
+  --primary: rgb(var(--color-primary-300));
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.2);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
 
 
